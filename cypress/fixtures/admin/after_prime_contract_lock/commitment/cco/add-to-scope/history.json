@@ -1,0 +1,25 @@
+{
+    "project_id": "236",
+    "_id": "5d5fbf1ff4f95000104ab5f6",
+    "type": "Commitment Change Order Add to Scope",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Commitment Change Order - Add To Scope created successfully"
+                    ],
+                    "specific_action": "CCO Add to Scope Created"
+                }
+            ],
+            "created_on": 1566555935986,
+            "action": "Created CCO Add to Scope"
+        }
+    ],
+    "__v": 0
+}

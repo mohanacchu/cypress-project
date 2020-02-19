@@ -1,0 +1,92 @@
+{
+  "line_items": [
+    {
+      "data": {
+        "_id": "5d03356e9f7acc000f090d97",
+        "item_id": "1553166613631168",
+        "item_parent": "0",
+        "is_leaf": false,
+        "description": null,
+        "pc_custom_child": true,
+        "open_pcco_id": null,
+        "name": "Masonry",
+        "cost_code": "040000"
+      },
+      "children": [
+        {
+          "data": {
+            "_id": "5d03356e9f7acc000f090d94",
+            "item_id": "1553166613631170",
+            "item_parent": "1553166613631168",
+            "is_leaf": false,
+            "description": null,
+            "pc_custom_child": true,
+            "open_pcco_id": null,
+            "name": "Brick and Mortar",
+            "cost_code": "042113"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "data": {
+        "_id": "5d03356e9f7acc000f090d9c",
+        "item_id": "1553166613633265",
+        "item_parent": "0",
+        "is_leaf": false,
+        "description": null,
+        "pc_custom_child": true,
+        "open_pcco_id": null,
+        "name": "Finishes",
+        "cost_code": "090000"
+      },
+      "children": [
+        {
+          "data": {
+            "_id": "5d03356e9f7acc000f090d99",
+            "item_id": "1553166613633267",
+            "item_parent": "1553166613633265",
+            "is_leaf": false,
+            "description": null,
+            "pc_custom_child": true,
+            "open_pcco_id": null,
+            "name": "Stucco",
+            "cost_code": "092423"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "data": {
+        "_id": "5d03356e9f7acc000f090da1",
+        "item_id": "1553166613635356",
+        "item_parent": "0",
+        "is_leaf": false,
+        "description": null,
+        "pc_custom_child": true,
+        "open_pcco_id": null,
+        "name": "Plumbing",
+        "cost_code": "220000"
+      },
+      "children": [
+        {
+          "data": {
+            "_id": "5d03356e9f7acc000f090d9e",
+            "item_id": "1553166613635369",
+            "item_parent": "1553166613635356",
+            "is_leaf": false,
+            "description": null,
+            "pc_custom_child": true,
+            "open_pcco_id": null,
+            "name": "Grease Trap",
+            "cost_code": "221323"
+          },
+          "children": []
+        }
+      ]
+    }
+  ],
+  "total_before": 676462
+}

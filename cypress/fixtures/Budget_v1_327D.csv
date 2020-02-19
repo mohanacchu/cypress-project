@@ -1,0 +1,350 @@
+cost_code,name,original_budget,cost_type,company
+0,General Conditions,31190,Subcontractor,Katerra
+0,General Conditions,9850,Subcontractor,Katerra
+0,General Conditions,7500,Subcontractor,Katerra
+1,Non-Reimbursable,1000,Subcontractor,
+1,Non-Reimbursable,3000,Subcontractor,
+3146,Permits,700,Subcontractor,Katerra
+6000,Project Forms,1700,Subcontractor,Katerra
+6276,Sales Tax,2400,Subcontractor,
+6276,Sales Tax,5600,Subcontractor,
+6276,Sales Tax,4020,Subcontractor,
+6536,Warranty,4100,Subcontractor,
+7200,General Conditions,20150,Subcontractor,
+7201,Project Executive,1000,Direct Labor,
+7202,Sr. Project Manager,700,Direct Labor,
+7203,Project Manager,1700,Direct Labor,
+7204,Assistant Project Manager,2400,Direct Labor,Katerra
+7205,Area Manager,4100,Direct Labor,
+7206,Sr. Superintendent,1070,Direct Labor,Katerra
+7207,Superintendent,770,Direct Labor,
+7208,Assistant Superintendent,1770,Direct Labor,Katerra
+7209,Sr. Project Engineer,2470,Direct Labor,
+7210,Project Engineer II,4170,Direct Labor,Katerra
+7319,Health and Safety Requirements,1140,Direct Labor,
+10000,General Requirements,141275,General Conditions,Katerra
+10001,Postage / UPS/FedEx,9800,General Conditions,Katerra
+10001,Postage / UPS/FedEx,14000,General Conditions,Katerra
+10001,Postage / UPS/FedEx,13000,General Conditions,
+10001,Postage / UPS/FedEx,12000,General Conditions,Katerra
+10002,Delivery Service/ Courier,2540,General Conditions,
+10002,Delivery Service/ Courier,5600,General Conditions,Katerra
+10002,Delivery Service/ Courier,8700,General Conditions,
+10003,Temp Fencing,4240,General Conditions,Katerra
+10003,Temp Fencing,8000,General Conditions,
+10003,Temp Fencing,9800,General Conditions,Katerra
+10003,Temp Fencing,2300,General Conditions,
+10004,Shed/Storage Facility,907,General Conditions,Katerra
+10004,Shed/Storage Facility,1200,General Conditions,
+10004,Shed/Storage Facility,1400,General Conditions,Katerra
+10005,Chemical Toilets,1907,General Conditions,
+10006,Electrical Consumption/Temp Power,2607,General Conditions,Katerra
+10007,Electrical Final,4307,General Conditions,
+10008,Water Consumption/Temp Water,974,General Conditions,Katerra
+10008,Water Consumption/Temp Water,980,General Conditions,
+10008,Water Consumption/Temp Water,670,General Conditions,Katerra
+10009,Gas Consumption,1974,General Conditions,
+10010,Sewer Charges,2674,General Conditions,Katerra
+10011,Jobsite Camera,4374,General Conditions,
+10012,Cell Phones,1041,General Conditions,Katerra
+10013,Security / Alarm Systems,2041,General Conditions,
+10014,Watch person,2741,General Conditions,Katerra
+10016,Project Signage,4441,General Conditions,
+10017,Jobsite Photos,2585,General Conditions,Katerra
+10018,First Aid Supplies,4285,General Conditions,
+10019,Safety Supplies,952,General Conditions,Katerra
+10020,Fire Extinguishers,1952,General Conditions,
+10021,Safety Barricades,2652,General Conditions,Katerra
+10022,Temp Railings,4352,General Conditions,
+10023,Scaffolding,2496,General Conditions,
+10024,Temp Stairs,4196,General Conditions,
+10025,Mock Ups,863,General Conditions,
+10026,Rental Apartments,1863,General Conditions,
+10027,Temp Water for Jobsite,2563,General Conditions,
+10028,Temp Power for Jobsite,4263,General Conditions,
+10029,Traffic Control,2407,General Conditions,
+10030,SWPPP,4107,General Conditions,
+10031,Storm Damage Cleanup,774,General Conditions,Katerra
+10032,Winter Protection,2633,General Conditions,
+10033,Temporary Doors and Windows,4333,General Conditions,Katerra
+10034,Identification Badges,2477,General Conditions,Katerra
+10035,Project Documents,841,General Conditions,Katerra
+10036,Partnering Expenses,2700,General Conditions,Katerra
+10037,Teambuilding,4400,General Conditions,
+10038,Professional Consultants,2544,General Conditions,Katerra
+10039,Work restrictions,908,General Conditions,Katerra
+10040,Safety Equipment,2767,General Conditions,Katerra
+10041,OSHA Violation,4467,General Conditions,
+10042,Safety Incentives,2611,General Conditions,Katerra
+10043,Drug Tests,975,General Conditions,Katerra
+10043,Drug Tests,900,General Conditions,Katerra
+10043,Drug Tests,700,General Conditions,Katerra
+10043,Drug Tests,1200,General Conditions,
+10044,ATV Golf cart,2834,General Conditions,Katerra
+10045,Forklift LOED,4534,General Conditions,Katerra
+10046,Mobile Crane,2678,General Conditions,Katerra
+10047,Small Tools,4378,General Conditions,
+10048,Expendables and Consumables,2522,General Conditions,Katerra
+10049,Generators,886,General Conditions,
+10050,Man lift,2745,General Conditions,Katerra
+10051,Tower Crane,4445,General Conditions,
+17413,Rough And Daily Cleaning,6722,General Conditions,Katerra
+17419,Dumpster And Dump Fees,4289,General Conditions,
+17423,Final Cleaning,2433,General Conditions,Katerra
+17833,Bonds,797,General Conditions,Katerra
+20000,Existing Conditions,11923,General Conditions,ABC Concrete
+22100,Surveys,4356,General Conditions,
+24100,Interior Demolition,2500,Direct Labor,ABC Concrete
+25000,Site Remediation,4200,Direct Labor,
+25500,Remediation Soil Stabilization,867,Direct Labor,ABC Concrete
+30000,Concrete,69350,Subcontractor,
+30000,Concrete,2900,Subcontractor,ABC Concrete
+30000,Concrete,56000,Subcontractor,
+33000,Cast-in-Place Concrete,29643,Subcontractor,ABC Concrete
+33000,Cast-in-Place Concrete,35000,Subcontractor,
+33000,Cast-in-Place Concrete,34000,Subcontractor,ABC Concrete
+33030,Slab on Grade,4267,Subcontractor,
+33030,Slab on Grade,5600,Subcontractor,ABC Concrete
+33030,Slab on Grade,7600,Subcontractor,
+33031,Post Tension Slab on Grade,934,Subcontractor,ABC Concrete
+33032,Equipment Pad,2793,Subcontractor,
+33032,Equipment Pad,5600,Subcontractor,ABC Concrete
+33032,Equipment Pad,6500,Subcontractor,
+33051,Walls,4493,Subcontractor,ABC Concrete
+33052,Retaining Walls,4334,Subcontractor,
+33070,Columns,1001,Subcontractor,ABC Concrete
+33071,Stairs,2860,Subcontractor,
+33071,Stairs,6500,Subcontractor,ABC Concrete
+33071,Stairs,4500,Subcontractor,
+33072,Post Tension Decks,4560,Subcontractor,ABC Concrete
+33073,Elevated Beams,4401,Subcontractor,
+33100,Foundations,27463,Subcontractor,ABC Concrete
+33110,Continuous footings,2927,Subcontractor,
+33120,Retaining Footings,4627,Subcontractor,Calderys
+33130,Spread Footings,2771,Subcontractor,
+33140,Mat Footings,4471,Subcontractor,Calderys
+33150,Pile Caps,4312,Subcontractor,
+33160,Elevator Pit Walls,979,Subcontractor,Calderys
+33170,Stem Walls,2838,Subcontractor,
+33180,Grade Beams,4538,Subcontractor,Calderys
+34000,Precast Concrete,2682,Subcontractor,
+34000,Precast Concrete,5600,Subcontractor,Calderys
+34000,Precast Concrete,8790,Subcontractor,
+34000,Precast Concrete,2390,Subcontractor,Calderys
+34100,Precast Structural Concrete,5113,Subcontractor,
+34100,Precast Structural Concrete,5113,Subcontractor,Calderys
+34100,Precast Structural Concrete,5113,Subcontractor,
+34116,Precast Concrete Slab,4223,Subcontractor,Calderys
+34116,Precast Concrete Slab,4223,Subcontractor,
+34116,Precast Concrete Slab,4223,Subcontractor,Calderys
+34116,Precast Concrete Slab,4223,Subcontractor,
+34133,Precast Tees,890,Subcontractor,Calderys
+34133,Precast Tees,890,Subcontractor,
+34133,Precast Tees,890,Subcontractor,Calderys
+34133,Precast Tees,890,Subcontractor,
+34133,Precast Tees,890,Subcontractor,Calderys
+35400,Cast Underlayment (Gypcrete),4449,Subcontractor,
+35413,Poured Gypsum Underlayment,4449,Subcontractor,Calderys
+40000,Masonry,22144,Subcontractor,
+42000,Unit Masonry,1101,Subcontractor,Calderys
+42113,Brick and Mortar,2960,Subcontractor,
+42200,Concrete Unit Masonry,4660,Subcontractor,Calderys
+42200,Concrete Unit Masonry,4660,Subcontractor,
+42200,Concrete Unit Masonry,4660,Subcontractor,Calderys
+42200,Concrete Unit Masonry,4660,Subcontractor,
+44000,Stone Assemblies,4501,Subcontractor,Calderys
+44200,Exterior Cladding - Veneer,1168,Subcontractor,
+44200,Exterior Cladding - Veneer,1168,Subcontractor,Calderys
+44200,Exterior Cladding - Veneer,1168,Subcontractor,
+44200,Exterior Cladding - Veneer,1168,Subcontractor,Calderys
+44300,Stone Masonry,3027,Subcontractor,
+45700,Masonry Fireplaces,4727,Subcontractor,Calderys
+50000,Metals,33064,Subcontractor,
+50000,Metals,33064,Subcontractor,Calderys
+50000,Metals,33064,Subcontractor,Calderys
+50000,Metals,33064,Subcontractor,Calderys
+51000,Structural Metal Framing,4571,Subcontractor,Calderys
+51000,Structural Metal Framing,4571,Subcontractor,
+51000,Structural Metal Framing,4571,Subcontractor,Calderys
+51000,Structural Metal Framing,4571,Subcontractor,
+51000,Structural Metal Framing,4571,Subcontractor,Calderys
+51200,Structural Steel Framing,4412,Subcontractor,
+51900,Tension Rod and Cable Truss Assembleies,1079,Subcontractor,Calderys
+52100,Steel Joist Framing,2938,Subcontractor,
+53000,Metal Decking,4638,Subcontractor,Calderys
+55000,Metal Fabrications,2782,Subcontractor,
+55100,Metal Stairs,4482,Subcontractor,Calderys
+55200,Metal Railings,4323,Subcontractor,
+55300,Metal Paneling,990,Subcontractor,Calderys
+55900,Metal Exterior Structural,2849,Subcontractor,
+60000,Wood Plastics and Composites,50500,Subcontract Material,Calderys
+60000,Wood Plastics and Composites,50500,Subcontract Material,
+60000,Wood Plastics and Composites,50500,Subcontract Material,Calderys
+60000,Wood Plastics and Composites,50500,Subcontract Material,
+61000,Rough Carpentry,2693,Subcontract Material,Katerra
+61151,Wood Framing - Interior Walls,12421,Subcontract Material,
+61152,Wood Framing - Exterior Walls,3060,Subcontract Material,Calderys
+61153,Wood Framing - Floors,4760,Subcontract Material,
+61154,Wood Framing - Roof Trusses,4601,Subcontract Material,Calderys
+61200,Structural Panels,1268,Subcontract Material,
+61500,Wood Decking,3127,Subcontract Material,Calderys
+61500,Wood Decking,3127,Subcontract Material,
+61500,Wood Decking,3127,Subcontract Material,
+61500,Wood Decking,3127,Subcontract Material,
+61600,Sheathing,4827,Subcontract Material,Calderys
+61719,Cross-Laminated Timber,2971,Subcontract Material,
+61800,Glued-Laminated Construction,4671,Subcontract Material,Calderys
+64100,Cabinets - Architectural Wood Casework,10500,Subcontract Material,
+64101,Cabinet Doors & Drawer Fronts,1179,Subcontract Material,Calderys
+64102,Lower Cabinets,3038,Subcontract Material,
+64103,Upper Cabinets,4738,Subcontract Material,Calderys
+64193,Cabinet and Drawer Hardware,2882,Subcontract Material,
+64600,Wood Trim,8000,Subcontract Material,Calderys
+64619,Wood Base and Show Molding (Trim),4423,Subcontract Material,
+64651,Door Casings,1090,Subcontract Material,Calderys
+64652,Window Casings,2949,Subcontract Material,
+70000,Thermal and Moisture Protection,21547,Subcontract Labor,Calderys
+71000,Damp Proofing and Waterproofing,2793,Subcontract Labor,Calderys
+71800,Traffic Coatings,1301,Subcontract Labor,Calderys
+72100,Insulation,6228,Subcontract Labor,
+72113,Board Insulation,4860,Subcontract Labor,Calderys
+72116,Blanket Insulation,1368,Subcontract Labor,Calderys
+78400,Firestopping,3227,Subcontract Labor,Calderys
+79200,Joint Sealants,4927,Subcontract Labor,
+79500,Expansion Control,3071,Subcontract Labor,Calderys
+80000,Doors and Windows - Openings,75237,Subcontract Labor,Calderys
+81000,Doors and Frames,9255,Subcontract Labor,Calderys
+81010,Interior Doors,1279,Subcontract Labor,
+81020,Fire rated doors,3138,Subcontract Labor,Calderys
+81030,Exterior/Entry Doors,4838,Subcontract Labor,
+81401,Sliding Gates,2982,Subcontract Labor,Calderys
+83000,Specialty Doors and Frames,4682,Subcontract Labor,Calderys
+83100,Access Doors and Panels,4523,Subcontract Labor,Calderys
+83200,Sliding Glass Doors,1190,Subcontract Labor,
+83300,Coiling Doors and Grilles,3049,Subcontract Labor,Calderys
+83600,Panel Doors (Garage Doors),4749,Subcontract Labor,
+84000,Entrances Storefronts and Curtain Walls,2893,Subcontract Labor,Calderys
+84100,Entrances,1401,Subcontract Labor,
+84300,Storefronts,3260,Subcontract Labor,Calderys
+84400,Curtain Walls,4960,Subcontract Labor,
+85000,Windows,4801,Subcontract Labor,Calderys
+87100,Door Hardware,3327,Subcontract Labor,Calderys
+87103,Surface applied hardware,3327,Subcontract Labor,Calderys
+88000,Glazing,5027,Subcontract Labor,
+88301,Interior Glazing,9583,Subcontract Labor,Calderys
+88302,Amenity Mirrors,4871,Subcontract Labor,
+88303,Unit Mirrors,4712,Subcontract Labor,Calderys
+89000,Louvers and Vents,1379,Subcontract Labor,
+89100,Louvers,3238,Subcontract Labor,ABC Concrete
+89500,Vents,4938,Subcontract Labor,
+90000,Finishes,68093,Subcontract Labor,ABC Concrete
+92000,Plaster and Gypsum Board,4782,Subcontract Labor,
+92423,Stucco,4623,Subcontract Labor,ABC Concrete
+93000,Tiling,7998,Subcontract Labor,
+93013,Ceramic Tiling,3149,Subcontract Labor,ABC Concrete
+93019,Quarry Tile,4849,Subcontract Labor,
+95000,Ceilings,2993,Subcontract Labor,ABC Concrete
+95100,Acoustical Ceilings,1501,Subcontract Labor,
+96000,Flooring,3360,Subcontract Labor,ABC Concrete
+96400,Wood Flooring,5060,Subcontract Labor,
+96500,Resilient Flooring,4901,Subcontract Labor,ABC Concrete
+96800,Carpeting,1568,Product Cost Katerra,
+96800,Carpeting,1568,Product Cost Katerra,ABC Concrete
+96800,Carpeting,1568,Product Cost Katerra,
+96800,Carpeting,1568,Product Cost Katerra,ABC Concrete
+96900,Access Flooring,3427,Product Cost Katerra,
+97000,Wall Finishes,5127,Product Cost Katerra,ABC Concrete
+98000,Acoustic Treatment,3271,Product Cost Katerra,ABC Concrete
+98100,Acoustic Insulation,4971,Product Cost Katerra,ABC Concrete
+98300,Acoustic Finishes,4812,Product Cost Katerra,ABC Concrete
+99000,Painting and Coating,1479,Product Cost Katerra,
+99113,Exterior Painting,5038,Product Cost Katerra,ABC Concrete
+99123,Interior Painting,5038,Product Cost Katerra,ABC Concrete
+99700,Special Coatings,3182,Product Cost Katerra,ABC Concrete
+110000,Equipment,17404,Product Cost Katerra,
+111000,Vehicle and Pedestrian Equipment,4723,Product Cost Katerra,ABC Concrete
+111200,Parking Control Equipment,1390,Product Cost Katerra,ABC Concrete
+111300,Loading Dock Equipment,3249,Product Cost Katerra,ABC Concrete
+111400,Pedestrian Control Equipment,4949,Product Cost Katerra,ABC Concrete
+112173,Commercial Laundry and Dry Cleaning Equipment,3093,Product Cost Katerra,
+120000,Furnishings,15289,Product Cost Katerra,ABC Concrete
+120000,Furnishings,15289,Product Cost Katerra,ABC Concrete
+120000,Furnishings,15289,Product Cost Katerra,ABC Concrete
+120000,Furnishings,15289,Product Cost Katerra,ABC Concrete
+122000,Window Treatments,3460,Product Cost Katerra,ABC Concrete
+122100,Window Blinds,5160,Product Cost Katerra,
+123000,Casework,5001,Product Cost Katerra,ABC Concrete
+123600,Countertops,1668,Product Cost Katerra,
+130000,Special Construction,14933,Product Cost Katerra,ABC Concrete
+131100,Swimming Pools,8442,Product Cost Katerra,
+131123,On-Grade Swimming Pools,3371,Product Cost Katerra,ABC Concrete
+131133,Elevated Swimming Pools,5071,Product Cost Katerra,
+131200,Fountains,4912,Product Cost Katerra,ABC Concrete
+131200,Fountains,4912,Product Cost Katerra,
+131200,Fountains,4912,Product Cost Katerra,
+133400,Fabricated Engineered Structures,1579,Product Cost Katerra,
+140000,Conveying Equipment,31306,Product Cost Katerra,ABC Concrete
+140110,Electric Dumbwaiter,5138,Product Cost Katerra,
+142000,Elevators,3282,Product Cost Katerra,ABC Concrete
+142100,Electric Traction Elevators,4982,Product Cost Katerra,ABC Concrete
+142400,Hydraulic Elevators,4823,Product Cost Katerra,ABC Concrete
+144000,Lifts,1490,Product Cost Katerra,ABC Concrete
+144000,Lifts,1490,Product Cost Katerra,
+144000,Lifts,1490,Product Cost Katerra,ABC Concrete
+144000,Lifts,1490,Product Cost Katerra,
+144000,Lifts,1490,Product Cost Katerra,ABC Concrete
+144200,Wheelchair Lifts,3349,Product Cost Katerra,ABC Concrete
+144500,Vehicle Lifts,5049,Product Cost Katerra,ABC Concrete
+149182,Trash Chutes,3193,Product Cost Katerra,ABC Concrete
+210000,Fire Supression,15689,Product Cost Katerra,
+211100,Facility Fire-Suppression Water-Service Piping,3560,Product Cost Katerra,ABC Concrete
+212300,Wet-Chemical Fire-Extinguishing Systems,5260,Product Cost Katerra,
+212300,Wet-Chemical Fire-Extinguishing Systems,5260,Product Cost Katerra,ABC Concrete
+212300,Wet-Chemical Fire-Extinguishing Systems,5260,Product Cost Katerra,
+212300,Wet-Chemical Fire-Extinguishing Systems,5260,Product Cost Katerra,ABC Concrete
+212300,Wet-Chemical Fire-Extinguishing Systems,5260,Product Cost Katerra,ABC Concrete
+212400,Dry-Chemical Fire-Extinguishing Systems,5101,Product Cost Katerra,ABC Concrete
+213100,Centrifugal Fire Pumps,1768,Product Cost Katerra,ABC Concrete
+230000,HVAC,29436,Product Cost Katerra,
+230000,HVAC,29436,Product Cost Katerra,ABC Concrete
+230000,HVAC,29436,Product Cost Katerra,ABC Concrete
+230000,HVAC,29436,Product Cost Katerra,ABC Concrete
+230700,HVAC Insulation,5327,Product Cost Katerra,ABC Concrete
+230900,Instrumentation and Control for HVAC,3471,Product Cost Katerra,ABC Concrete
+233100,HVAC Ducts and Casings,5171,Product Cost Katerra,
+233700,Air Outlets and Inlets,5012,Product Cost Katerra,ABC Concrete
+233800,Ventilation Hoods,1679,Product Cost Katerra,
+236300,Condensing Units,3538,Product Cost Katerra,Calderys
+237300,Air-Handling Units,5238,Product Cost Katerra,
+250000,Integrated Automation,5082,Product Cost Katerra,Calderys
+250010,Integrated Automation,5082,Product Cost Katerra,
+270000,Communications,5039,Product Cost Katerra,Calderys
+271300,Communications Backbone Cabling,1590,Product Cost Katerra,
+274100,Audio-Video Systems,3449,Product Cost Katerra,Calderys
+280000,Electronic Safety & Security,8754,Product Cost Katerra,
+281500,Access Control Hardware Devices,3293,Product Cost Katerra,Calderys
+283100,Intrusion Detection,1801,Product Cost Katerra,
+284600,Fire Detection and Alarm,3660,Product Cost Katerra,Calderys
+271300,Communications Backbone Cabling,1590,Product Cost Katerra,
+274100,Audio-Video Systems,3449,Product Cost Katerra,Calderys
+280000,Electronic Safety & Security,8754,Product Cost Katerra,
+281500,Access Control Hardware Devices,3293,Product Cost Katerra,Calderys
+283100,Intrusion Detection,1801,Product Cost Katerra,
+284600,Fire Detection and Alarm,3660,Product Cost Katerra,Calderys
+212400,Dry-Chemical Fire-Extinguishing Systems,5101,,Calderys
+213100,Centrifugal Fire Pumps,1768,,Calderys
+230000,HVAC,29436,,Calderys
+230000,HVAC,29436,,
+230000,HVAC,29436,,Calderys
+230000,HVAC,29436,,
+230700,HVAC Insulation,5327,,
+230900,Instrumentation and Control for HVAC,3471,,
+233100,HVAC Ducts and Casings,5171,,Calderys
+233700,Air Outlets and Inlets,5012,,
+233800,Ventilation Hoods,1679,,Calderys
+236300,Condensing Units,3538,,
+237300,Air-Handling Units,5238,,Calderys
+281500,Access Control Hardware Devices,3293,,
+283100,Intrusion Detection,1801,,Calderys
+283100,Intrusion Detection,1801,,
+284600,Fire Detection and Alarm,3660,,Calderys

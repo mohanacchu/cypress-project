@@ -1,0 +1,208 @@
+{
+    "success": true,
+    "data": {
+        "count": 136,
+        "result": [
+            {
+                "_id": "5d39597f4601b7000e6a8160",
+                "name": "Automation - Template New"
+            },
+            {
+                "_id": "5d381b68a6eea7000ef79181",
+                "name": "Automation-Template"
+            },
+            {
+                "_id": "5d2b6f5956c170000eaea450",
+                "name": "ub41V%thi"
+            },
+            {
+                "_id": "5d2b6f5856c170000eaea44e",
+                "name": "t4v8fVr*y"
+            },
+            {
+                "_id": "5d2b6f5556c170000eaea44a",
+                "name": "(XDX)BADO"
+            },
+            {
+                "_id": "5d2b6f5456c170000eaea448",
+                "name": "1WxE/Qj*#"
+            },
+            {
+                "_id": "5d2b6f5256c170000eaea446",
+                "name": "X(%3)(V3#"
+            },
+            {
+                "_id": "5d2b6f5156c170000eaea444",
+                "name": "k93@T(k#N"
+            },
+            {
+                "_id": "5d2b6f4f56c170000eaea442",
+                "name": "XAlL_l)hV"
+            },
+            {
+                "_id": "5d28586256c170000eaea3e6",
+                "name": "Line item Billing"
+            },
+            {
+                "_id": "5d26c8cc56c170000eaea3c2",
+                "name": "acbshjhj"
+            },
+            {
+                "_id": "5d26c63356c170000eaea3bf",
+                "name": "test template test"
+            },
+            {
+                "_id": "5d1edeb10324c7000fa46383",
+                "name": "test-stg1"
+            },
+            {
+                "_id": "5d1ede9a0324c7000fa46381",
+                "name": "test-stg"
+            },
+            {
+                "_id": "5d1edcf20324c7000fa4637a",
+                "name": "C_Bill*OtczT4*x"
+            },
+            {
+                "_id": "5d1edcf10324c7000fa46376",
+                "name": "B_Billd9vfxcHU0"
+            },
+            {
+                "_id": "5d1edcef0324c7000fa46372",
+                "name": "A_BillIHqtK(b3S"
+            },
+            {
+                "_id": "5d1edcee0324c7000fa4636e",
+                "name": "CT&T)*gLUjwsb"
+            },
+            {
+                "_id": "5d1edcec0324c7000fa4636a",
+                "name": "K Att!JN4uUDc+"
+            },
+            {
+                "_id": "5d1df8290324c7000fa46344",
+                "name": "C_Billdso4JTp/q"
+            },
+            {
+                "_id": "5d1df8270324c7000fa46340",
+                "name": "B_BilleINHX8@rE"
+            },
+            {
+                "_id": "5d1df8260324c7000fa4633c",
+                "name": "A_Billp049Tz-2t"
+            },
+            {
+                "_id": "5d1df8240324c7000fa46338",
+                "name": "CT&T0STUDYRyK"
+            },
+            {
+                "_id": "5d1df8230324c7000fa46334",
+                "name": "K AttJaaOk+-KI"
+            },
+            {
+                "_id": "5d1ddcd90324c7000fa4630e",
+                "name": "C_Billr9qFuux6M"
+            },
+            {
+                "_id": "5d1ddcd80324c7000fa4630a",
+                "name": "B_Billu1cA/J-ci"
+            },
+            {
+                "_id": "5d1ddcd70324c7000fa46306",
+                "name": "A_BillHf5+OUUvJ"
+            },
+            {
+                "_id": "5d1ddcd50324c7000fa46302",
+                "name": "CT&Thioxbuqkp"
+            },
+            {
+                "_id": "5d1ddcd40324c7000fa462fe",
+                "name": "K Att%YEg8Brne"
+            },
+            {
+                "_id": "5d1ddc3d0324c7000fa462e4",
+                "name": "C_Billm4SESDh0_"
+            },
+            {
+                "_id": "5d1ddc3c0324c7000fa462e0",
+                "name": "B_Billhv-0asZC-"
+            },
+            {
+                "_id": "5d1ddc3a0324c7000fa462dc",
+                "name": "A_BillnmnXOGXVM"
+            },
+            {
+                "_id": "5d1ddc390324c7000fa462d8",
+                "name": "CT&TmJAwK@dE6"
+            },
+            {
+                "_id": "5d1ddc380324c7000fa462d4",
+                "name": "K AttOkAT&T_FX"
+            },
+            {
+                "_id": "5d1dd9830324c7000fa462bb",
+                "name": "Temp_July_H1"
+            },
+            {
+                "_id": "5d1dd9150324c7000fa462b9",
+                "name": "Temp_July_H"
+            },
+            {
+                "_id": "5d1d9b6b73c65a000e94beff",
+                "name": "S-WIJXbLb"
+            },
+            {
+                "_id": "5d1d9b6273c65a000e94befd",
+                "name": "QO3/2D%3@"
+            },
+            {
+                "_id": "5d1d9b6073c65a000e94befb",
+                "name": "GCYqSaStB"
+            },
+            {
+                "_id": "5d1d9a7e73c65a000e94bef7",
+                "name": "khj8O-6qG"
+            },
+            {
+                "_id": "5d1d9a7573c65a000e94bef5",
+                "name": "S4m9%jwf2"
+            },
+            {
+                "_id": "5d1d9a7373c65a000e94bef3",
+                "name": "CZR9RIna4"
+            },
+            {
+                "_id": "5d1d988973c65a000e94beef",
+                "name": "BlewknNwV"
+            },
+            {
+                "_id": "5d1d988073c65a000e94beed",
+                "name": "v/Uz+e4r1"
+            },
+            {
+                "_id": "5d1d987f73c65a000e94beeb",
+                "name": "Di-6rJ3YX"
+            },
+            {
+                "_id": "5d1d96b773c65a000e94bee7",
+                "name": "X25OoSF7@"
+            },
+            {
+                "_id": "5d1d96af73c65a000e94bee5",
+                "name": "JwzdB0OKS"
+            },
+            {
+                "_id": "5d1d96ad73c65a000e94bee3",
+                "name": "UBlMFqZcq"
+            },
+            {
+                "_id": "5d1d95dc73c65a000e94bedf",
+                "name": "6LX77y8L7"
+            },
+            {
+                "_id": "5d1d95d373c65a000e94bedd",
+                "name": "@F4qUhUIt"
+            }
+        ]
+    }
+}

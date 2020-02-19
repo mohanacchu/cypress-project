@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Construct company",
+      "company_id": "5cb02f6aa6595b000eed980c"
+    },
+    {
+      "name": "Test scheduling company",
+      "company_id": "5cb02f5ea6595b000eed980b"
+    },
+    {
+      "name": "Test Budgeting Company",
+      "company_id": "5cb02f51a6595b000eed980a"
+    },
+    {
+      "name": "Test Company",
+      "company_id": "5cb02f43a6595b000eed9809"
+    },
+    {
+      "name": "Katerra Inc.",
+      "company_id": "5ca5f72ea6595b000eed9808"
+    }
+  ]
+}

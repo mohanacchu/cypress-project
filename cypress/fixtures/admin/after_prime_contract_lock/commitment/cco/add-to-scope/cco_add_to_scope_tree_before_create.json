@@ -1,0 +1,107 @@
+{
+    "total_before": 0,
+    "line_items": [
+      {
+        "data": {
+          "_id": "5c52b1f98ddf61000e40592b",
+          "cost_type": null,
+          "item_id": "15420272633441",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Procurement and Contracting Requirements",
+          "cost_code": "000000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c52b1f98ddf61000e405939",
+              "cost_type": null,
+              "item_id": "1542027263346132",
+              "item_parent": "15420272633441",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Project Forms",
+              "cost_code": "006000"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c52b1f98ddf61000e40593a",
+                  "item_id": "1548923385167",
+                  "item_parent": "1542027263346132",
+                  "name": "Project Forms - SC3",
+                  "cost_code": "006000",
+                  "cost_type": null,
+                  "revised_contract_amount": 1700,
+                  "is_leaf": false,
+                  "custom_child": false
+                },
+                "children": [
+                  {
+                    "data": {
+                      "_id": "5c65390b6c1784000e990edf",
+                      "item_id": "5c65390b6c1784000e990edf",
+                      "item_parent": "1548923385167",
+                      "name": "Project Forms - SC3",
+                      "cost_code": "006000",
+                      "cost_type": null,
+                      "revised_contract_amount": 0,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "_id": "5c52b1f98ddf61000e405948",
+          "cost_type": null,
+          "item_id": "1542027263347268",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "General Requirements",
+          "cost_code": "010000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c52b1f98ddf61000e40594a",
+              "item_id": "1548923385391",
+              "item_parent": "1542027263347268",
+              "name": "General Requirements - ABC",
+              "cost_code": "010000",
+              "cost_type": null,
+              "revised_contract_amount": 141275,
+              "is_leaf": false,
+              "custom_child": false
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c65390b6c1784000e990ee0",
+                  "item_id": "5c65390b6c1784000e990ee0",
+                  "item_parent": "1548923385391",
+                  "name": "General Requirements - ABC",
+                  "cost_code": "010000",
+                  "cost_type": null,
+                  "revised_contract_amount": 0,
+                  "is_leaf": true,
+                  "custom_child": true,
+                  "default_child": true
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

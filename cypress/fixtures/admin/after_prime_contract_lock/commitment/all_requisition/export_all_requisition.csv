@@ -1,0 +1,5 @@
+"Invoice Ref","Company","Billing Period","Billing Date","Status","Approver","Original Contract Amount","Net Change by Change Orders","Revised Contract Amount","Total Completed and Stored to Date","Total Retainage (To Date)","Total Earned Less Retainage","Work Completed This Period","Work Retainage This Period","Payment Due This Period","Balance to Finish Excluding Retainage","% Completed"
+"140219","Katerra","01-09-2019 to 03-07-2019","02-14-2019","approved","Katerra Admin",0,0,0,510,55,455,500,50,450,-455,"-"
+"300119","Katerra","01-01-2019 to 01-02-2019","01-31-2019","approved","Katerra Admin",0,0,0,10,5,5,10,5,5,-5,"-"
+"150219","Katerra","03-04-2019 to 04-18-2019","02-14-2019","payment_done","Katerra Admin",0,0,0,565,43.85,521.15,555,38.85,516.15,-521.15,"-"
+"200119","Katerra","01-17-2019 to 02-05-2019","02-14-2019","under_approval","Katerra Admin",0,0,0,2265,319.85,1895.15,1200,276,924,-1895.15,"-"

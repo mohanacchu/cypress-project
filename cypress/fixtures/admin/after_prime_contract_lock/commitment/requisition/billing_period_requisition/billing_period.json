@@ -1,0 +1,40 @@
+{
+    "result": {
+        "billing_period_template_id": null,
+        "billing_period_template_name": null,
+        "billing_period": [{
+                "has_requisitions": false,
+                "access_start_date": "2019-08-14T00:00:00.000Z",
+                "access_end_date": "2019-08-20T00:00:00.000Z",
+                "status": true,
+                "companies": [],
+                "_id": "5d4aa89f18dfd20010f88b03",
+                "name": "re-billing",
+                "start_date": "2019-08-07T00:00:00.000Z",
+                "end_date": "2019-08-14T00:00:00.000Z",
+                "history_id": "5d4aa89f18dfd20010f88b01",
+                "created_at": "2019-08-07T10:31:59.955Z",
+                "__v": 0
+            },
+            {
+                "has_requisitions": false,
+                "access_start_date": "2019-08-07T00:00:00.000Z",
+                "access_end_date": "2019-08-13T00:00:00.000Z",
+                "status": false,
+                "companies": [{
+                    "company_id": "5ca5f72ea6595b000eed9808",
+                    "company": "Katerra Inc.",
+                    "has_requisitions": false
+                }],
+                "_id": "5d4aa89f18dfd20010f88b02",
+                "name": "billing",
+                "start_date": "2019-08-01T00:00:00.000Z",
+                "end_date": "2019-08-07T00:00:00.000Z",
+                "history_id": "5d4aa89f18dfd20010f88b00",
+                "created_at": "2019-08-07T10:31:59.954Z",
+                "__v": 0
+            }
+        ],
+        "project_id": "228"
+    }
+}

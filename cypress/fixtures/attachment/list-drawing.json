@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "count": 1,
+    "list": [
+      {
+        "doctype": "file_folder",
+        "project_id": 615,
+        "date_added": 1566296579,
+        "user_id": "1",
+        "folder_name": "Test",
+        "delete": 0,
+        "files_count": 1,
+        "cur_drawing_folder_id": "5d5bca037049b90011691c84"
+      }
+    ]
+  }
+}

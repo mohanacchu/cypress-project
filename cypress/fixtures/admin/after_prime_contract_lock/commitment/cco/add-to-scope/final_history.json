@@ -1,0 +1,70 @@
+{
+    "_id": "5c750597b03ab8000ed66e9c",
+    "type": "Commitment Change Order Add to Scope",
+    "history": [
+      {
+        "action_by": {
+          "user_id": "1",
+          "name": "Katerra Admin",
+          "email": "admin@Katerra.com"
+        },
+        "details": [
+          {
+            "specific_action_details": [
+              "Commitment Change Order - Add To Scope created successfully"
+            ],
+            "specific_action": "CCO Add to Scope Created"
+          }
+        ],
+        "created_on": 1551173015092,
+        "action": "Created CCO Add to Scope"
+      },
+      {
+        "action_by": {
+          "user_id": "1",
+          "name": "Katerra Admin",
+          "email": "admin@Katerra.com"
+        },
+        "details": [
+          {
+            "specific_action_details": [
+              "Electronic Safety & Security, Approved Qty: 100, Approved Unit: rupee, Approved Unit Rate: 9, Approved Contract Amount: 900"
+            ],
+            "specific_action": "Approved Line Items:"
+          },
+          {
+            "specific_action_details": [
+              "Task Name: Task A, Task Type: Approval, Duration:4, Start_Date: 02-26-2019, Due_Date:03-02-2019, Assignee:Katerra Admin"
+            ],
+            "specific_action": "Approved Workflow Task:"
+          }
+        ],
+        "created_on": 1551178911321,
+        "action": "Change Order Approved"
+      },
+      {
+        "action_by": {
+          "user_id": "1",
+          "name": "Katerra Admin",
+          "email": "admin@Katerra.com"
+        },
+        "details": [
+          {
+            "specific_action_details": [
+              "Masonry, Approved Qty: 0.99, Approved Unit: decimal, Approved Unit Rate: 0.77, Approved Contract Amount: 0.76"
+            ],
+            "specific_action": "Approved Line Items:"
+          },
+          {
+            "specific_action_details": [
+              "Task Name: Task B, Task Type: Pending, Duration:2, Start_Date: 03-03-2019, Due_Date:03-05-2019, Assignee:Vijendra Sirbaiya"
+            ],
+            "specific_action": "Approved Workflow Task:"
+          }
+        ],
+        "created_on": 1551182472873,
+        "action": "Change Order Approved"
+      }
+    ],
+    "__v": 0
+  }

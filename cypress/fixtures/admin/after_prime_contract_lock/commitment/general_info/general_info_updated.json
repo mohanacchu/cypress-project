@@ -1,0 +1,47 @@
+{
+    "line_items": {
+        "created_by": {
+            "user_id": "1",
+            "name": "Katerra Admin",
+            "email": "admin@katerra.com"
+        },
+        "is_client": false,
+        "number": "contract summary",
+        "title": "test",
+        "contractor": "Katerra Inc.",
+        "commitment_id": "5d5272183d9cad00102c01e3",
+        "status": "",
+        "distribution_list": [],
+        "description": "",
+        "additional_information": null,
+        "created_status": "Final",
+        "_id": "5d7254fdfcb4220010384c22",
+        "engineer": [
+            {
+                "user_id": "54",
+                "user_name": "ABC123",
+                "email": "123@yahoo.com"
+            }
+        ],
+        "private": false,
+        "start_date": "2019-09-06T00:00:00.000Z",
+        "actual_completion_date": "2019-09-06T00:00:00.000Z",
+        "contract_termination_date": "2019-09-06T00:00:00.000Z",
+        "estimated_completion_date": "2019-09-07T00:00:00.000Z",
+        "signed_contract_recieved_date": "2019-09-06T00:00:00.000Z",
+        "redirect_url": "https://stg.construct.katerra.com/cb/sub-contract/general?project_id=236&company_id=5ca5f72ea6595b000eed9808&commitment_id=5d5272183d9cad00102c01e3",
+        "company_id": "5ca5f72ea6595b000eed9808",
+        "project_id": "236",
+        "created_time": "2019-09-06T12:45:49.956Z",
+        "__v": 0,
+        "contract_amount": 0,
+        "approved_change_order": 9000,
+        "revised_contract_amount": 9000,
+        "requisitions_to_date": 0,
+        "approved_requisitions": 0,
+        "payment_made": 0,
+        "outstanding_amount": 0,
+        "pending_change_orders": 0,
+        "pending_revised_contract_amount": 9000
+    }
+}

@@ -1,0 +1,2638 @@
+{
+  "projects": [{
+    "id": "1",
+    "proj_number": "",
+    "name": "Test Project",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "Menlo Park, California",
+      "city": "Menlo Park",
+      "state": "California",
+      "zip": "94025"
+    }
+  }, {
+    "id": "6",
+    "proj_number": null,
+    "name": "Sample Project for Help",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>For <u><b>Help<\/b><\/u><b>&nbsp;<\/b><b>topics<\/b>, <b>screenshots<\/b>, <b>video recording<\/b>, <b>testing<\/b>&nbsp;and <b>troubleshooting<\/b>.\r\n\r\n<br><\/p>",
+    "address": {
+      "address": "Bangalore, Bengaluru, Karnataka",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560002"
+    }
+  }, {
+    "id": "5",
+    "proj_number": null,
+    "name": "March21QA_test",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Qa<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "4",
+    "proj_number": null,
+    "name": "Project 21-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "7",
+    "proj_number": null,
+    "name": "schedulerAPItesting do not use",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "8",
+    "proj_number": null,
+    "name": "schedulerAPIjenkins do not use",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "9",
+    "proj_number": "",
+    "name": "Budgeting QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>This is the theodolite labeling project. We have to put Ballast first.<\/p><p><br><\/p><p>Regards<\/p><p>Prashant&nbsp;<\/p>",
+    "address": {
+      "address": "SH-265, Hingna, Nagpur, Maharashtra, 441110",
+      "city": "Hingna",
+      "state": "Maharashtra",
+      "zip": "441110"
+    }
+  }, {
+    "id": "10",
+    "proj_number": null,
+    "name": "Nan project - 1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "11",
+    "proj_number": "",
+    "name": "Budgeting API QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "15",
+    "proj_number": null,
+    "name": "Scheduler - Trial 2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "14",
+    "proj_number": null,
+    "name": "Scheduler - Trial 1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "16",
+    "proj_number": null,
+    "name": "Scheduler - Trial 3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "17",
+    "proj_number": "",
+    "name": "Sfstg Project",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "Bannerghata National Park",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560083"
+    }
+  }, {
+    "id": "18",
+    "proj_number": null,
+    "name": "Rest API Automation Project [Do not Use]",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>\r\n\r\nA test Project for API Automation.\r\n\r\n\r\n<br><\/p>",
+    "address": {
+      "address": "Grant Road, Kharadi, Pune, Maharashtra, 411014",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411014"
+    }
+  }, {
+    "id": "22",
+    "proj_number": null,
+    "name": "SK-25March",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "21",
+    "proj_number": null,
+    "name": "Construct_Test",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "23",
+    "proj_number": null,
+    "name": "Mar 25-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "24",
+    "proj_number": null,
+    "name": "Mar 25-QA 2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "25",
+    "proj_number": null,
+    "name": "SK-25Mar",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "26",
+    "proj_number": null,
+    "name": "PK test",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "27",
+    "proj_number": null,
+    "name": "Chinmay Test Project ",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -07:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "9305 E Via de Ventura, Scottsdale, Arizona, 85258",
+      "city": "Scottsdale",
+      "state": "Arizona",
+      "zip": "85258"
+    }
+  }, {
+    "id": "28",
+    "proj_number": null,
+    "name": "March26_QA_h",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "29",
+    "proj_number": "",
+    "name": "Testtt Nan",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "30",
+    "proj_number": null,
+    "name": "Mar 26-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "35",
+    "proj_number": null,
+    "name": "Harpreet-Testing update",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Harpreet-Testing update March 26th<br><\/p>",
+    "address": {
+      "address": "Amritsar, Punjab",
+      "city": "Amritsar",
+      "state": "Punjab",
+      "zip": "143001"
+    }
+  }, {
+    "id": "33",
+    "proj_number": null,
+    "name": "Help Project",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>\r\n\r\nFor <u><b>Help<\/b><\/u><b>&nbsp;<\/b><b>topics<\/b>, <b>screenshots<\/b>, <b>video recording<\/b>, <b>testing<\/b>&nbsp;and <b>troubleshooting<\/b>. \r\n\r\n<br><\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "34",
+    "proj_number": null,
+    "name": "Demo_Construct",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "MG Rd, Karn\u0101taka",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560025"
+    }
+  }, {
+    "id": "38",
+    "proj_number": null,
+    "name": "Prash_1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>zyx<\/p>",
+    "address": {
+      "address": "JK Traders",
+      "city": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "zip": "482002"
+    }
+  }, {
+    "id": "39",
+    "proj_number": null,
+    "name": "test5",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "52",
+    "proj_number": null,
+    "name": "sfstg_02Apr2019_10001",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "51",
+    "proj_number": null,
+    "name": "frontendtesting",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "70",
+    "proj_number": null,
+    "name": "budget_check",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "59",
+    "proj_number": null,
+    "name": "SCH Test 1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "76",
+    "proj_number": null,
+    "name": "April12QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "83",
+    "proj_number": null,
+    "name": "Elita 111",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Finishes",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "80",
+    "proj_number": null,
+    "name": "April13QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "93",
+    "proj_number": null,
+    "name": "KSADemo",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +03:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>KSA Demo project<\/p>",
+    "address": {
+      "address": "4144 \u0645\u0645\u0631 \u0633\u064a\u0641 \u0627\u0644\u0625\u0633\u0644\u0627\u0645, \u0627\u0644\u0639\u0644\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629, \u0627\u0644\u0631\u064a\u0627\u0636, 12311-6862",
+      "city": "\u0627\u0644\u0631\u064a\u0627\u0636",
+      "state": "\u0627\u0644\u0631\u064a\u0627\u0636",
+      "zip": "12311"
+    }
+  }, {
+    "id": "88",
+    "proj_number": "12345",
+    "name": "Sample Project 1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>This is a sample project to help learn the tool and the product<\/p>",
+    "address": {
+      "address": "Magarpatta City",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411028"
+    }
+  }, {
+    "id": "94",
+    "proj_number": null,
+    "name": "QA_p1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "97",
+    "proj_number": "",
+    "name": "Demo - Ranch 1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>\r\r<\/p><p>Demo Ranch 1<\/p><p>Project Budget: 2.2 M<\/p><p>Estimated Duration: 120 Days<\/p><p>No. of units proposed: 32<\/p>\r\r<br><p><\/p>",
+    "address": {
+      "address": "Menlo Park, California",
+      "city": "Menlo Park",
+      "state": "California",
+      "zip": "94025"
+    }
+  }, {
+    "id": "98",
+    "proj_number": "",
+    "name": "Demo - Ranch 2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>\r\r<\/p><p>Demo Ranch - 2<\/p><p>Project Budget: 2.2 M<\/p><p>Estimated Duration: 120 Days<\/p><p>No. of units proposed: 32<\/p><p><\/p>",
+    "address": {
+      "address": "Menlo Park, California",
+      "city": "Menlo Park",
+      "state": "California",
+      "zip": "94025"
+    }
+  }, {
+    "id": "99",
+    "proj_number": null,
+    "name": "sfstg_19Apr2019_10001",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "102",
+    "proj_number": null,
+    "name": "sfstg_22Apr2019_10001",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "106",
+    "proj_number": null,
+    "name": "April23_QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "105",
+    "proj_number": null,
+    "name": "22nd April QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "107",
+    "proj_number": null,
+    "name": "JA 23Apr",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "108",
+    "proj_number": null,
+    "name": "23rd April Nan",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "109",
+    "proj_number": null,
+    "name": "April24_QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "110",
+    "proj_number": null,
+    "name": "Apr 24-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "111",
+    "proj_number": null,
+    "name": "APR 24-QA2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "120",
+    "proj_number": null,
+    "name": "Notifications Count Project",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>This project is made to make a note of all the email notifications that are triggered<\/p>",
+    "address": {
+      "address": "572226",
+      "city": "Chiknayakanhalli",
+      "state": "Karnataka",
+      "zip": "572226"
+    }
+  }, {
+    "id": "130",
+    "proj_number": null,
+    "name": "April26_QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "129",
+    "proj_number": null,
+    "name": "26th AprilTest",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "128",
+    "proj_number": null,
+    "name": "RN_Test",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Test<\/p>",
+    "address": {
+      "address": "Menlo Park, California",
+      "city": "Menlo Park",
+      "state": "California",
+      "zip": "94025"
+    }
+  }, {
+    "id": "131",
+    "proj_number": null,
+    "name": "APR 26-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "132",
+    "proj_number": null,
+    "name": "April29_QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "133",
+    "proj_number": null,
+    "name": "APR-29",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "134",
+    "proj_number": null,
+    "name": "Apr 29-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "137",
+    "proj_number": null,
+    "name": "29th Apr",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "141",
+    "proj_number": null,
+    "name": "Testnew_S3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Test project for S3.<\/p>",
+    "address": {
+      "address": "MG Road Metro Station-Entrance B",
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "zip": "682035"
+    }
+  }, {
+    "id": "140",
+    "proj_number": null,
+    "name": "sfstg_29Apr2019_10001",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "157",
+    "proj_number": null,
+    "name": "May 6-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "144",
+    "proj_number": null,
+    "name": "April30_QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "161",
+    "proj_number": null,
+    "name": "Jeanine UAT",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "165",
+    "proj_number": null,
+    "name": "demoo",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Creating dummy projects<\/p>",
+    "address": {
+      "address": "Mumbai, Maharashtra",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400001"
+    }
+  }, {
+    "id": "164",
+    "proj_number": null,
+    "name": "schedulerbudgetAPI20",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "166",
+    "proj_number": null,
+    "name": "schedulerbudgetAPI21",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "167",
+    "proj_number": null,
+    "name": "Katerra Apollo Construct Office, Bangalore",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "The new office building for Katerra Apollo Construct in Bangalore<div><br><\/div><div>Construction start date: 08\/02\/2018<\/div><div>Expected end Date: 01\/01\/2019<\/div><div><br><\/div><div><br><iframe id=\"glue\" tabindex=\"-1\" style=\"position: absolute; width: 0px; height: 0px; border: none; left: -1000px; top: -1000px;\"><\/iframe><\/div>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "168",
+    "proj_number": null,
+    "name": "sample",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "abcasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss<iframe id=\"editorembed\" tabindex=\"-1\" style=\"position: absolute; width: 0px; height: 0px; border: none; left: -1000px; top: -1000px;\"><\/iframe>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "169",
+    "proj_number": null,
+    "name": "Jeanine Import Test",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "Las Vegas, Nevada",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zip": "89101"
+    }
+  }, {
+    "id": "170",
+    "proj_number": null,
+    "name": "Katerra Sample project",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "This is the sample&nbsp;<iframe id=\"glue\" tabindex=\"-1\" style=\"position: absolute; width: 0px; height: 0px; border: none; left: -1000px; top: -1000px;\"><\/iframe>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "171",
+    "proj_number": null,
+    "name": "aaa",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "ababdhadha<iframe id=\"editorembed\" tabindex=\"-1\" style=\"position: absolute; width: 0px; height: 0px; border: none; left: -1000px; top: -1000px;\"><\/iframe>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "172",
+    "proj_number": null,
+    "name": "Template Check",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>A test project<\/p>",
+    "address": {
+      "address": "Bhubaneswar, Khordha, Odisha",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "zip": "751001"
+    }
+  }, {
+    "id": "173",
+    "proj_number": "",
+    "name": "Test Project 13 May",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Turnkey",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Test Project Created by Ramprasad to explore the features<\/p>",
+    "address": {
+      "address": "MG Road Metro Station-Entrance B",
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "zip": "682035"
+    }
+  }, {
+    "id": "174",
+    "proj_number": null,
+    "name": "SA_Test_13 May",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "175",
+    "proj_number": null,
+    "name": "schedulerbudget25",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "177",
+    "proj_number": null,
+    "name": "Mobile Safety Demo",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "Church Street, Ashok Nagar, Bengaluru, Karnataka, 560025",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560025"
+    }
+  }, {
+    "id": "178",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Project created for UAT - Phase 1<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "179",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "180",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "181",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 4",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "182",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 5",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "183",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 6",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "184",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 7",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "185",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 8",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "186",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 9",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "187",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 10",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "188",
+    "proj_number": null,
+    "name": "UAT Phase 1 - PK",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "200",
+    "proj_number": null,
+    "name": "16May-JA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "201",
+    "proj_number": null,
+    "name": "PCCO-Migration-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "193",
+    "proj_number": null,
+    "name": "Automation123",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "208",
+    "proj_number": null,
+    "name": "SA_Test_17th May",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "196",
+    "proj_number": null,
+    "name": "project_budget",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "197",
+    "proj_number": null,
+    "name": "PCCO New Flow",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "217",
+    "proj_number": "110",
+    "name": "Test Construct Naveen",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Learning and Development",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>High-rise <b><i><\/i><\/b><i><\/i><u><small><\/small><\/u>Residential<u><\/u><i><\/i> Project with clubhouse and basic amenities.<br><\/p>",
+    "address": {
+      "address": "Esteem Classic",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560086"
+    }
+  }, {
+    "id": "204",
+    "proj_number": null,
+    "name": "schedulerbudget26",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "205",
+    "proj_number": null,
+    "name": "schedulerbudget30",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "218",
+    "proj_number": null,
+    "name": "Construct_Test123",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "224",
+    "proj_number": null,
+    "name": "stg_DoNotUse_Automation_05-20-2019_1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "225",
+    "proj_number": null,
+    "name": "stg_DoNotUse_Automation_05-20-2019_2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "293",
+    "proj_number": null,
+    "name": "Sk_27_05",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "228",
+    "proj_number": null,
+    "name": "web-automation-1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "234",
+    "proj_number": "",
+    "name": "Revazza Consta",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Turnkey",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>Test Project<\/p>",
+    "address": {
+      "address": "1 Indiranagar Double Road, Indira Nagar, Bengaluru, Karnataka, 560038",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560038"
+    }
+  }, {
+    "id": "235",
+    "proj_number": null,
+    "name": "Web-Automation-2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "236",
+    "proj_number": null,
+    "name": "Web-Automation-3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "237",
+    "proj_number": null,
+    "name": "Web-Automation-4",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "238",
+    "proj_number": null,
+    "name": "Web-Automation-5",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "239",
+    "proj_number": null,
+    "name": "Web-Automation-6",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "240",
+    "proj_number": null,
+    "name": "Web-Automation-7",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "299743",
+    "proj_number": null,
+    "name": "web-automation-132",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "357",
+    "proj_number": null,
+    "name": "cy-automation-1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "358",
+    "proj_number": null,
+    "name": "cy-automation-2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "294",
+    "proj_number": null,
+    "name": "Test_Scheduler",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "246",
+    "proj_number": null,
+    "name": "stg_DoNotUse_Automation_05-23-2019_1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "247",
+    "proj_number": null,
+    "name": "stg_DoNotUse_Automation_05-23-2019_2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "248",
+    "proj_number": null,
+    "name": "Migration-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "249",
+    "proj_number": null,
+    "name": "migration-PCCO-QA3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "272",
+    "proj_number": null,
+    "name": "auto-1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "560087",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560087"
+    }
+  }, {
+    "id": "254",
+    "proj_number": null,
+    "name": "may 24-mail QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "252",
+    "proj_number": null,
+    "name": "May 24-QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "253",
+    "proj_number": null,
+    "name": "May24_QA",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "299",
+    "proj_number": null,
+    "name": "May30_QA_H1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +05:30",
+    "dst": 0,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "New Delhi, Delhi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110001"
+    }
+  }, {
+    "id": "257",
+    "proj_number": null,
+    "name": "May27_QA_H1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "260",
+    "proj_number": null,
+    "name": "schedulerpostmanrun(do not use)",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "261",
+    "proj_number": "",
+    "name": "Katerra Saudi",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT +03:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "12722",
+      "city": "\u0627\u0644\u0631\u064a\u0627\u0636",
+      "state": "\u0627\u0644\u0631\u064a\u0627\u0636",
+      "zip": "12722"
+    }
+  }, {
+    "id": "326",
+    "proj_number": null,
+    "name": "SK_Test_31",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "263",
+    "proj_number": null,
+    "name": "test1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "264",
+    "proj_number": null,
+    "name": "NewTest",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "295",
+    "proj_number": null,
+    "name": "May29_QA_H1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "275",
+    "proj_number": null,
+    "name": "auto-2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "296",
+    "proj_number": null,
+    "name": "SK_Test1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "307",
+    "proj_number": null,
+    "name": "Sonia_test",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "284",
+    "proj_number": null,
+    "name": "May28_QA_H1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "301",
+    "proj_number": null,
+    "name": "auto-3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "309",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 11",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "317",
+    "proj_number": null,
+    "name": "May31_QA_H1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>QA<\/p>",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "310",
+    "proj_number": null,
+    "name": "UAT PHase 1 - Project 12",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "311",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 13",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "312",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 14",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "313",
+    "proj_number": null,
+    "name": "UAT Phase 1 - Project 15",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "314",
+    "proj_number": null,
+    "name": "stg_DND_Automation_05-31-2019_1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "315",
+    "proj_number": null,
+    "name": "stg_DND_Automation_05-31-2019_2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "343",
+    "proj_number": null,
+    "name": "aut123",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "347",
+    "proj_number": null,
+    "name": "Projectresource1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "365",
+    "proj_number": null,
+    "name": "test_ocr",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "361",
+    "proj_number": null,
+    "name": "stg_DoNotUse_Automation_06-07-2019_1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "351",
+    "proj_number": "",
+    "name": "RN_Test - 0506",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "362",
+    "proj_number": null,
+    "name": "stg_DoNotUse_Automation_06-07-2019_2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "367",
+    "proj_number": null,
+    "name": "test_ocr_1",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "369",
+    "proj_number": null,
+    "name": "test_ocr_3",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "368",
+    "proj_number": null,
+    "name": "test_ocr_2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "398",
+    "proj_number": null,
+    "name": "UAT Project 11",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "382",
+    "proj_number": null,
+    "name": "sfstg_11Jun2019_10001",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }, {
+    "id": "409",
+    "proj_number": null,
+    "name": "Jeanine Usability Testing 2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "<p>13June2019&nbsp; 2nd Round usability testing<\/p>",
+    "address": {
+      "address": "US-95 N, Las Vegas, Nevada, 89108",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zip": "89108"
+    }
+  }, {
+    "id": "408",
+    "proj_number": null,
+    "name": "Jeanine UAT round 2",
+    "role": "Administrator",
+    "timezone": "UTC\/GMT -08:00",
+    "dst": 1,
+    "project_type": "Design",
+    "enabled": "1",
+    "view_state": "private",
+    "description": "",
+    "address": {
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "0"
+    }
+  }]
+}

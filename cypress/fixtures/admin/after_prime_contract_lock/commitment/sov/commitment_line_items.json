@@ -1,0 +1,41 @@
+{
+  "line_items": [
+     {
+        "cost_type": null,
+        "description": null,
+        "item_parent": "1555669943371",
+        "unit": null,
+        "quantity": 0,
+        "rate": 0,
+        "contract_amount": 0,
+        "approved_cco": 0,
+        "is_leaf": true,
+        "default_child": true,
+        "pay_out_id": null,
+        "open_cco_id": "5cc2d186bf6d3b000ee6ceb5",
+        "requisitions_amount": 0,
+        "retainage": 0,
+        "requisitions_to_date": 0,
+        "approved_retainage_to_date": 0,
+        "total_completed_and_stored_to_date": 0,
+        "approved_requisitions": 0,
+        "previous_approved_requisitions_to_date": 0,
+        "previous_approved_retainage_to_date": 0,
+        "requisitions_payment_received": 0,
+        "previous_payment_due": 0,
+        "revised_quantity": 1,
+        "revised_unit": "",
+        "revised_rate": 0,
+        "has_cco": true,
+        "has_requisition": false,
+        "has_approved_pay_out": false,
+        "_id": "5cc171386d2308000fe29ddf",
+        "cost_code": "017400",
+        "name": "Audio-Video Systems",
+        "total_bill_amount": 0,
+        "revised_contract_amount": 0,
+        "pending_requisitions": 0,
+        "requisitions_payment_pending": 0
+     }
+  ]
+}

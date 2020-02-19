@@ -1,0 +1,20 @@
+Project,Cost Code,Cost Type,Vendor ID,Vendor (adjusted),Item Text,Actuals
+Sprint - 18 QA Project,3,Labour,VEN104991,"Acme Construction Supply Co., Inc.",CONSAPAcrlMay19Un2k.VIM53242.ACMECONSTRUCTION,100
+Sprint - 18 QA Project,0,Labour,98765ty 8,"Acme Construction Supply Co., Inc.",CONSAPAcrlMay19Un2k.VIM60528.ACMECONSTRUCTION,200
+Sprint - 18 QA Project,3,Labour,98765ty 8,"Acme Construction Supply Co., Inc.",CONSAPAcrlMay19Un2k.VIM60532.ACMECONSTRUCTION,"2,500"
+Sprint - 18 QA Project,3,Labour,VEN10499,"Acme Construction Supply Co., Inc.",CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,-9000
+Sprint - 18 QA Project,3,Test,12345,Acoustics Systems Inc,CONSAPAcrlNONPOOver2KAUG19.VIM92023.202819,340
+Sprint - 18 QA Project,3,123456,VEN10499,Aerotek Commercial Staffing,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,560
+Sprint - 18 QA Project,3,Labour,VEN10499,,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,500
+Sprint - 18 QA Project,15-000,Test,12345,MECHANICAL,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,1
+Sprint - 18 QA Project,15-300,Test,12345,Fire Sprinkler System,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,2
+Sprint - 18 QA Project,15-400,Test,12345,Plumbing,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,3
+Sprint - 18 QA Project,15-450,Test,12345,Shower Pans,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,4
+Sprint - 18 QA Project,15-500,Test,12345,HVAC Work,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,5
+Sprint - 18 QA Project,16,Test,12345,Electrical,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,6
+Sprint - 18 QA Project,16-1,Labour,VEN10499,Electrical Work,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,7
+Sprint - 18 QA Project,16-2,Labour,VEN10499,Electrical - Labor Only,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,8
+Sprint - 18 QA Project,16-3,Labour,VEN10499,Electrical - Material Only,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,9
+Sprint - 18 QA Project,16-4,Labour,VEN10499,Underground Electric,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,10
+Sprint - 18 QA Project,16-5,Labour,VEN10499,Tel/Data Systems,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,11
+Sprint - 18 QA Project,16-6,Labour,VEN10499,Security & Surveillance,CONSAPAcrlMay19Un2k.VIM61536.ACMECONSTRUCTION,12

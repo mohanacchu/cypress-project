@@ -1,0 +1,123 @@
+{
+  "attachments": {
+    "attachments": [{
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "Download.png",
+      "file_size": 585,
+      "file_type": "image/png",
+      "blob_name": "1549258600_photos_photo_download.png",
+      "file_source": "albums",
+      "path": "automation-test",
+      "label": "Download.png",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258600_photos_photo_download.png"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "Images.png",
+      "file_size": 821,
+      "file_type": "image/png",
+      "blob_name": "1549258602_photos_photo_images.png",
+      "file_source": "albums",
+      "path": "automation-test",
+      "label": "Images.png",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258602_photos_photo_images.png"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "Images (1).png",
+      "file_size": 426,
+      "file_type": "image/png",
+      "blob_name": "1549258603_photos_photo_images (1).png",
+      "file_source": "albums",
+      "path": "automation-test",
+      "label": "Images (1).png",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258603_photos_photo_images (1).png"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "Thumb-jpg.png",
+      "file_size": 2435,
+      "file_type": "image/png",
+      "blob_name": "1549258607_photos_photo_thumb-jpg.png",
+      "file_source": "albums",
+      "path": "automation-test",
+      "label": "Thumb-jpg.png",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258607_photos_photo_thumb-jpg.png"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "Sample-graphic.jpg",
+      "file_size": 13507,
+      "file_type": "image/jpeg",
+      "blob_name": "1549258605_photos_photo_sample-graphic.jpg",
+      "file_source": "albums",
+      "path": "automation-test",
+      "label": "Sample-graphic.jpg",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258605_photos_photo_sample-graphic.jpg"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf",
+      "file_size": 844563,
+      "file_type": "application/pdf",
+      "blob_name": "1549259415976-1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf",
+      "file_source": "drawings",
+      "path": "/home/automation-test",
+      "label": "1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549259415976-1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf",
+      "file_size": 844563,
+      "file_type": "application/pdf",
+      "blob_name": "1549259529707-1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf",
+      "file_source": "drawings",
+      "path": "/home/automation-test",
+      "label": "1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549259529707-1548248273332-1940 - Civil Plans_04-18-2018-Permit131927219148584783_1.pdf"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "1546579350497-]jan21_attachment_test.png",
+      "blob_name": "1549261312319-1546579350497-]jan21_attachment_test.png",
+      "file_source": "documents",
+      "path": "/home/web-automation-132/doc1",
+      "label": "1546579350497-]jan21_attachment_test.png",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549261312319-1546579350497-]jan21_attachment_test.png"
+    }, {
+      "is_delete": false,
+      "user_name": "",
+      "email": "",
+      "date_added": 1549452431456,
+      "file_name": "1546579327085-{jan22_check.png",
+      "blob_name": "1549261259474-1546579327085-{jan22_check.png",
+      "file_source": "documents",
+      "path": "/home/web-automation-132/doc1",
+      "label": "1546579327085-{jan22_check.png",
+      "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549261259474-1546579327085-{jan22_check.png"
+    }],
+    "_id": "5c57cfa1151f21000e8fdc4f",
+    "feature_id": "5c52f3ac151f21000e8fc27e",
+    "feature": "payment",
+    "date_of_creation": 1549258657241,
+    "download_url": "https://ayogasm.blob.core.windows.net/testcontainer/"
+  }
+}

@@ -1,0 +1,103 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "realname": "Katerra Admin",
+        "email": "admin@katerra.com",
+        "company": "",
+        "job_title": "",
+        "phone": null,
+        "role_id": "Administrator"
+      },
+      {
+        "id": "3",
+        "realname": "Vijendra Sirbaiya",
+        "email": "vijendra.sirbaiya@katerra.com",
+        "company": "Katerra Inc",
+        "job_title": "",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "7",
+        "realname": "Vishakha Gupta",
+        "email": "vishakha.gupta@katerra.com",
+        "company": "Katerra Inc",
+        "job_title": "",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "8",
+        "realname": "Rajib Official",
+        "email": "rajibranjan.nath@katerra.com",
+        "company": "Katerra Construction LLC",
+        "job_title": "",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "17",
+        "realname": "Shobhasri Raghavan",
+        "email": "shobhasri.raghavan@katerra.com",
+        "company": "Ayoga",
+        "job_title": "L&D",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "13",
+        "realname": "Yashodhara",
+        "email": "yashodhara.shiradhonkar@katerra.com",
+        "company": "Katerra Inc",
+        "job_title": "",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "16",
+        "realname": "Harish N",
+        "email": "harish.nanjundaiah@katerra.com",
+        "company": "Katerra Inc",
+        "job_title": "Developer",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "18",
+        "realname": "Suchetha Prasanna",
+        "email": "Suchetha.Prasanna@katerra.com",
+        "company": "Ayoga",
+        "job_title": "Technical Writer (Apollo Constru",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "19",
+        "realname": "Nadia Gomes",
+        "email": "nadia.gomes@katerra.com",
+        "company": "Ayoga",
+        "job_title": "Help Videos (Apollo Construct He",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "20",
+        "realname": "Mohammed Mujeeb",
+        "email": "Mohammed.Mujeeb@katerra.com",
+        "company": "Ayoga",
+        "job_title": "Software Engineer (Apollo Constr",
+        "phone": "",
+        "role_id": "Administrator"
+      },
+      {
+        "id": "22",
+        "realname": "vidya sagar",
+        "email": "vidyasagar.p@terralogic.com",
+        "company": "Katerra Inc",
+        "job_title": "",
+        "phone": "",
+        "role_id": "Administrator"
+      }
+    ]
+  }

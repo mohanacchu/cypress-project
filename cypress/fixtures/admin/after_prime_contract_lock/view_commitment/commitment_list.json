@@ -1,0 +1,24 @@
+{
+    "commitments": [
+        {
+            "number": null,
+            "title": null,
+            "status": null,
+            "company": "Katerra Inc. - 1",
+            "company_name": "Katerra Inc.",
+            "company_id": "5ca5f72ea6595b000eed9808",
+            "commitment_id": "5d709f8d3fedac0010b10f58",
+            "commitment_name": "Katerra Inc. - 1",
+            "contract_amount": 0,
+            "approved_change_order": 0,
+            "revised_contract_amount": 0,
+            "requisitions_to_date": 2.01,
+            "approved_requisitions": 3,
+            "payment_made": 0,
+            "payment_pending": 3,
+            "pending_change_orders": 0,
+            "pending_revised_contract_amount": 0,
+            "commitment_lock": true
+        }
+    ]
+}

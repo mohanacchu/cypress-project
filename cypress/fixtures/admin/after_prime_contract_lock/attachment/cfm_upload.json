@@ -1,0 +1,12 @@
+{
+    "url": "https://s3.amazonaws.com/construct-staging",
+    "fields": {
+        "key": "stg/project/1242/feature/CCO/5def66c6a0779300105694ef/2510217482.jpg",
+        "bucket": "construct-staging",
+        "X-Amz-Algorithm": "AWS4-HMAC-SHA256",
+        "X-Amz-Credential": "AKIAS4XPLDF5KLPQDW4Q/20191210/us-east-1/s3/aws4_request",
+        "X-Amz-Date": "20191210T093503Z",
+        "Policy": "eyJleHBpcmF0aW9uIjoiMjAxOS0xMi0xMFQxMToxNTowM1oiLCJjb25kaXRpb25zIjpbeyJrZXkiOiJzdGcvcHJvamVjdC8xMjQyL2ZlYXR1cmUvQ0NPLzVkZWY2NmM2YTA3NzkzMDAxMDU2OTRlZi8yNTEwMjE3NDgyLmpwZyJ9LHsiYnVja2V0IjoiY29uc3RydWN0LXN0YWdpbmcifSx7IlgtQW16LUFsZ29yaXRobSI6IkFXUzQtSE1BQy1TSEEyNTYifSx7IlgtQW16LUNyZWRlbnRpYWwiOiJBS0lBUzRYUExERjVLTFBRRFc0US8yMDE5MTIxMC91cy1lYXN0LTEvczMvYXdzNF9yZXF1ZXN0In0seyJYLUFtei1EYXRlIjoiMjAxOTEyMTBUMDkzNTAzWiJ9XX0=",
+        "X-Amz-Signature": "3263571b6d1aa054b0924e170728ddaabf8d6bda557db792bfd1ec64ba918757"
+    }
+}

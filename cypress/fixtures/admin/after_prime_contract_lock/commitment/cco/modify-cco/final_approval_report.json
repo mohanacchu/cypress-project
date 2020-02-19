@@ -1,0 +1,69 @@
+{
+    "result": {
+      "message": "Pdf created successfully",
+      "url": "http://katerratest.ayoga.net:5100/CCO_report_.pdf",
+      "report_data_to_construct": {
+        "project_id": "299743",
+        "company": "Katerra",
+        "to_contractor_address1": "Katerra Construction LLC",
+        "to_contractor_address2": "9305 E Via de Ventura, Ste 200",
+        "to_contractor_address3": "Scottsdale Arizona 85258",
+        "project_name": "budget-automation-3",
+        "project_address": "",
+        "project_city": "",
+        "project_state": ", 0",
+        "project_zip": "0",
+        "project_no": null,
+        "cco_number": "CCO #55555",
+        "cco_title": "Sub Contract Change Order #55555:title",
+        "from_subcontractor_address1": "Katerra",
+        "from_subcontractor_address2": "",
+        "from_subcontractor_address3": "",
+        "date_created": "02-26-2019",
+        "contract_status": "",
+        "co_status": "Approved",
+        "designated_reviewers": "Vijendra Sirbaiya",
+        "due_date": "03-01-2019",
+        "contract_for": "150219: automation",
+        "created_by": "Katerra Admin",
+        "reviewed_by": "Vijendra Sirbaiya",
+        "reviewed_date": "02-25-2019",
+        "change_reason": "Client Request",
+        "executed": "YES",
+        "schedule_impact": "YES(333)",
+        "description": "<p>budget</p>\n",
+        "original_contract_sum": "0.00",
+        "net_change_prev_change_orders": "0.00",
+        "prev_change_orders_contract_sum": "0.00",
+        "increased_contract_sum_current_change_order": "4500.76",
+        "new_contract_sum": "4500.76",
+        "report_generated_time": "02/26/2019",
+        "attachments": [],
+        "co_line_items": [
+          {
+            "item_no": "1",
+            "cost_code": "061000 target 2",
+            "description": null,
+            "cost_type": null,
+            "amount": "0.76"
+          },
+          {
+            "item_no": "2",
+            "cost_code": "061000 Rough Carpentry",
+            "description": null,
+            "cost_type": null,
+            "amount": "2000.00"
+          },
+          {
+            "item_no": "3",
+            "cost_code": "061000 target 1",
+            "description": null,
+            "cost_type": null,
+            "amount": "2500.00"
+          }
+        ],
+        "sub_total": "4500.76",
+        "grand_total": "4500.76"
+      }
+    }
+  }

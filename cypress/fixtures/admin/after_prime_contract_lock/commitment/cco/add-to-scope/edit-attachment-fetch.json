@@ -1,0 +1,77 @@
+{
+  "attachments": {
+    "attachments": [
+      {
+        "is_delete": false,
+        "user_name": "",
+        "email": "",
+        "date_added": 1553588970949,
+        "file_name": "land.jpg",
+        "blob_name": "1553587432108-land.jpg",
+        "file_source": "documents",
+        "path": "/home/cypress01/node03",
+        "label": "land.jpg",
+        "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1553587432108-land.jpg"
+      },
+      {
+        "is_delete": false,
+        "user_name": "",
+        "email": "",
+        "date_added": 1553588970949,
+        "file_name": "two-med-lake-reflections-lead.jpg",
+        "blob_name": "1553587415642-two-med-lake-reflections-lead.jpg",
+        "file_source": "documents",
+        "path": "/home/cypress01/node02",
+        "label": "two-med-lake-reflections-lead.jpg",
+        "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1553587415642-two-med-lake-reflections-lead.jpg"
+      },
+      {
+        "is_delete": false,
+        "user_name": "",
+        "email": "",
+        "date_added": 1553588970949,
+        "file_name": "Legend.png",
+        "file_size": 59905,
+        "file_type": "image/png",
+        "blob_name": "1553583579_photos_photo_legend.png",
+        "file_source": "albums",
+        "path": "album01",
+        "label": "Legend.png",
+        "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1553583579_photos_photo_legend.png"
+      },
+      {
+        "is_delete": false,
+        "user_name": "",
+        "email": "",
+        "date_added": 1553588970949,
+        "file_name": "0.jpg",
+        "file_size": 155249,
+        "file_type": "image/jpeg",
+        "blob_name": "1553583579_photos_photo_0.jpg",
+        "file_source": "albums",
+        "path": "album01",
+        "label": "0.jpg",
+        "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1553583579_photos_photo_0.jpg"
+      },
+      {
+        "is_delete": false,
+        "user_name": "",
+        "email": "",
+        "date_added": 1553588970949,
+        "file_name": "dummy2.pdf",
+        "file_size": 13264,
+        "file_type": "application/pdf",
+        "blob_name": "1553587931937-dummy2.pdf",
+        "file_source": "drawings",
+        "path": "/home/draw3",
+        "label": "dummy2.pdf",
+        "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1553587931937-dummy2.pdf"
+      }
+    ],
+    "_id": "5c99e2eb92f361000f1a15e3",
+    "feature_id": "5c99e2e992f361000f1a15db",
+    "feature": "cco",
+    "date_of_creation": 1553588971191,
+    "download_url": "https://ayogasm.blob.core.windows.net/testcontainer/"
+  }
+}

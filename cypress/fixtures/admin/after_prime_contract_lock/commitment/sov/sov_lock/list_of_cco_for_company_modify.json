@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "_id": "5cde8f32b6f7e1000ed99935",
+      "number": "999",
+      "co_type": "cco_modify_scope",
+      "project_id": "299743",
+      "title": "triple",
+      "reason": "Material Change",
+      "assignee": [
+        {
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "email": "admin@katerra.com"
+        }
+      ],
+      "due_date": "05-19-2019",
+      "status": "pending_approval",
+      "company": "Katerra Inc.",
+      "created_on": "2019-05-17T10:38:42.035Z",
+      "updated_on": "2019-05-17T10:38:42.035Z",
+      "difference_amount": 3872,
+      "type": "Modify Scope",
+      "can_delete_cco": true,
+      "is_approval_workflow_started": false
+    }
+  ]
+}

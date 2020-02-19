@@ -1,0 +1,83 @@
+{
+    "project_id": "228",
+    "_id": "5d7b30141e8fe60010c6d4ff",
+    "type": "Commitment Change Order Modify Scope",
+    "history": [{
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@Katerra.com"
+            },
+            "details": [{
+                "specific_action_details": [
+                    "Commitment Change Order - Modify Scope created successfully"
+                ],
+                "specific_action": "CCO Modify Scope Created"
+            }],
+            "created_on": 1568354324019,
+            "action": "Created CCO Modify Scope"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [{
+                "specific_action_details": [
+                    "Title: \"modify scope\" changed to \"modify scopes\""
+                ],
+                "specific_action": "General Information Changes:"
+            }],
+            "created_on": 1569224658153,
+            "action": "Change Order Updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [{
+                    "specific_action_details": [
+                        "#CCO - test, Approved Qty: 100, Approved Unit: positive, Approved Unit Rate: -$0.88, Approved Change Order Value: -$88.00 (Approved Contract Amount: -$88.00)",
+                        "#CCO - test, Approved Qty: -22, Approved Unit: dollar, Approved Unit Rate: -$44.00, Approved Change Order Value: $968.00 (Approved Contract Amount: $968.00)"
+                    ],
+                    "specific_action": "Approved Line Items:"
+                },
+                {
+                    "specific_action_details": [
+                        "Task Name: Test, Task Type: Approval, Duration:5, Start_Date: 09-13-2019, Due_Date:09-18-2019, Assignee:ABC123"
+                    ],
+                    "specific_action": "Approved Workflow Task:"
+                }
+            ],
+            "created_on": 1569236044058,
+            "action": "Change Order Approved"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [{
+                    "specific_action_details": [
+                        "#CCO - test, Approved Qty: -99, Approved Unit: , Approved Unit Rate: $55.00, Approved Change Order Value: -$5,445.00 (Approved Contract Amount: -$5,445.00)",
+                        "#CCO - test, Approved Qty: -22, Approved Unit: dollar, Approved Unit Rate: -$44.00, Approved Change Order Value: $968.00 (Approved Contract Amount: $968.00)"
+                    ],
+                    "specific_action": "Approved Line Items:"
+                },
+                {
+                    "specific_action_details": [
+                        "Task Name: Test1, Task Type: Review, Duration:4, Start_Date: 09-19-2019, Due_Date:09-23-2019, Assignee:ABC123"
+                    ],
+                    "specific_action": "Approved Workflow Task:"
+                }
+            ],
+            "created_on": 1569242345204,
+            "action": "Change Order Approved"
+        }
+    ],
+    "__v": 0
+}

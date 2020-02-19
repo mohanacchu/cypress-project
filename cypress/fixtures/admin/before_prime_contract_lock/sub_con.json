@@ -1,0 +1,59 @@
+{
+  "subcontractors": [{
+    "company": "Katerra",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Test",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Calderys",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Materials",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Test XYZ Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Integrity Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "20/20 Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hirschi Masonry, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Nevada Gypsum Floors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KEC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Test Company - 123456",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Company 1",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ABC Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KEF",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }]
+}

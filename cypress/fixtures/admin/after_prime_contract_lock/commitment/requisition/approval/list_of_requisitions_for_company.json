@@ -1,0 +1,30 @@
+{
+    "result": [{
+        "_id": "5d51398633a94f0010c257ab",
+        "payment_status": "under_approval",
+        "invoice_ref_no": "123456",
+        "billing_period_from": "2019-08-01T00:00:00.000Z",
+        "billing_period_to": "2019-08-07T00:00:00.000Z",
+        "bill_title": "test",
+        "approver": [{
+            "user_id": "9",
+            "user_name": "Rajib Official",
+            "email": "rajibranjan.nath@katerra.com"
+        }],
+        "revised_contract_amount": 0,
+        "payment_received": 0,
+        "total_completed_and_stored_to_date": -33,
+        "requisitions_to_date": 7.37,
+        "total_retainage_to_date": -40.37,
+        "created_at": "2019-08-12T10:03:50.520Z",
+        "work_completed_this_period": -33,
+        "work_retainage_this_period": -40.37,
+        "original_contract_amount": 0,
+        "net_approved_cco": 0,
+        "payment_due": 7.369999999999997,
+        "balance_to_finish": -7.37,
+        "percentage_completed": "-",
+        "can_delete_requisition": true,
+        "is_approval_workflow_started": false
+    }]
+}

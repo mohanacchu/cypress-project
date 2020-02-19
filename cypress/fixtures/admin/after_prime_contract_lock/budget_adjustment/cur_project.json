@@ -1,0 +1,26 @@
+{
+    "success": {
+        "id": 1309,
+        "proj_number": null,
+        "name": "cy-budget-01",
+        "status": 0,
+        "enabled": 1,
+        "view_state": "50",
+        "description": "<p>Automation running.Don't delete</p>",
+        "component_id": 1,
+        "latitude": 37.453,
+        "longitude": -122.1817,
+        "start_date": null,
+        "completion_date": null,
+        "project_stage": null,
+        "department": null,
+        "area": null,
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": null,
+        "timezone": "UTC/GMT -08:00",
+        "project_type": "Design and Development",
+        "timezoneValue": "America/Los_Angeles"
+    }
+}

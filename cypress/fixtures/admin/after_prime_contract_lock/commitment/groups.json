@@ -1,0 +1,48 @@
+{
+  "distribution_groups": [
+    {
+      "id": "9",
+      "name": "CC TESTER"
+    },
+    {
+      "id": "10",
+      "name": "For  3010"
+    },
+    {
+      "id": "6",
+      "name": "Krishna_list"
+    },
+    {
+      "id": "7",
+      "name": "NovTester"
+    },
+    {
+      "id": "11",
+      "name": "PDF_Test"
+    },
+    {
+      "id": "1",
+      "name": "QA Group"
+    },
+    {
+      "id": "2",
+      "name": "QA Group1"
+    },
+    {
+      "id": "3",
+      "name": "QA Group2"
+    },
+    {
+      "id": "4",
+      "name": "RN_DG"
+    },
+    {
+      "id": "5",
+      "name": "test group"
+    },
+    {
+      "id": "8",
+      "name": "Trial 1"
+    }
+  ]
+}

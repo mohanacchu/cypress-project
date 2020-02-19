@@ -1,0 +1,66 @@
+{
+    "permissions": {
+        "DailyLog": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Company": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        },
+        "BillingPeriod": {
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Inspections": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        },
+        "Permissions": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        },
+        "Distribution Groups": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        },
+        "Project": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        },
+        "Activity Code": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        },
+        "Sub Project": {
+            "add": false,
+            "read": false,
+            "create": false,
+            "update": false,
+            "delete": false
+        }
+    }
+}

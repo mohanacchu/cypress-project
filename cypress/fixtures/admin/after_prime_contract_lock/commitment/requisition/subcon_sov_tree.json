@@ -1,0 +1,3405 @@
+{
+  "line_items": [
+    {
+      "data": {
+        "_id": "5c541534151f21000e8fcdf0",
+        "item_id": "15420272633441",
+        "item_parent": "0",
+        "name": "Procurement and Contracting Requirements",
+        "cost_code": "000000",
+        "is_leaf": false,
+        "subcon_sov_id": null
+      },
+      "children": [
+        {
+          "data": {
+            "_id": "5c541538151f21000e8fcdfa",
+            "item_id": "1549014327592",
+            "item_parent": "15420272633441",
+            "name": "General Conditions",
+            "cost_code": "000000",
+            "is_leaf": true,
+            "subcon_sov_id": "5c541538151f21000e8fcdfb"
+          },
+          "children": [
+            {
+              "data": {
+                "description": null,
+                "item_parent": "1549014327592",
+                "quantity": 1,
+                "rate": 0,
+                "contract_amount": 0,
+                "approved_cco": 0,
+                "is_leaf": true,
+                "default_child": true,
+                "pay_out_id": null,
+                "open_cco_id": null,
+                "requisitions_amount": 0,
+                "retainage": 0,
+                "requisitions_to_date": 0,
+                "approved_retainage_to_date": 0,
+                "total_completed_and_stored_to_date": 0,
+                "approved_requisitions": 0,
+                "previous_approved_requisitions_to_date": 0,
+                "previous_approved_retainage_to_date": 0,
+                "requisitions_payment_received": 0,
+                "previous_payment_due": 0,
+                "revised_quantity": 1,
+                "revised_unit": null,
+                "revised_rate": 0,
+                "has_cco": false,
+                "has_requisition": false,
+                "has_approved_pay_out": false,
+                "_id": "5c541538151f21000e8fcdfc",
+                "cost_code": "000000",
+                "name": "General Conditions",
+                "unit": null,
+                "total_retainage_to_date": 0,
+                "balance_to_finish": 0,
+                "total_retainage": 0,
+                "total_bill_amount": 0,
+                "revised_contract_amount": 0,
+                "pending_requisitions": 0,
+                "requisitions_payment_pending": 0,
+                "req_quantity": 0,
+                "req_unit": 0,
+                "req_rate": 0
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541536151f21000e8fcdf3",
+            "item_id": "1549014325986",
+            "item_parent": "15420272633441",
+            "name": "General Conditions",
+            "cost_code": "000000",
+            "is_leaf": true,
+            "subcon_sov_id": "5c541536151f21000e8fcdf5"
+          },
+          "children": [
+            {
+              "data": {
+                "description": null,
+                "item_parent": "1549014325986",
+                "quantity": 1,
+                "rate": 0,
+                "contract_amount": 0,
+                "approved_cco": 0,
+                "is_leaf": true,
+                "default_child": true,
+                "pay_out_id": null,
+                "open_cco_id": null,
+                "requisitions_amount": 0,
+                "retainage": 0,
+                "requisitions_to_date": 0,
+                "approved_retainage_to_date": 0,
+                "total_completed_and_stored_to_date": 0,
+                "approved_requisitions": 0,
+                "previous_approved_requisitions_to_date": 0,
+                "previous_approved_retainage_to_date": 0,
+                "requisitions_payment_received": 0,
+                "previous_payment_due": 0,
+                "revised_quantity": 1,
+                "revised_unit": null,
+                "revised_rate": 0,
+                "has_cco": false,
+                "has_requisition": false,
+                "has_approved_pay_out": false,
+                "_id": "5c541536151f21000e8fcdf6",
+                "cost_code": "000000",
+                "name": "General Conditions",
+                "unit": null,
+                "total_retainage_to_date": 0,
+                "balance_to_finish": 0,
+                "total_retainage": 0,
+                "total_bill_amount": 0,
+                "revised_contract_amount": 0,
+                "pending_requisitions": 0,
+                "requisitions_payment_pending": 0,
+                "req_quantity": 0,
+                "req_unit": 0,
+                "req_rate": 0
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c54153a151f21000e8fce03",
+            "item_id": "1549014330132",
+            "item_parent": "15420272633441",
+            "name": "General Conditions",
+            "cost_code": "000000",
+            "is_leaf": true,
+            "subcon_sov_id": "5c54153a151f21000e8fce04"
+          },
+          "children": [
+            {
+              "data": {
+                "description": null,
+                "item_parent": "1549014330132",
+                "quantity": 1,
+                "rate": 0,
+                "contract_amount": 0,
+                "approved_cco": 0,
+                "is_leaf": true,
+                "default_child": true,
+                "pay_out_id": null,
+                "open_cco_id": null,
+                "requisitions_amount": 0,
+                "retainage": 0,
+                "requisitions_to_date": 0,
+                "approved_retainage_to_date": 0,
+                "total_completed_and_stored_to_date": 0,
+                "approved_requisitions": 0,
+                "previous_approved_requisitions_to_date": 0,
+                "previous_approved_retainage_to_date": 0,
+                "requisitions_payment_received": 0,
+                "previous_payment_due": 0,
+                "revised_quantity": 1,
+                "revised_unit": null,
+                "revised_rate": 0,
+                "has_cco": false,
+                "has_requisition": false,
+                "has_approved_pay_out": false,
+                "_id": "5c54153a151f21000e8fce05",
+                "cost_code": "000000",
+                "name": "General Conditions",
+                "unit": null,
+                "total_retainage_to_date": 0,
+                "balance_to_finish": 0,
+                "total_retainage": 0,
+                "total_bill_amount": 0,
+                "revised_contract_amount": 0,
+                "pending_requisitions": 0,
+                "requisitions_payment_pending": 0,
+                "req_quantity": 0,
+                "req_unit": 0,
+                "req_rate": 0
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541541151f21000e8fce1f",
+            "item_id": "154202726334533",
+            "item_parent": "15420272633441",
+            "name": "Available Project Information",
+            "cost_code": "003100",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54153f151f21000e8fce15",
+                "item_id": "154202726334644",
+                "item_parent": "154202726334533",
+                "name": "Permits",
+                "cost_code": "003146",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c541540151f21000e8fce16",
+                    "item_id": "1549014335408",
+                    "item_parent": "154202726334644",
+                    "name": "Permits",
+                    "cost_code": "003146",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c541540151f21000e8fce1a"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014335408",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c541540151f21000e8fce1b",
+                        "cost_code": "003146",
+                        "name": "Permits",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541552151f21000e8fce56",
+            "item_id": "1542027263346175",
+            "item_parent": "15420272633441",
+            "name": "General Conditions",
+            "cost_code": "007200",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541557151f21000e8fce6f",
+                "item_id": "1542027263346181",
+                "item_parent": "1542027263346175",
+                "name": "Sr. Superintendent",
+                "cost_code": "007206",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c541557151f21000e8fce70",
+                    "item_id": "1549014359873",
+                    "item_parent": "1542027263346181",
+                    "name": "Sr. Superintendent",
+                    "cost_code": "007206",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c541557151f21000e8fce71"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014359873",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c541557151f21000e8fce72",
+                        "cost_code": "007206",
+                        "name": "Sr. Superintendent",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541557151f21000e8fce69",
+                "item_id": "1542027263346179",
+                "item_parent": "1542027263346175",
+                "name": "Assistant Project Manager",
+                "cost_code": "007204",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c541557151f21000e8fce6a",
+                    "item_id": "1549014359805",
+                    "item_parent": "1542027263346179",
+                    "name": "Assistant Project Manager",
+                    "cost_code": "007204",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c541557151f21000e8fce6b"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014359805",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c541557151f21000e8fce6c",
+                        "cost_code": "007204",
+                        "name": "Assistant Project Manager",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce75",
+                "item_id": "1542027263347183",
+                "item_parent": "1542027263346175",
+                "name": "Assistant Superintendent",
+                "cost_code": "007208",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c541558151f21000e8fce76",
+                    "item_id": "1549014360028",
+                    "item_parent": "1542027263347183",
+                    "name": "Assistant Superintendent",
+                    "cost_code": "007208",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c541558151f21000e8fce77"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014360028",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c541558151f21000e8fce78",
+                        "cost_code": "007208",
+                        "name": "Assistant Superintendent",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce7b",
+                "item_id": "1542027263347185",
+                "item_parent": "1542027263346175",
+                "name": "Project Engineer II",
+                "cost_code": "007210",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c541558151f21000e8fce7c",
+                    "item_id": "1549014360098",
+                    "item_parent": "1542027263347185",
+                    "name": "Project Engineer II",
+                    "cost_code": "007210",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c541558151f21000e8fce7d"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014360098",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c541558151f21000e8fce7e",
+                        "cost_code": "007210",
+                        "name": "Project Engineer II",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541544151f21000e8fce27",
+            "item_id": "1542027263346132",
+            "item_parent": "15420272633441",
+            "name": "Project Forms",
+            "cost_code": "006000",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541545151f21000e8fce28",
+                "item_id": "1549014341583",
+                "item_parent": "1542027263346132",
+                "name": "Project Forms",
+                "cost_code": "006000",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541545151f21000e8fce2c"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014341583",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541545151f21000e8fce2d",
+                    "cost_code": "006000",
+                    "name": "Project Forms",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "data": {
+        "_id": "5c541558151f21000e8fce83",
+        "item_id": "1542027263347268",
+        "item_parent": "0",
+        "name": "General Requirements",
+        "cost_code": "010000",
+        "is_leaf": false,
+        "subcon_sov_id": null
+      },
+      "children": [
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fce84",
+            "item_id": "1549014360183",
+            "item_parent": "1542027263347268",
+            "name": "General Requirements",
+            "cost_code": "010000",
+            "is_leaf": true,
+            "subcon_sov_id": "5c541558151f21000e8fce85"
+          },
+          "children": [
+            {
+              "data": {
+                "description": "negative",
+                "item_parent": "1549014360183",
+                "quantity": 50,
+                "rate": 50,
+                "contract_amount": 2500,
+                "approved_cco": 0,
+                "is_leaf": true,
+                "default_child": false,
+                "pay_out_id": null,
+                "open_cco_id": null,
+                "requisitions_amount": 0,
+                "retainage": 0,
+                "requisitions_to_date": 0,
+                "approved_retainage_to_date": 0,
+                "total_completed_and_stored_to_date": 0,
+                "approved_requisitions": 0,
+                "previous_approved_requisitions_to_date": 0,
+                "previous_approved_retainage_to_date": 0,
+                "requisitions_payment_received": 0,
+                "previous_payment_due": 0,
+                "revised_quantity": 50,
+                "revised_unit": "rupee",
+                "revised_rate": 50,
+                "has_cco": false,
+                "has_requisition": false,
+                "has_approved_pay_out": false,
+                "_id": "5c54174c151f21000e8fd236",
+                "cost_code": "010000",
+                "name": "General negative",
+                "unit": "rupee",
+                "total_retainage_to_date": 0,
+                "balance_to_finish": 2500,
+                "total_retainage": 0,
+                "total_bill_amount": 0,
+                "revised_contract_amount": 2500,
+                "pending_requisitions": 2500,
+                "requisitions_payment_pending": 0,
+                "req_quantity": 0,
+                "req_unit": 0,
+                "req_rate": 0
+              },
+              "children": []
+            },
+            {
+              "data": {
+                "description": "positvie",
+                "item_parent": "1549014360183",
+                "quantity": 40,
+                "rate": 30,
+                "contract_amount": 1200,
+                "approved_cco": 0,
+                "is_leaf": true,
+                "default_child": true,
+                "pay_out_id": null,
+                "open_cco_id": null,
+                "requisitions_amount": 0,
+                "retainage": 0,
+                "requisitions_to_date": 0,
+                "approved_retainage_to_date": 0,
+                "total_completed_and_stored_to_date": 0,
+                "approved_requisitions": 0,
+                "previous_approved_requisitions_to_date": 0,
+                "previous_approved_retainage_to_date": 0,
+                "requisitions_payment_received": 0,
+                "previous_payment_due": 0,
+                "revised_quantity": 40,
+                "revised_unit": "euro",
+                "revised_rate": 30,
+                "has_cco": false,
+                "has_requisition": false,
+                "has_approved_pay_out": false,
+                "_id": "5c541558151f21000e8fce86",
+                "cost_code": "010000",
+                "name": "General  positive",
+                "unit": "euro",
+                "total_retainage_to_date": 0,
+                "balance_to_finish": 1200,
+                "total_retainage": 0,
+                "total_bill_amount": 0,
+                "revised_contract_amount": 1200,
+                "pending_requisitions": 1200,
+                "requisitions_payment_pending": 0,
+                "req_quantity": 0,
+                "req_unit": 0,
+                "req_rate": 0
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fce87",
+            "item_id": "1542027263347269",
+            "item_parent": "1542027263347268",
+            "name": "Postage / UPS/FedEx",
+            "cost_code": "010001",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce8f",
+                "item_id": "1549014360294",
+                "item_parent": "1542027263347269",
+                "name": "Postage / UPS/FedEx",
+                "cost_code": "010001",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fce90"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360294",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fce91",
+                    "cost_code": "010001",
+                    "name": "Postage / UPS/FedEx",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce8b",
+                "item_id": "1549014360242",
+                "item_parent": "1542027263347269",
+                "name": "Postage / UPS/FedEx",
+                "cost_code": "010001",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fce8c"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360242",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fce8d",
+                    "cost_code": "010001",
+                    "name": "Postage / UPS/FedEx",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce88",
+                "item_id": "1549014360208",
+                "item_parent": "1542027263347269",
+                "name": "Postage / UPS/FedEx",
+                "cost_code": "010001",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fce89"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360208",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fce8a",
+                    "cost_code": "010001",
+                    "name": "Postage / UPS/FedEx",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcef5",
+            "item_id": "1542027263347300",
+            "item_parent": "1542027263347268",
+            "name": "Temporary Doors and Windows",
+            "cost_code": "010033",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcef6",
+                "item_id": "1549014361471",
+                "item_parent": "1542027263347300",
+                "name": "Temporary Doors and Windows",
+                "cost_code": "010033",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcef7"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361471",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcef8",
+                    "cost_code": "010033",
+                    "name": "Temporary Doors and Windows",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fcec7",
+            "item_id": "1542027263347282",
+            "item_parent": "1542027263347268",
+            "name": "Watch person",
+            "cost_code": "010014",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fcec8",
+                "item_id": "1549014360941",
+                "item_parent": "1542027263347282",
+                "name": "Watch person",
+                "cost_code": "010014",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fcec9"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360941",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fceca",
+                    "cost_code": "010014",
+                    "name": "Watch person",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fce98",
+            "item_id": "1542027263347271",
+            "item_parent": "1542027263347268",
+            "name": "Temp Fencing",
+            "cost_code": "010003",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce99",
+                "item_id": "1549014360419",
+                "item_parent": "1542027263347271",
+                "name": "Temp Fencing",
+                "cost_code": "010003",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fce9a"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360419",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fce9b",
+                    "cost_code": "010003",
+                    "name": "Temp Fencing",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce9d",
+                "item_id": "1549014360472",
+                "item_parent": "1542027263347271",
+                "name": "Temp Fencing",
+                "cost_code": "010003",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fce9e"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360472",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fce9f",
+                    "cost_code": "010003",
+                    "name": "Temp Fencing",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fcea1",
+            "item_id": "1542027263347272",
+            "item_parent": "1542027263347268",
+            "name": "Shed/Storage Facility",
+            "cost_code": "010004",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fcea2",
+                "item_id": "1549014360530",
+                "item_parent": "1542027263347272",
+                "name": "Shed/Storage Facility",
+                "cost_code": "010004",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fcea3"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360530",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fcea4",
+                    "cost_code": "010004",
+                    "name": "Shed/Storage Facility",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fcea6",
+                "item_id": "1549014360581",
+                "item_parent": "1542027263347272",
+                "name": "Shed/Storage Facility",
+                "cost_code": "010004",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fcea7"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360581",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fcea8",
+                    "cost_code": "010004",
+                    "name": "Shed/Storage Facility",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fceab",
+            "item_id": "1542027263347274",
+            "item_parent": "1542027263347268",
+            "name": "Electrical Consumption/Temp Power",
+            "cost_code": "010006",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fceac",
+                "item_id": "1549014360643",
+                "item_parent": "1542027263347274",
+                "name": "Electrical Consumption/Temp Power",
+                "cost_code": "010006",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fcead"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360643",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fceae",
+                    "cost_code": "010006",
+                    "name": "Electrical Consumption/Temp Power",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fceb1",
+            "item_id": "1542027263347276",
+            "item_parent": "1542027263347268",
+            "name": "Water Consumption/Temp Water",
+            "cost_code": "010008",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fceb2",
+                "item_id": "1549014360711",
+                "item_parent": "1542027263347276",
+                "name": "Water Consumption/Temp Water",
+                "cost_code": "010008",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fceb3"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360711",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fceb4",
+                    "cost_code": "010008",
+                    "name": "Water Consumption/Temp Water",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fceb6",
+                "item_id": "1549014360764",
+                "item_parent": "1542027263347276",
+                "name": "Water Consumption/Temp Water",
+                "cost_code": "010008",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fceb7"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360764",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fceb8",
+                    "cost_code": "010008",
+                    "name": "Water Consumption/Temp Water",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fce92",
+            "item_id": "1542027263347270",
+            "item_parent": "1542027263347268",
+            "name": "Delivery Service/ Courier",
+            "cost_code": "010002",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fce94",
+                "item_id": "1549014360359",
+                "item_parent": "1542027263347270",
+                "name": "Delivery Service/ Courier",
+                "cost_code": "010002",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fce95"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360359",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fce96",
+                    "cost_code": "010002",
+                    "name": "Delivery Service/ Courier",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fcebb",
+            "item_id": "1542027263347278",
+            "item_parent": "1542027263347268",
+            "name": "Sewer Charges",
+            "cost_code": "010010",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fcebc",
+                "item_id": "1549014360828",
+                "item_parent": "1542027263347278",
+                "name": "Sewer Charges",
+                "cost_code": "010010",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fcebd"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360828",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fcebe",
+                    "cost_code": "010010",
+                    "name": "Sewer Charges",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541558151f21000e8fcec1",
+            "item_id": "1542027263347280",
+            "item_parent": "1542027263347268",
+            "name": "Cell Phones",
+            "cost_code": "010012",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541558151f21000e8fcec2",
+                "item_id": "1549014360885",
+                "item_parent": "1542027263347280",
+                "name": "Cell Phones",
+                "cost_code": "010012",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541558151f21000e8fcec3"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014360885",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541558151f21000e8fcec4",
+                    "cost_code": "010012",
+                    "name": "Cell Phones",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf19",
+            "item_id": "1542027263348310",
+            "item_parent": "1542027263347268",
+            "name": "Drug Tests",
+            "cost_code": "010043",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf20",
+                "item_id": "1549014361866",
+                "item_parent": "1542027263348310",
+                "name": "Drug Tests",
+                "cost_code": "010043",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf21"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361866",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf22",
+                    "cost_code": "010043",
+                    "name": "Drug Tests",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf1d",
+                "item_id": "1549014361833",
+                "item_parent": "1542027263348310",
+                "name": "Drug Tests",
+                "cost_code": "010043",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf1e"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361833",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf1f",
+                    "cost_code": "010043",
+                    "name": "Drug Tests",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf1a",
+                "item_id": "1549014361802",
+                "item_parent": "1542027263348310",
+                "name": "Drug Tests",
+                "cost_code": "010043",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf1b"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361802",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf1c",
+                    "cost_code": "010043",
+                    "name": "Drug Tests",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcecd",
+            "item_id": "1542027263347284",
+            "item_parent": "1542027263347268",
+            "name": "Jobsite Photos",
+            "cost_code": "010017",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcece",
+                "item_id": "1549014361007",
+                "item_parent": "1542027263347284",
+                "name": "Jobsite Photos",
+                "cost_code": "010017",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcecf"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361007",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fced0",
+                    "cost_code": "010017",
+                    "name": "Jobsite Photos",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fced3",
+            "item_id": "1542027263347286",
+            "item_parent": "1542027263347268",
+            "name": "Safety Supplies",
+            "cost_code": "010019",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fced4",
+                "item_id": "1549014361064",
+                "item_parent": "1542027263347286",
+                "name": "Safety Supplies",
+                "cost_code": "010019",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fced5"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361064",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fced6",
+                    "cost_code": "010019",
+                    "name": "Safety Supplies",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fced9",
+            "item_id": "1542027263347288",
+            "item_parent": "1542027263347268",
+            "name": "Safety Barricades",
+            "cost_code": "010021",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fceda",
+                "item_id": "1549014361125",
+                "item_parent": "1542027263347288",
+                "name": "Safety Barricades",
+                "cost_code": "010021",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcedb"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361125",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcedc",
+                    "cost_code": "010021",
+                    "name": "Safety Barricades",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcefd",
+            "item_id": "1542027263348302",
+            "item_parent": "1542027263347268",
+            "name": "Project Documents",
+            "cost_code": "010035",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcefe",
+                "item_id": "1549014361536",
+                "item_parent": "1542027263348302",
+                "name": "Project Documents",
+                "cost_code": "010035",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fceff"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361536",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf00",
+                    "cost_code": "010035",
+                    "name": "Project Documents",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fceef",
+            "item_id": "1542027263347298",
+            "item_parent": "1542027263347268",
+            "name": "Storm Damage Cleanup",
+            "cost_code": "010031",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcef0",
+                "item_id": "1549014361411",
+                "item_parent": "1542027263347298",
+                "name": "Storm Damage Cleanup",
+                "cost_code": "010031",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcef1"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361411",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcef2",
+                    "cost_code": "010031",
+                    "name": "Storm Damage Cleanup",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf15",
+            "item_id": "1542027263348309",
+            "item_parent": "1542027263347268",
+            "name": "Safety Incentives",
+            "cost_code": "010042",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf16",
+                "item_id": "1549014361765",
+                "item_parent": "1542027263348309",
+                "name": "Safety Incentives",
+                "cost_code": "010042",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf17"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361765",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf18",
+                    "cost_code": "010042",
+                    "name": "Safety Incentives",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf0f",
+            "item_id": "1542027263348307",
+            "item_parent": "1542027263347268",
+            "name": "Safety Equipment",
+            "cost_code": "010040",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf10",
+                "item_id": "1549014361705",
+                "item_parent": "1542027263348307",
+                "name": "Safety Equipment",
+                "cost_code": "010040",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf11"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361705",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf12",
+                    "cost_code": "010040",
+                    "name": "Safety Equipment",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf0b",
+            "item_id": "1542027263348306",
+            "item_parent": "1542027263347268",
+            "name": "Work restrictions 1",
+            "cost_code": "010039",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf0c",
+                "item_id": "1549014361673",
+                "item_parent": "1542027263348306",
+                "name": "Work restrictions",
+                "cost_code": "010039",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf0d"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361673",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf0e",
+                    "cost_code": "010039",
+                    "name": "Work restrictions",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf07",
+            "item_id": "1542027263348305",
+            "item_parent": "1542027263347268",
+            "name": "Professional Consultants",
+            "cost_code": "010038",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf08",
+                "item_id": "1549014361641",
+                "item_parent": "1542027263348305",
+                "name": "Professional Consultants",
+                "cost_code": "010038",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf09"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361641",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf0a",
+                    "cost_code": "010038",
+                    "name": "Professional Consultants",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf01",
+            "item_id": "1542027263348303",
+            "item_parent": "1542027263347268",
+            "name": "Partnering Expenses",
+            "cost_code": "010036",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf02",
+                "item_id": "1549014361569",
+                "item_parent": "1542027263348303",
+                "name": "Partnering Expenses",
+                "cost_code": "010036",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf03"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361569",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf04",
+                    "cost_code": "010036",
+                    "name": "Partnering Expenses",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcef9",
+            "item_id": "1542027263347301",
+            "item_parent": "1542027263347268",
+            "name": "Identification Badges",
+            "cost_code": "010034",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcefa",
+                "item_id": "1549014361504",
+                "item_parent": "1542027263347301",
+                "name": "Identification Badges",
+                "cost_code": "010034",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcefb"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361504",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcefc",
+                    "cost_code": "010034",
+                    "name": "Identification Badges",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf28",
+            "item_id": "1542027263348312",
+            "item_parent": "1542027263347268",
+            "name": "Forklift LOED",
+            "cost_code": "010045",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf29",
+                "item_id": "1549014361975",
+                "item_parent": "1542027263348312",
+                "name": "Forklift LOED",
+                "cost_code": "010045",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf2a"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361975",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf2b",
+                    "cost_code": "010045",
+                    "name": "Forklift LOED",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c541559151f21000e8fcf24",
+            "item_id": "1542027263348311",
+            "item_parent": "1542027263347268",
+            "name": "ATV Golf cart",
+            "cost_code": "010044",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c541559151f21000e8fcf25",
+                "item_id": "1549014361939",
+                "item_parent": "1542027263348311",
+                "name": "ATV Golf cart",
+                "cost_code": "010044",
+                "is_leaf": true,
+                "subcon_sov_id": "5c541559151f21000e8fcf26"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014361939",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c541559151f21000e8fcf27",
+                    "cost_code": "010044",
+                    "name": "ATV Golf cart",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c54155a151f21000e8fcf42",
+            "item_id": "1542027263350526",
+            "item_parent": "1542027263347268",
+            "name": "Cleaning and Waste Management",
+            "cost_code": "017400",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54155a151f21000e8fcf3e",
+                "item_id": "1542027263350527",
+                "item_parent": "1542027263350526",
+                "name": "Progress Cleaning",
+                "cost_code": "017413",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c54155a151f21000e8fcf3f",
+                    "item_id": "1549014362203",
+                    "item_parent": "1542027263350527",
+                    "name": "Rough And Daily Cleaning",
+                    "cost_code": "017413",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c54155a151f21000e8fcf40"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014362203",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c54155a151f21000e8fcf41",
+                        "cost_code": "017413",
+                        "name": "Rough And Daily Cleaning",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data": {
+                "_id": "5c54155a151f21000e8fcf46",
+                "item_id": "1542027263350530",
+                "item_parent": "1542027263350526",
+                "name": "Final Cleaning",
+                "cost_code": "017423",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c54155a151f21000e8fcf47",
+                    "item_id": "1549014362310",
+                    "item_parent": "1542027263350530",
+                    "name": "Final Cleaning",
+                    "cost_code": "017423",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c54155a151f21000e8fcf48"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014362310",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c54155a151f21000e8fcf49",
+                        "cost_code": "017423",
+                        "name": "Final Cleaning",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c54155a151f21000e8fcf2c",
+            "item_id": "1542027263348313",
+            "item_parent": "1542027263347268",
+            "name": "Mobile Crane",
+            "cost_code": "010046",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54155a151f21000e8fcf2d",
+                "item_id": "1549014362014",
+                "item_parent": "1542027263348313",
+                "name": "Mobile Crane",
+                "cost_code": "010046",
+                "is_leaf": true,
+                "subcon_sov_id": "5c54155a151f21000e8fcf2e"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014362014",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c54155a151f21000e8fcf2f",
+                    "cost_code": "010046",
+                    "name": "Mobile Crane",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c54155a151f21000e8fcf32",
+            "item_id": "1542027263348315",
+            "item_parent": "1542027263347268",
+            "name": "Expendables and Consumables",
+            "cost_code": "010048",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54155a151f21000e8fcf33",
+                "item_id": "1549014362080",
+                "item_parent": "1542027263348315",
+                "name": "Expendables and Consumables",
+                "cost_code": "010048",
+                "is_leaf": true,
+                "subcon_sov_id": "5c54155a151f21000e8fcf34"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014362080",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c54155a151f21000e8fcf35",
+                    "cost_code": "010048",
+                    "name": "Expendables and Consumables",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c54155a151f21000e8fcf38",
+            "item_id": "1542027263348317",
+            "item_parent": "1542027263347268",
+            "name": "Man lift",
+            "cost_code": "010050",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54155a151f21000e8fcf39",
+                "item_id": "1549014362142",
+                "item_parent": "1542027263348317",
+                "name": "Man lift",
+                "cost_code": "010050",
+                "is_leaf": true,
+                "subcon_sov_id": "5c54155a151f21000e8fcf3a"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014362142",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c54155a151f21000e8fcf3b",
+                    "cost_code": "010050",
+                    "name": "Man lift",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": {
+            "_id": "5c54155a151f21000e8fcf4e",
+            "item_id": "1542027263350539",
+            "item_parent": "1542027263347268",
+            "name": "Closeout Submittals",
+            "cost_code": "017800",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54155a151f21000e8fcf4a",
+                "item_id": "1542027263350544",
+                "item_parent": "1542027263350539",
+                "name": "Bonds",
+                "cost_code": "017833",
+                "is_leaf": false,
+                "subcon_sov_id": null
+              },
+              "children": [
+                {
+                  "data": {
+                    "_id": "5c54155a151f21000e8fcf4b",
+                    "item_id": "1549014362353",
+                    "item_parent": "1542027263350544",
+                    "name": "Bonds",
+                    "cost_code": "017833",
+                    "is_leaf": true,
+                    "subcon_sov_id": "5c54155a151f21000e8fcf4c"
+                  },
+                  "children": [
+                    {
+                      "data": {
+                        "description": null,
+                        "item_parent": "1549014362353",
+                        "quantity": 1,
+                        "rate": 0,
+                        "contract_amount": 0,
+                        "approved_cco": 0,
+                        "is_leaf": true,
+                        "default_child": true,
+                        "pay_out_id": null,
+                        "open_cco_id": null,
+                        "requisitions_amount": 0,
+                        "retainage": 0,
+                        "requisitions_to_date": 0,
+                        "approved_retainage_to_date": 0,
+                        "total_completed_and_stored_to_date": 0,
+                        "approved_requisitions": 0,
+                        "previous_approved_requisitions_to_date": 0,
+                        "previous_approved_retainage_to_date": 0,
+                        "requisitions_payment_received": 0,
+                        "previous_payment_due": 0,
+                        "revised_quantity": 1,
+                        "revised_unit": null,
+                        "revised_rate": 0,
+                        "has_cco": false,
+                        "has_requisition": false,
+                        "has_approved_pay_out": false,
+                        "_id": "5c54155a151f21000e8fcf4d",
+                        "cost_code": "017833",
+                        "name": "Bonds",
+                        "unit": null,
+                        "total_retainage_to_date": 0,
+                        "balance_to_finish": 0,
+                        "total_retainage": 0,
+                        "total_bill_amount": 0,
+                        "revised_contract_amount": 0,
+                        "pending_requisitions": 0,
+                        "requisitions_payment_pending": 0,
+                        "req_quantity": 0,
+                        "req_unit": 0,
+                        "req_rate": 0
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "data": {
+        "_id": "5c54155d151f21000e8fd031",
+        "item_id": "15420272633561120",
+        "item_parent": "0",
+        "name": "Wood Plastics and Composites",
+        "cost_code": "060000",
+        "is_leaf": false,
+        "subcon_sov_id": null
+      },
+      "children": [
+        {
+          "data": {
+            "_id": "5c54155d151f21000e8fd03a",
+            "item_id": "15420272633561149",
+            "item_parent": "15420272633561120",
+            "name": "Rough Carpentry",
+            "cost_code": "061000",
+            "is_leaf": false,
+            "subcon_sov_id": null
+          },
+          "children": [
+            {
+              "data": {
+                "_id": "5c54155d151f21000e8fd03b",
+                "item_id": "1549014365338",
+                "item_parent": "15420272633561149",
+                "name": "Rough Carpentry",
+                "cost_code": "061000",
+                "is_leaf": true,
+                "subcon_sov_id": "5c54155d151f21000e8fd03c"
+              },
+              "children": [
+                {
+                  "data": {
+                    "description": null,
+                    "item_parent": "1549014365338",
+                    "quantity": 1,
+                    "rate": 0,
+                    "contract_amount": 0,
+                    "approved_cco": 0,
+                    "is_leaf": true,
+                    "default_child": true,
+                    "pay_out_id": null,
+                    "open_cco_id": null,
+                    "requisitions_amount": 0,
+                    "retainage": 0,
+                    "requisitions_to_date": 0,
+                    "approved_retainage_to_date": 0,
+                    "total_completed_and_stored_to_date": 0,
+                    "approved_requisitions": 0,
+                    "previous_approved_requisitions_to_date": 0,
+                    "previous_approved_retainage_to_date": 0,
+                    "requisitions_payment_received": 0,
+                    "previous_payment_due": 0,
+                    "revised_quantity": 1,
+                    "revised_unit": null,
+                    "revised_rate": 0,
+                    "has_cco": false,
+                    "has_requisition": false,
+                    "has_approved_pay_out": false,
+                    "_id": "5c54155d151f21000e8fd03d",
+                    "cost_code": "061000",
+                    "name": "Rough Carpentry",
+                    "unit": null,
+                    "total_retainage_to_date": 0,
+                    "balance_to_finish": 0,
+                    "total_retainage": 0,
+                    "total_bill_amount": 0,
+                    "revised_contract_amount": 0,
+                    "pending_requisitions": 0,
+                    "requisitions_payment_pending": 0,
+                    "req_quantity": 0,
+                    "req_unit": 0,
+                    "req_rate": 0
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+    "line_items": [
+      {
+        "data": {
+          "_id": "5c6a4b8392b796000f06451a",
+          "cost_type": null,
+          "item_id": "1550469278267602",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Existing Conditions",
+          "cost_code": "020000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c6a4b8392b796000f064522",
+              "cost_type": null,
+              "item_id": "1550469278270696",
+              "item_parent": "1550469278267602",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Remediation Soil Stabilization",
+              "cost_code": "025500"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c6a4b8392b796000f064523",
+                  "item_id": "1550470019624",
+                  "item_parent": "1550469278270696",
+                  "name": "Remediation Soil Stabilization",
+                  "cost_code": "025500",
+                  "cost_type": null,
+                  "revised_contract_amount": 867,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "is_subcon_node": true
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "difference": 0,
+                      "status": null,
+                      "item_parent": "1550470019624",
+                      "item_id": "5c6a6b9e6d0112000e67d0d3",
+                      "name": "Remediation Soil Stabilization",
+                      "cost_code": "025500",
+                      "revised_contract_amount": 0,
+                      "req_quantity": 1,
+                      "req_rate": 0,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "_id": "5c6a4b8092b796000f06440a",
+          "cost_type": null,
+          "item_id": "15504692782511",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Procurement and Contracting Requirements",
+          "cost_code": "000000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c6a4b8192b796000f064414",
+              "cost_type": null,
+              "item_id": "15504692782522",
+              "item_parent": "15504692782511",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Non-Reimbursable",
+              "cost_code": "000001"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c6a4b8192b796000f064415",
+                  "item_id": "1550470017026",
+                  "item_parent": "15504692782522",
+                  "name": "Non-Reimbursable",
+                  "cost_code": "000001",
+                  "cost_type": null,
+                  "revised_contract_amount": 1000,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "is_subcon_node": true
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "difference": 0,
+                      "status": null,
+                      "item_parent": "1550470017026",
+                      "item_id": "5c6a6b9e6d0112000e67d0d0",
+                      "name": "Non-Reimbursable",
+                      "cost_code": "000001",
+                      "revised_contract_amount": 0,
+                      "req_quantity": 1,
+                      "req_rate": 0,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "_id": "5c6a4b8192b796000f064416",
+                  "item_id": "1550470017047",
+                  "item_parent": "15504692782522",
+                  "name": "Non-Reimbursable",
+                  "cost_code": "000001",
+                  "cost_type": null,
+                  "revised_contract_amount": 3000,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "is_subcon_node": true
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "difference": 0,
+                      "status": null,
+                      "item_parent": "1550470017047",
+                      "item_id": "5c6a6b9e6d0112000e67d0d2",
+                      "name": "Non-Reimbursable",
+                      "cost_code": "000001",
+                      "revised_contract_amount": 0,
+                      "req_quantity": 1,
+                      "req_rate": 0,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "_id": "5c6a4b8392b796000f064524",
+          "cost_type": null,
+          "item_id": "1550469278271740",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Concrete",
+          "cost_code": "030000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c6a4b8392b796000f064525",
+              "item_id": "1550470019644",
+              "item_parent": "1550469278271740",
+              "name": "Concrete",
+              "cost_code": "030000",
+              "cost_type": null,
+              "revised_contract_amount": 69350,
+              "is_leaf": false,
+              "custom_child": false,
+              "is_subcon_node": true
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": true,
+                  "custom_child": true,
+                  "difference": 0,
+                  "status": null,
+                  "item_parent": "1550470019644",
+                  "item_id": "5c6a6b9e6d0112000e67d0d4",
+                  "name": "Concrete",
+                  "cost_code": "030000",
+                  "revised_contract_amount": 0,
+                  "req_quantity": 1,
+                  "req_rate": 0,
+                  "default_child": true
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "_id": "5c6a4b8492b796000f064544",
+              "cost_type": null,
+              "item_id": "1550469278272807",
+              "item_parent": "1550469278271740",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Structural Concrete",
+              "cost_code": "033100"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c6a4b8492b796000f06454a",
+                  "cost_type": null,
+                  "item_id": "1550469278272816",
+                  "item_parent": "1550469278272807",
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "name": "Spread Footings",
+                  "cost_code": "033130"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "_id": "5c6a4b8492b796000f06454b",
+                      "item_id": "1550470020300",
+                      "item_parent": "1550469278272816",
+                      "name": "Spread Footings",
+                      "cost_code": "033130",
+                      "cost_type": null,
+                      "revised_contract_amount": 2771,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "is_subcon_node": true
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": true,
+                          "difference": 0,
+                          "status": null,
+                          "item_parent": "1550470020300",
+                          "item_id": "5c6a6b9e6d0112000e67d0d1",
+                          "name": "Spread Footings",
+                          "cost_code": "033130",
+                          "revised_contract_amount": 0,
+                          "req_quantity": 1,
+                          "req_rate": 0,
+                          "default_child": true
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "_id": "5c6a4b8992b796000f0646b8",
+          "cost_type": null,
+          "item_id": "15504692783143841",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Communications",
+          "cost_code": "270000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c6a4b8992b796000f0646ba",
+              "cost_type": null,
+              "item_id": "15504692783143877",
+              "item_parent": "15504692783143841",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Communications Backbone Cabling",
+              "cost_code": "271300"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c6a4b8992b796000f0646bb",
+                  "item_id": "1550470025554",
+                  "item_parent": "15504692783143877",
+                  "name": "Communications Backbone Cabling",
+                  "cost_code": "271300",
+                  "cost_type": null,
+                  "revised_contract_amount": 1590,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "is_subcon_node": true
+                },
+                "children": [
+                  {
+                    "data": {
+                      "_id": "5c6bd9a2563d59000e013706",
+                      "item_id": "5c6bd9a2563d59000e013706",
+                      "item_parent": "1550470025554",
+                      "name": "Communications Backbone Cabling",
+                      "cost_code": "271300",
+                      "cost_type": null,
+                      "revised_contract_amount": 0,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

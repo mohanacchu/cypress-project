@@ -1,0 +1,18 @@
+{
+    "response": {
+      "chat": [
+        {
+          "is_deleted": false,
+          "_id": "5c6652dd914f67000e949621",
+          "text": "hello there!!! Created cco add to scope",
+          "timestamp": "1550209740594",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@Katerra.com",
+          "created_date": 1550209757005
+        }
+      ],
+      "feature_id": "5c6652dc914f67000e949620",
+      "feature_type": "change_order"
+    }
+  }

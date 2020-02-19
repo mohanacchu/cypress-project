@@ -1,0 +1,26 @@
+{
+    "success": {
+        "id": 235,
+        "proj_number": null,
+        "name": "Web-Automation-2",
+        "status": 0,
+        "enabled": 1,
+        "view_state": "50",
+        "description": "",
+        "component_id": 1,
+        "latitude": 37.453,
+        "longitude": -122.1817,
+        "start_date": null,
+        "completion_date": null,
+        "project_stage": null,
+        "department": null,
+        "area": null,
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": 0,
+        "timezone": "UTC/GMT -08:00",
+        "project_type": "Design",
+        "timezoneValue": "America/Los_Angeles"
+    }
+}

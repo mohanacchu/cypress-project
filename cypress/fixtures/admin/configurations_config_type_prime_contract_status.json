@@ -1,0 +1,13 @@
+{
+    "budget_configuration": {
+        "prime_contract_status": [
+            "Out for bid",
+            "Initiated",
+            "In Progress",
+            "Awarded",
+            "test 1",
+            "test1",
+            "test2"
+        ]
+    }
+}

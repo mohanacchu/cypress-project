@@ -1,0 +1,25 @@
+{
+    "project_id": null,
+    "_id": "5d91bc7fa72d1e0010fceb5c",
+    "type": "Potential Change Order",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Potential Change Order created successfully"
+                    ],
+                    "specific_action": "Potential Change Order Created"
+                }
+            ],
+            "created_on": 1569832063094,
+            "action": "Created Potential Change Order"
+        }
+    ],
+    "__v": 0
+}

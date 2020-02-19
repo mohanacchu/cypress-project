@@ -1,0 +1,44 @@
+{
+    "result": [
+        {
+            "id": "5c9a0b3a3007b9c34efb1cd9",
+            "workflow_name": "For Client Submission 1"
+        },
+        {
+            "id": "5c9b0e9b3007b9915dfb1cd7",
+            "workflow_name": "R&D Test Workflow Templates"
+        },
+        {
+            "id": "5cda9f1a3007b9f171a1a8b1",
+            "workflow_name": "Test"
+        },
+        {
+            "id": "5ce26f263007b9f23212638b",
+            "workflow_name": "Submital Approval"
+        },
+        {
+            "id": "5ce508f73007b9d80e8b4569",
+            "workflow_name": "Test Workflow"
+        },
+        {
+            "id": "5cf989d43007b9b46b5b820a",
+            "workflow_name": "Obs Flats - RFI Workflow"
+        },
+        {
+            "id": "5d2477c23007b94b7f7e1e04",
+            "workflow_name": "Package Approval"
+        },
+        {
+            "id": "5d28169b3007b9e72c7e1e05",
+            "workflow_name": "MEP Packages approval flow "
+        },
+        {
+            "id": "5d2ef44c3007b96a6462b31b",
+            "workflow_name": "Concrete Pouring"
+        },
+        {
+            "id": "5d303be43007b9ea7262b319",
+            "workflow_name": "Approval"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "result": [
+      {
+        "id": "5b3e087334e6ff11008b456a",
+        "workflow_name": "QA Test Workflow"
+      },
+      {
+        "id": "5b85196353c2e10f008b456b",
+        "workflow_name": "Workflow_temp1"
+      },
+      {
+        "id": "5b8895e156a06036048b456a",
+        "workflow_name": "Garrick Test"
+      },
+      {
+        "id": "5ba8c6fc45d25b7e018b4569",
+        "workflow_name": "Workflow_temp2"
+      },
+      {
+        "id": "5bb622664d48517d008b4569",
+        "workflow_name": "Workflow for API Test"
+      },
+      {
+        "id": "5bc5ae9028a526dd048b4568",
+        "workflow_name": "test"
+      },
+      {
+        "id": "5bdbfa80f9545112008b4568",
+        "workflow_name": "One-Step Approval"
+      },
+      {
+        "id": "5bdc3f1f2e821c14008b456b",
+        "workflow_name": "Max Test Budget "
+      },
+      {
+        "id": "5be1da650195cfbd108b4569",
+        "workflow_name": "PCCO Approval"
+      },
+      {
+        "id": "5be213b75d09618a018b4568",
+        "workflow_name": "Test"
+      },
+      {
+        "id": "5be318080195cf2d168b4567",
+        "workflow_name": "CCO Approval"
+      },
+      {
+        "id": "5c10e008b65226ca038b4568",
+        "workflow_name": "Standard Workflow"
+      },
+      {
+        "id": "5c59383201a54406298b4569",
+        "workflow_name": "API Test WF"
+      }
+    ]
+  }

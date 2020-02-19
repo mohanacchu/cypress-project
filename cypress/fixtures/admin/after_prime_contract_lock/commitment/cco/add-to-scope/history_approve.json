@@ -1,0 +1,134 @@
+{
+    "project_id": "236",
+    "_id": "5d5fbf1ff4f95000104ab5f6",
+    "type": "Commitment Change Order Add to Scope",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Commitment Change Order - Add To Scope created successfully"
+                    ],
+                    "specific_action": "CCO Add to Scope Created"
+                }
+            ],
+            "created_on": 1566555935986,
+            "action": "Created CCO Add to Scope"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Number:  \"98989\" changed to \"00001\"",
+                        "Title: \"Add to scope\" changed to \"Edited Add to scope\""
+                    ],
+                    "specific_action": "General Information Changes:"
+                },
+                {
+                    "specific_action_details": [
+                        "#CCO - Postage / UPS/FedEx, Qty: 1, Unit: , Unit Rate: $0, CO Value: $0 "
+                    ],
+                    "specific_action": "Added Line Items:"
+                }
+            ],
+            "created_on": 1567069941695,
+            "action": "Change Order Updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "#CCO - Postage / UPS/FedEx, Qty: 8000, Unit: , Unit Rate: $0, CO Value: $0 "
+                    ],
+                    "specific_action": "Added Line Items:"
+                }
+            ],
+            "created_on": 1567069987794,
+            "action": "Change Order Updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "#CCO - Postage / UPS/FedEx, Qty: 80000, Unit: 90.00, Unit Rate: $130, CO Value: $10,400,000 "
+                    ],
+                    "specific_action": "Added Line Items:"
+                }
+            ],
+            "created_on": 1567070289356,
+            "action": "Change Order Updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "#CCO - Postage / UPS/FedEx, Approved Qty: 1, Approved Unit: , Approved Unit Rate: $0, Approved Contract Amount: $0",
+                        "#CCO - Postage / UPS/FedEx, Approved Qty: 80000, Approved Unit: 90.00, Approved Unit Rate: $130, Approved Contract Amount: $10,400,000",
+                        "#CCO - Postage / UPS/FedEx, Approved Qty: 9000, Approved Unit: $7000, Approved Unit Rate: $400, Approved Contract Amount: $3,600,000",
+                        "#CCO - Postage / UPS/FedEx, Approved Qty: 80, Approved Unit: $0.00, Approved Unit Rate: $0, Approved Contract Amount: $0",
+                        "#CCO - Postage / UPS/FedEx, Approved Qty: 10, Approved Unit: $10.00, Approved Unit Rate: $10, Approved Contract Amount: $100",
+                        "#CCO - Postage / UPS/FedEx, Approved Qty: -90, Approved Unit: $-90.00, Approved Unit Rate: -$90, Approved Contract Amount: $8,100"
+                    ],
+                    "specific_action": "Approved Line Items:"
+                },
+                {
+                    "specific_action_details": [
+                        "Task Name: Test, Task Type: Approval, Duration:5, Start_Date: 08-23-2019, Due_Date:08-28-2019, Assignee:ABC123"
+                    ],
+                    "specific_action": "Approved Workflow Task:"
+                }
+            ],
+            "created_on": 1567599965546,
+            "action": "Change Order Approved"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "#CCO - Masonry, Approved Qty: 100, Approved Unit: $5000, Approved Unit Rate: $90, Approved Contract Amount: $9,000"
+                    ],
+                    "specific_action": "Approved Line Items:"
+                },
+                {
+                    "specific_action_details": [
+                        "Task Name: Test1, Task Type: Approval, Duration:4, Start_Date: 08-29-2019, Due_Date:09-02-2019, Assignee:ABC123"
+                    ],
+                    "specific_action": "Approved Workflow Task:"
+                }
+            ],
+            "created_on": 1567668733650,
+            "action": "Change Order Approved"
+        }
+    ],
+    "__v": 0
+}

@@ -1,0 +1,43 @@
+{
+    "result": {
+        "billing_period_template_id": null,
+        "billing_period_template_name": null,
+        "billing_period": [
+            {
+                "has_requisitions": false,
+                "access_start_date": "2019-07-12T00:00:00.000Z",
+                "access_end_date": "2019-07-25T00:00:00.000Z",
+                "status": false,
+                "companies": [
+                    {
+                        "company_id": "5ca5f72ea6595b000eed9808",
+                        "company": "Katerra Inc.",
+                        "has_requisitions": false
+                    }
+                ],
+                "_id": "5d418a5318dfd20010f7cc5b",
+                "name": "Billing period  test 1",
+                "start_date": "2019-07-04T00:00:00.000Z",
+                "end_date": "2019-07-06T00:00:00.000Z",
+                "history_id": "5d418a5318dfd20010f7cc59",
+                "created_at": "2019-07-31T12:32:19.455Z",
+                "__v": 0
+            },
+            {
+                "has_requisitions": false,
+                "access_start_date": "2019-07-05T00:00:00.000Z",
+                "access_end_date": "2019-07-06T00:00:00.000Z",
+                "status": false,
+                "companies": [],
+                "_id": "5d418a5318dfd20010f7cc5a",
+                "name": "Billing period  test",
+                "start_date": "2019-07-02T00:00:00.000Z",
+                "end_date": "2019-07-03T00:00:00.000Z",
+                "history_id": "5d418a5318dfd20010f7cc58",
+                "created_at": "2019-07-31T12:32:19.455Z",
+                "__v": 0
+            }
+        ],
+        "project_id": "235"
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "result": [{
+    "_id": "5c52f3ac151f21000e8fc27e",
+    "invoice_ref_no": "15180219",
+    "bill_title": "automation-test",
+    "billing_period_from": "2019-02-04T00:00:00.000Z",
+    "billing_period_to": "2019-02-23T00:00:00.000Z",
+    "payment_status": "payment_done",
+    "approver": [{
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    }],
+    "created_at": "2019-02-18T12:01:37.666Z",
+    "payment_received": 0,
+    "revised_contract_amount": 0,
+    "total_retainage_to_date": 175.84,
+    "total_completed_and_stored_to_date": 1256,
+    "requisitions_to_date": 1080.16,
+    "work_completed_this_period": 1256,
+    "work_retainage_this_period": 175.84,
+    "original_contract_amount": 0,
+    "net_approved_cco": 0,
+    "payment_due": 1080.16,
+    "balance_to_finish": -1080.16,
+    "percentage_completed": "-",
+    "can_delete_requisition": true,
+    "is_approval_workflow_started": true
+  }]
+}

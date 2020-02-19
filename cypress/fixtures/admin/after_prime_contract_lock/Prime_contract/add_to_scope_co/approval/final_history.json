@@ -1,0 +1,89 @@
+{
+  "project_id": "299743",
+  "_id": "5d0878869f7acc000f0920d8",
+  "type": "Prime Contract Change Order Add To Scope",
+  "history": [
+    {
+      "action_by": {
+        "user_id": "1",
+        "name": "Katerra Admin",
+        "email": "admin@Katerra.com"
+      },
+      "details": [
+        {
+          "specific_action_details": [
+            "Prime Contract Change Order - Add To Scope created successfully"
+          ],
+          "specific_action": "PCCO Add To Scope Created"
+        }
+      ],
+      "created_on": 1560836230533,
+      "action": "Created PCCO Add To Scope"
+    },
+    {
+      "action_by": {
+        "user_id": "1",
+        "name": "Katerra Admin",
+        "email": "admin@Katerra.com"
+      },
+      "details": [
+        {
+          "specific_action_details": [
+            "stucco added successfully, CO Value: $50.00"
+          ],
+          "specific_action": "Added Line Items:"
+        }
+      ],
+      "created_on": 1561014565809,
+      "action": "Change Order Updated"
+    },
+    {
+      "action_by": {
+        "user_id": "1",
+        "name": "Katerra Admin",
+        "email": "admin@Katerra.com"
+      },
+      "details": [
+        {
+          "specific_action_details": [
+            "zero value, Approved Contract Amount: $200",
+            "#CO - Brick and Mortar, Approved Contract Amount: $100"
+          ],
+          "specific_action": "Approved Line Items:"
+        },
+        {
+          "specific_action_details": [
+            "Task Name: Test, Task Type: Approval, Duration:5, Start_Date: 06-18-2019, Due_Date:06-23-2019, Assignee:Katerra Admin"
+          ],
+          "specific_action": "Approved Workflow Task:"
+        }
+      ],
+      "created_on": 1562925928638,
+      "action": "Change Order Approved"
+    },
+    {
+      "action_by": {
+        "user_id": "1",
+        "name": "Katerra Admin",
+        "email": "admin@Katerra.com"
+      },
+      "details": [
+        {
+          "specific_action_details": [
+            "#CO - Finishes, Approved Contract Amount: $2,000"
+          ],
+          "specific_action": "Approved Line Items:"
+        },
+        {
+          "specific_action_details": [
+            "Task Name: Test1, Task Type: Review, Duration:4, Start_Date: 06-24-2019, Due_Date:06-28-2019, Assignee:Katerra Admin"
+          ],
+          "specific_action": "Approved Workflow Task:"
+        }
+      ],
+      "created_on": 1563181926480,
+      "action": "Change Order Approved"
+    }
+  ],
+  "__v": 0
+}

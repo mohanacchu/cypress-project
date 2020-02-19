@@ -1,0 +1,191 @@
+{
+    "created_by": {
+        "user_id": "1",
+        "name": "Katerra Admin"
+    },
+    "schedule_impact": true,
+    "no_of_impact_days": 99,
+    "executed": false,
+    "description": "",
+    "distribution_list": [
+        {
+            "user_id": 1,
+            "email": "admin@katerra.com",
+            "name": "Katerra Admin"
+        },
+        {
+            "user_id": 63,
+            "email": "shyam.athreye@katerra.com",
+            "name": "Shyam Athreye KA"
+        }
+    ],
+    "approval_workflow_id": "5d91bc7fa72d1e0010fceb59",
+    "workflow_task_id": "5d91bc7fa72d1e0010fceb5a",
+    "approved_on": null,
+    "status": "pending_approval",
+    "is_deleted": false,
+    "requested_amount": 8000,
+    "approved_amount": 0,
+    "approved_co": 0,
+    "pcco_id": null,
+    "pcco_status": null,
+    "_id": "5d91bc7fa72d1e0010fceb5d",
+    "project_id": "228",
+    "number": "67676",
+    "title": "PCO create",
+    "type": "Type 1",
+    "reason": "Material Change",
+    "origin": "RFI",
+    "co_type": "pco_from_scopemaster",
+    "assignee": [
+        {
+            "user_id": "9",
+            "user_name": "Rajib Official",
+            "email": "rajibranjan.nath@katerra.com"
+        },
+        {
+            "user_id": "63",
+            "user_name": "Shyam Athreye KA",
+            "email": "shyam.athreye@katerra.com"
+        }
+    ],
+    "due_date": "2019-10-05T00:00:00.000Z",
+    "created_on": 1569832063096,
+    "updated_on": 1570616231198,
+    "history_id": "5d91bc7fa72d1e0010fceb5c",
+    "line_items": [
+        {
+            "data": {
+                "is_leaf": false,
+                "status": null,
+                "_id": "5d9d862a16f48c0010747384",
+                "name": "General Conditions",
+                "item_parent": "0",
+                "cost_code": "000000",
+                "item_id": "15531666136241"
+            },
+            "children": [
+                {
+                    "data": {
+                        "is_leaf": true,
+                        "status": "under_approval",
+                        "_id": "5d91bc7fa72d1e0010fceb5f",
+                        "name": "#PCO - General Conditions",
+                        "cost_code": "000000",
+                        "item_parent": "15531666136241",
+                        "item_id": "1569832062934",
+                        "requested_amount": -10
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "is_leaf": true,
+                        "status": "under_approval",
+                        "_id": "5d9c97ba16f48c0010746ee9",
+                        "name": "#PCO - General Conditions",
+                        "cost_code": "000000",
+                        "item_parent": "15531666136241",
+                        "item_id": "1570543546793",
+                        "requested_amount": 8000
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "is_leaf": false,
+                        "status": null,
+                        "_id": "5d9d862a16f48c0010747383",
+                        "name": "General Conditions",
+                        "item_parent": "15531666136241",
+                        "cost_code": "007200",
+                        "item_id": "15531666136277"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "is_leaf": true,
+                                "status": "under_approval",
+                                "_id": "5d91bc7fa72d1e0010fceb5e",
+                                "name": "#PCO - General Conditions",
+                                "cost_code": "007200",
+                                "item_parent": "15531666136277",
+                                "item_id": "1569832062935",
+                                "requested_amount": 10
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "__v": 0,
+    "approval_workflow": {
+        "workflow_type": "Sequential",
+        "_id": "5d91bc7fa72d1e0010fceb59",
+        "workflow_name": "Submital Approval",
+        "workflow_tasks": [
+            {
+                "task_status": "approved",
+                "approved_line_items": [
+                    {
+                        "_id": "5d91bc7fa72d1e0010fceb5f",
+                        "approved_amount": 9000
+                    },
+                    {
+                        "_id": "5d9c97ba16f48c0010746ee9",
+                        "approved_amount": 8000
+                    },
+                    {
+                        "_id": "5d91bc7fa72d1e0010fceb5e",
+                        "approved_amount": 10
+                    }
+                ],
+                "assignee": [
+                    {
+                        "user_id": "9",
+                        "user_name": "Rajib Official",
+                        "email": "rajibranjan.nath@katerra.com"
+                    },
+                    {
+                        "user_id": "63",
+                        "user_name": "Shyam Athreye KA",
+                        "email": "shyam.athreye@katerra.com"
+                    }
+                ],
+                "_id": "5d91bc7fa72d1e0010fceb5b",
+                "task_name": "Material Submital",
+                "task_type": "Review",
+                "duration": 2,
+                "start_date": "2019-09-30T00:00:00.000Z",
+                "due_date": "2019-10-02T00:00:00.000Z",
+                "approved_date": 1570616231198
+            },
+            {
+                "task_status": "under_approval",
+                "approved_line_items": [],
+                "assignee": [
+                    {
+                        "user_id": "9",
+                        "user_name": "Rajib Official",
+                        "email": "rajibranjan.nath@katerra.com"
+                    },
+                    {
+                        "user_id": "63",
+                        "user_name": "Shyam Athreye KA",
+                        "email": "shyam.athreye@katerra.com"
+                    }
+                ],
+                "_id": "5d91bc7fa72d1e0010fceb5a",
+                "task_name": "Material Submitals",
+                "task_type": "Approval",
+                "duration": 2,
+                "start_date": "2019-10-03T00:00:00.000Z",
+                "due_date": "2019-10-05T00:00:00.000Z"
+            }
+        ],
+        "project_id": "228",
+        "__v": 0
+    }
+}

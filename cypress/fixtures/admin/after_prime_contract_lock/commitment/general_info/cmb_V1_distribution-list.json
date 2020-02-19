@@ -1,0 +1,117 @@
+{
+    "success": true,
+    "data": {
+        "Groups": [{
+                "id": 12,
+                "name": "\"Construct DS\"",
+                "associated_users": 2
+            },
+            {
+                "id": 20,
+                "name": "AA-help",
+                "associated_users": 3
+            },
+            {
+                "id": 21,
+                "name": "ABC help group",
+                "associated_users": 11
+            },
+            {
+                "id": 18,
+                "name": "Budgeting Team",
+                "associated_users": 5
+            },
+            {
+                "id": 14,
+                "name": "Construct_QAteam",
+                "associated_users": 3
+            },
+            {
+                "id": 19,
+                "name": "Dataman Leadership Group",
+                "associated_users": 3
+            },
+            {
+                "id": 9,
+                "name": "Exp,er & im(e)nt -te$t",
+                "associated_users": 3
+            },
+            {
+                "id": 5,
+                "name": "For Design Approval",
+                "associated_users": 3
+            },
+            {
+                "id": 27,
+                "name": "new 2",
+                "associated_users": 3
+            },
+            {
+                "id": 29,
+                "name": "QA",
+                "associated_users": 3
+            },
+            {
+                "id": 15,
+                "name": "QA-billing period",
+                "associated_users": 1
+            },
+            {
+                "id": 6,
+                "name": "Quality Team",
+                "associated_users": 4
+            },
+            {
+                "id": 2,
+                "name": "Rest API Automation Group",
+                "associated_users": 2
+            },
+            {
+                "id": 17,
+                "name": "Safety Group",
+                "associated_users": 2
+            },
+            {
+                "id": 4,
+                "name": "Safety Team",
+                "associated_users": 3
+            },
+            {
+                "id": 7,
+                "name": "Sample Project 1 - DL",
+                "associated_users": 3
+            },
+            {
+                "id": 28,
+                "name": "Test Group",
+                "associated_users": 1
+            },
+            {
+                "id": 1,
+                "name": "Test_1",
+                "associated_users": 4
+            },
+            {
+                "id": 3,
+                "name": "Test_1 Sample",
+                "associated_users": 4
+            },
+            {
+                "id": 24,
+                "name": "The Important People (test)",
+                "associated_users": 4
+            },
+            {
+                "id": 22,
+                "name": "VV-help",
+                "associated_users": 1
+            },
+            {
+                "id": 23,
+                "name": "W-help",
+                "associated_users": 3
+            }
+        ],
+        "total_count": 22
+    }
+}

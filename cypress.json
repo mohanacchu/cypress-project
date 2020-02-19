@@ -1,0 +1,18 @@
+{
+    "baseUrl": "http://stg.construct.katerra.com/cb/dashboard/projectlist",
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 300000,
+    "numTestsKeptInMemory": 30,
+    "video": false,
+    "defaultCommandTimeout": 20000,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "mochawesome-report",
+        "overwrite": false,
+        "html": false,
+        "json": true
+    },
+    "testFiles": "**/*.spec.js"
+}

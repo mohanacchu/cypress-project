@@ -1,0 +1,9 @@
+{
+    "scopemaster": {
+        "import_csv": true,
+        "add_line_item": true,
+        "update": true,
+        "read": true,
+        "delete": true
+    }
+}

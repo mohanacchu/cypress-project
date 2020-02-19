@@ -1,0 +1,12 @@
+{
+  "submittal_configuration": {
+    "action_type": [
+      "Approval",
+      "Review",
+      "For Record",
+      "Test 0310 Task Type",
+      "Task Type 2",
+      "Task Type 3"
+    ]
+  }
+}

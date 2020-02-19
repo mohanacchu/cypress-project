@@ -1,0 +1,25 @@
+{
+  "line_items": [{
+    "_id": "5d0878869f7acc000f0920d9",
+    "approval_workflow_id": "5d0878869f7acc000f0920d5",
+    "co_type": "pcco_add_to_scope",
+    "number": "12345",
+    "project_id": "299743",
+    "title": "Create pcco",
+    "reason": "Material Change",
+    "assignee": [{
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    }],
+    "due_date": "06-28-2019",
+    "created_on": "2019-06-18T05:37:10.535Z",
+    "updated_on": "2019-06-20T07:09:25.801Z",
+    "status": "pending_approval",
+    "total_requested_amount": 149,
+    "total_approved_amount": 0,
+    "co_value": 149,
+    "type": "Add To Scope",
+    "is_approval_workflow_started": false
+  }]
+}

@@ -1,0 +1,94 @@
+{
+    "permissions": {
+        "DailyLog": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Company": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "BillingPeriod": {
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Inspections": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Permissions": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Distribution Groups": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Project": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Activity Code": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Sub Project": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Manage User": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Configurations": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "Workflow": {
+            "add": true,
+            "read": true,
+            "create": true,
+            "update": true,
+            "delete": true
+        },
+        "scopemaster": {
+            "import_csv": true,
+            "add_line_item": true,
+            "update": true,
+            "read": true,
+            "delete": true
+        }
+    }
+}

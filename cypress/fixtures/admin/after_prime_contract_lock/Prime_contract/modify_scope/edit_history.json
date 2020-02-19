@@ -1,0 +1,25 @@
+{
+    "project_id": null,
+    "_id": "5d1b25daeff1c1000ed54ccc",
+    "type": "Prime Contract Change Order Modify Scope",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Prime Contract Change Order - Modify Scope created successfully"
+                    ],
+                    "specific_action": "PCCO Modify Scope Created"
+                }
+            ],
+            "created_on": 1562060250993,
+            "action": "Created PCCO Modify Scope"
+        }
+    ],
+    "__v": 0
+}

@@ -1,0 +1,48 @@
+{
+    "cost_type": [
+        "Labour",
+        "Katerra Material",
+        "Subcontractor Labor",
+        "Subcontractor Materials",
+        "Subcontractor Bundle",
+        "Manufacturing",
+        "GC or GR",
+        "Design",
+        "Logistics",
+        "Fees or Contingency",
+        "Subcontract Labor"
+    ],
+    "prime_contract_status": [
+        "Out for Bid",
+        "Approved",
+        "Complete",
+        "Terminated",
+        "Out for Signature"
+    ],
+    "sub_contract_status": [
+        "Out for Bid",
+        "Approved",
+        "Out for Signature",
+        "Complete",
+        "Terminated",
+        "Void"
+    ],
+    "change_order_reason": [
+        "Material Change",
+        "Client Request",
+        "Design Development",
+        "Existing Condition",
+        "Backcharge",
+        "Allowance",
+        "New Phase"
+    ],
+    "change_order_origin": [
+        "RFI"
+    ],
+    "change_order_type": [
+        "Owner Change",
+        "Allowance",
+        "Contingency",
+        "Transfer"
+    ]
+}

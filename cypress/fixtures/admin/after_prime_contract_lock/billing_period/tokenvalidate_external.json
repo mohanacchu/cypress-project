@@ -1,0 +1,10 @@
+{
+    "success": {
+        "id": "107",
+        "username": "Automation User",
+        "email": "shruthi.kumar@cognitiveclouds.com",
+        "expires": 1565174500,
+        "tenant": "stg",
+        "isAdmin": false
+    }
+}

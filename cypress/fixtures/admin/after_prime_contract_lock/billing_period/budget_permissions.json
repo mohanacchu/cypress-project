@@ -1,0 +1,116 @@
+{
+    "isAdminUser": false,
+    "role_id": 36,
+    "permissions": {
+        "user_type": "External",
+        "companies": [
+            {
+                "name": "Katerra Inc.",
+                "company_id": "5ca5f72ea6595b000eed9808"
+            },
+            {
+                "name": "Test Budgeting Company",
+                "company_id": "5cb02f51a6595b000eed980a"
+            },
+            {
+                "name": "Test scheduling company",
+                "company_id": "5cb02f5ea6595b000eed980b"
+            }
+        ],
+        "budget": {
+            "read": true,
+            "import_csv": true,
+            "add_line_item": true,
+            "lock_prime_contract": true,
+            "export_csv": true,
+            "edit_line_item": true,
+            "delete_line_item": true
+        },
+        "prime_contract_general": {
+            "create": false,
+            "update": false,
+            "delete": false,
+            "read": false
+        },
+        "prime_contract_sov": {
+            "read": false,
+            "export_csv": false
+        },
+        "sub_contractor_general": {
+            "create": true,
+            "delete": true,
+            "update": true,
+            "read": true
+        },
+        "sub_contractor_sov": {
+            "add": true,
+            "lock_commitment": true,
+            "read": true,
+            "export_csv": true,
+            "delete": true,
+            "update": true
+        },
+        "pcco": {
+            "read": true,
+            "create_pcco": true,
+            "create_app_workflow": true,
+            "create_attachments": true,
+            "create_comments": true,
+            "delete_attachments": true,
+            "edit_pcco": true,
+            "approve_pcco": true,
+            "delete_pcco": true
+        },
+        "cco": {
+            "read": true,
+            "create_cco": true,
+            "create_app_workflow": true,
+            "create_attachments": true,
+            "create_comments": true,
+            "delete_attachments": true,
+            "edit_cco": true,
+            "approve_cco": true,
+            "delete_cco": true
+        },
+        "pay_in": {
+            "read": true,
+            "create_pay_in": true,
+            "create_app_workflow": true,
+            "create_attachments": true,
+            "create_comments": true,
+            "delete_attachments": true,
+            "edit_pay_in": true,
+            "approve_pay_in": true,
+            "delete_pay_in": true
+        },
+        "pay_out": {
+            "read": true,
+            "create_pay_out": true,
+            "create_app_workflow": true,
+            "create_attachments": true,
+            "create_comments": true,
+            "delete_attachments": true,
+            "edit_pay_out": true,
+            "approve_pay_out": true,
+            "delete_pay_out": true
+        },
+        "billing_period": {
+            "read": false,
+            "create": false,
+            "delete": false,
+            "edit": false,
+            "notify": false
+        },
+        "pco": {
+            "read": true,
+            "create": true,
+            "create_app_workflow": true,
+            "create_attachments": true,
+            "create_comments": true,
+            "delete_attachments": true,
+            "edit": true,
+            "approve": true,
+            "delete": true
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "line_items": [{
+            "data": {
+                "_id": "5e1d5b2419417300100ddaaf",
+                "project_id": "228",
+                "name": "General Conditions",
+                "cost_code": "000000",
+                "cost_type": null,
+                "item_id": "15531666136241",
+                "item_parent": "0",
+                "is_leaf": false,
+                "original_budget": 0,
+                "custom_child": false
+            },
+            "children": [{
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddab2",
+                        "project_id": "228",
+                        "name": "Non-Reimbursable",
+                        "cost_code": "000001",
+                        "cost_type": null,
+                        "item_id": "15531666136262",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddab5",
+                        "project_id": "228",
+                        "name": "Permits",
+                        "cost_code": "003146",
+                        "cost_type": null,
+                        "item_id": "15531666136263",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddab7",
+                        "project_id": "228",
+                        "name": "Project Forms",
+                        "cost_code": "006000",
+                        "cost_type": null,
+                        "item_id": "15531666136274",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddaba",
+                        "project_id": "228",
+                        "name": "Sales Tax",
+                        "cost_code": "006276",
+                        "cost_type": null,
+                        "item_id": "15531666136275",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddabc",
+                        "project_id": "228",
+                        "name": "Warranty",
+                        "cost_code": "006536",
+                        "cost_type": null,
+                        "item_id": "15531666136276",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddabf",
+                        "project_id": "228",
+                        "name": "General Conditions",
+                        "cost_code": "007200",
+                        "cost_type": null,
+                        "item_id": "15531666136277",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "data": {
+                "_id": "5e1d5b2419417300100ddac2",
+                "project_id": "228",
+                "name": "General Requirements",
+                "cost_code": "010000",
+                "cost_type": null,
+                "item_id": "155316661362965",
+                "item_parent": "0",
+                "is_leaf": false,
+                "original_budget": 0,
+                "custom_child": false
+            },
+            "children": [{
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddac5",
+                        "project_id": "228",
+                        "name": "Postage / UPS/FedEx",
+                        "cost_code": "010001",
+                        "cost_type": null,
+                        "item_id": "155316661362966",
+                        "item_parent": "155316661362965",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddac8",
+                        "project_id": "228",
+                        "name": "Delivery Service/ Courier",
+                        "cost_code": "010002",
+                        "cost_type": null,
+                        "item_id": "155316661362967",
+                        "item_parent": "155316661362965",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddacb",
+                        "project_id": "228",
+                        "name": "Rough And Daily Cleaning",
+                        "cost_code": "017413",
+                        "cost_type": null,
+                        "item_id": "1553166613630130",
+                        "item_parent": "155316661362965",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddacd",
+                        "project_id": "228",
+                        "name": "Dumpster And Dump Fees",
+                        "cost_code": "017419",
+                        "cost_type": null,
+                        "item_id": "1553166613630131",
+                        "item_parent": "155316661362965",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddad0",
+                        "project_id": "228",
+                        "name": "Final Cleaning",
+                        "cost_code": "017423",
+                        "cost_type": null,
+                        "item_id": "1553166613630132",
+                        "item_parent": "155316661362965",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5e1d5b2419417300100ddad2",
+                        "project_id": "228",
+                        "name": "Bonds",
+                        "cost_code": "017833",
+                        "cost_type": null,
+                        "item_id": "1553166613630133",
+                        "item_parent": "155316661362965",
+                        "is_leaf": false,
+                        "original_budget": 0,
+                        "custom_child": false
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "data": {
+                "_id": "5e1d5b2419417300100ddad4",
+                "project_id": "228",
+                "name": "Construction Fee",
+                "cost_code": "910000",
+                "cost_type": null,
+                "item_id": "1553166613637503",
+                "item_parent": "0",
+                "is_leaf": false,
+                "original_budget": 0,
+                "custom_child": false
+            },
+            "children": []
+        }
+    ],
+    "total_before": 676462
+}

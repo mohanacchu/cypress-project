@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": {
+        "_id": "5d3838dd4601b7000e6a8148",
+        "name": "gh",
+        "billing_period": [
+            {
+                "access_start_date": "2019-07-30T00:00:00.000Z",
+                "access_end_date": "2019-07-31T00:00:00.000Z",
+                "is_deleted": false,
+                "_id": "5d3838dd4601b7000e6a8149",
+                "name": "k",
+                "start_date": "2019-07-23T00:00:00.000Z",
+                "end_date": "2019-07-29T00:00:00.000Z",
+                "billing_template_id": "5d3838dd4601b7000e6a8148",
+                "billing_template_name": "gh",
+                "__v": 0
+            }
+        ]
+    }
+}

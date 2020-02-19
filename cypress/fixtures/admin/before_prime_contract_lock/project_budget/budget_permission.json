@@ -1,0 +1,84 @@
+{
+  "isAdminUser": true,
+  "permissions": {
+    "scope_master": {
+      "import_csv": true,
+      "add_line_item": true,
+      "update": true,
+      "read": true,
+      "delete": true
+    },
+    "budget": {
+      "read": true,
+      "import_csv": true,
+      "add_line_item": true,
+      "lock_prime_contract": true,
+      "export_csv": true,
+      "edit_line_item": true,
+      "delete_line_item": true
+    },
+    "prime_contract_general": {
+      "create": true,
+      "update": true,
+      "delete": true,
+      "read": true
+    },
+    "prime_contract_sov": { "read": true, "export_csv": true },
+    "sub_contractor_general": {
+      "create": true,
+      "delete": true,
+      "update": true,
+      "read": true
+    },
+    "sub_contractor_sov": {
+      "add": true,
+      "lock_commitment": true,
+      "update": true,
+      "read": true,
+      "export_csv": true,
+      "delete": true
+    },
+    "pcco": {
+      "read": true,
+      "create_pcco": true,
+      "create_app_workflow": true,
+      "create_attachments": true,
+      "create_comments": true,
+      "edit_pcco": true,
+      "approve_pcco": true,
+      "delete_pcco": true
+    },
+    "cco": {
+      "read": true,
+      "create_cco": true,
+      "create_app_workflow": true,
+      "create_attachments": true,
+      "create_comments": true,
+      "edit_cco": true,
+      "approve_cco": true,
+      "delete_cco": true
+    },
+    "pay_in": {
+      "read": true,
+      "create_pay_in": true,
+      "create_app_workflow": true,
+      "create_attachments": true,
+      "create_comments": true,
+      "edit_pay_in": true,
+      "approve_pay_in": true,
+      "delete_pay_in": true
+    },
+    "pay_out": {
+      "read": true,
+      "create_pay_out": true,
+      "create_app_workflow": true,
+      "create_attachments": true,
+      "create_comments": true,
+      "edit_pay_out": true,
+      "approve_pay_out": true,
+      "delete_pay_out": true
+    },
+    "company": "",
+    "user_type": "Internal"
+  }
+}

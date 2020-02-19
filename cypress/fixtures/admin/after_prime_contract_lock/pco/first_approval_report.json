@@ -1,0 +1,75 @@
+{
+    "result": {
+        "message": "Pdf created successfully",
+        "url": "http://katerratest.ayoga.net:5100/PCO_report.pdf",
+        "report_data_to_construct": {
+            "project_id": "228",
+            "company": "",
+            "to_contractor_address1": "",
+            "to_contractor_address2": "",
+            "to_contractor_address3": "",
+            "katerra_address1": "Katerra Construction LLC",
+            "katerra_address2": "9305 E Via de Ventura, Ste 200",
+            "katerra_address3": "Scottsdale Arizona 85258",
+            "project_name": "web-automation-1",
+            "project_address": "",
+            "project_city": "",
+            "project_state": ", 0",
+            "project_zip": 0,
+            "project_no": null,
+            "pcco_number": "PCO #67676",
+            "pcco_title": "Potential Change Order #67676: PCO create",
+            "from_subcontractor_address1": "Katerra Construction, Inc.",
+            "from_subcontractor_address2": "9305 East Via de Ventura, Suite 200",
+            "from_subcontractor_address3": "Scottsdale Arizona 85258",
+            "date_created": "10-09-2019",
+            "contract_status": "",
+            "co_status": "Pending Approval",
+            "designated_reviewers": "Rajib Official,Shyam Athreye KA",
+            "due_date": "10-05-2019",
+            "contract_for": "",
+            "created_by": "Katerra Admin",
+            "reviewed_by": "Rajib Official,Shyam Athreye KA",
+            "reviewed_date": "10-09-2019",
+            "change_reason": "Material Change",
+            "executed": "NO",
+            "schedule_impact": "YES(99)",
+            "description": "",
+            "original_contract_sum": 0,
+            "net_change_prev_change_orders": 0,
+            "prev_change_orders_contract_sum": 0,
+            "increased_contract_sum_current_change_order": 0,
+            "new_contract_sum": 0,
+            "report_generated_time": "10/09/2019",
+            "attachments": [],
+            "contract_start_date": "",
+            "contract_end_date": "",
+            "c_response": {
+                "temperature": "FAHRENHEIT",
+                "speed": "mph",
+                "rainfall": "INCHES",
+                "currency": "USD",
+                "format": "Millions"
+            },
+            "co_line_items": [
+                {
+                    "item_no": "1",
+                    "cost_code": "000000 #PCO - General Conditions",
+                    "amount": "9000.00"
+                },
+                {
+                    "item_no": "2",
+                    "cost_code": "000000 #PCO - General Conditions",
+                    "amount": "8000.00"
+                },
+                {
+                    "item_no": "3",
+                    "cost_code": "007200 #PCO - General Conditions",
+                    "amount": "10.00"
+                }
+            ],
+            "sub_total": "17010.00",
+            "grand_total": "17010.00"
+        }
+    }
+}

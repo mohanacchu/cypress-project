@@ -1,0 +1,9 @@
+{
+    "response": {
+        "temperature": "FAHRENHEIT",
+        "speed": "mph",
+        "rainfall": "INCHES",
+        "currency": "USD",
+        "format": "Millions"
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "line_items": {
+    "created_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@Katerra.com"
+    },
+    "is_client": false,
+    "number": "55555",
+    "title": "unknown",
+    "contractor": "Katerra",
+    "status": "Approved",
+    "distribution_list": [
+      {
+        "user_id": 2,
+        "email": "raj.inugala@katerra.com",
+        "name": "Raj"
+      },
+      {
+        "user_id": 1,
+        "email": "admin@katerra.com",
+        "name": "Katerra Admin"
+      }
+    ],
+    "description": "<p>payment&nbsp;</p>\n",
+    "additional_information": null,
+    "created_status": "Final",
+    "_id": "5c5bd7a894e658000ee07516",
+    "engineer": [
+      {
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "email": "admin@katerra.com"
+      }
+    ],
+    "private": false,
+    "start_date": "2019-02-12T00:00:00.000Z",
+    "actual_completion_date": "2019-02-13T00:00:00.000Z",
+    "contract_termination_date": "2019-02-20T00:00:00.000Z",
+    "estimated_completion_date": "2019-02-11T00:00:00.000Z",
+    "signed_contract_recieved_date": "2019-02-13T00:00:00.000Z",
+    "redirect_url": "https://dev.construct.katerra.com/cb/sub-contract/general?project_id=299740&company=Katerra",
+    "project_id": "299740",
+    "created_time": "2019-02-07T07:00:56.675Z",
+    "__v": 0,
+    "contract_amount": 0,
+    "approved_change_order": 0,
+    "revised_contract_amount": 0,
+    "requisitions_to_date": 0,
+    "approved_requisitions": 0,
+    "payment_made": 0,
+    "outstanding_amount": 0,
+    "pending_change_orders": 0,
+    "pending_revised_contract_amount": 0
+  }
+}
+

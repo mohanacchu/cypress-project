@@ -1,0 +1,29 @@
+{
+    "line_items": [
+        {
+            "_id": "5d1b25daeff1c1000ed54ccd",
+            "approval_workflow_id": "5d1b25daeff1c1000ed54cca",
+            "co_type": "pcco_modify_budget",
+            "number": "23456",
+            "project_id": "236",
+            "title": "test",
+            "reason": "Material Change",
+            "assignee": [
+                {
+                    "user_id": "54",
+                    "user_name": "ABC123",
+                    "email": "123@yahoo.com"
+                }
+            ],
+            "due_date": "07-07-2019",
+            "created_on": "2019-07-02T09:37:30.996Z",
+            "updated_on": "2019-07-02T09:37:30.996Z",
+            "status": "approved",
+            "total_requested_amount": 1,
+            "total_approved_amount": 0,
+            "co_value": 1,
+            "type": "Modify Scope",
+            "is_approval_workflow_started": true
+        }
+    ]
+}

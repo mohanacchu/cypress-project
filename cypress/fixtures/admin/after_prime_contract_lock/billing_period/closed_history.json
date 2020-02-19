@@ -1,0 +1,74 @@
+{
+    "project_id": "235",
+    "_id": "5d3a9908b2b257000e1b9398",
+    "type": "Billing Period",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "<b>Name:</b> Billing period test<br>\n                <b>Start:</b> 07/02/2019<br>\n                <b>End:</b> 07/03/2019<br>\n                <b>Access Start:</b> 07/05/2019<br>\n                <b>Access End:</b> 07/06/2019"
+                    ],
+                    "specific_action": "Billing Period is created with the following details:"
+                }
+            ],
+            "created_on": 1564121352437,
+            "action": "Billing Period Created"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Katerra Inc."
+                    ],
+                    "specific_action": "The list of companies assigned to this Billing Period have been updated. The updated list of Companies is as follows:"
+                }
+            ],
+            "created_on": 1564121352437,
+            "action": "Assigned Companies updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [],
+                    "specific_action": "All Companies assigned to this Billing Period have been unassigned."
+                }
+            ],
+            "created_on": 1564394181322,
+            "action": "Companies updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Katerra Inc."
+                    ],
+                    "specific_action": "The list of companies assigned to this Billing Period have been updated. The updated list of Companies is as follows:"
+                }
+            ],
+            "created_on": 1564402800614,
+            "action": "Assigned Companies Updated"
+        }
+    ],
+    "__v": 0
+}

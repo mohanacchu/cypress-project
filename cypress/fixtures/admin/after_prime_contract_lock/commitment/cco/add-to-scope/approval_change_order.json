@@ -1,0 +1,18 @@
+{
+    "response": {
+      "chat": [
+        {
+          "is_deleted": false,
+          "_id": "5c750598b03ab8000ed66ea8",
+          "text": "create add to scope",
+          "timestamp": "1551172882276",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@Katerra.com",
+          "created_date": 1551173016060
+        }
+      ],
+      "feature_id": "5c750597b03ab8000ed66e9d",
+      "feature_type": "change_order"
+    }
+  }

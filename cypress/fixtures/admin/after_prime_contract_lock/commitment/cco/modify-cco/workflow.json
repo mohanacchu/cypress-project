@@ -1,0 +1,12 @@
+{
+    "result": [
+      {
+        "id": "5c63ad1f8e9cc3132e8b4569",
+        "workflow_name": "Workflow_template1"
+      },
+      {
+        "id": "5c63ad338e9cc30d2e8b456a",
+        "workflow_name": "Sample WorkFlow "
+      }
+    ]
+  }

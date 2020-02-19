@@ -1,0 +1,34 @@
+{
+    "result": [
+        {
+            "_id": "5d42af1518dfd20010f7e9be",
+            "payment_status": "under_approval",
+            "invoice_ref_no": "Requisition Test",
+            "billing_period_from": "2019-07-04T00:00:00.000Z",
+            "billing_period_to": "2019-07-06T00:00:00.000Z",
+            "bill_title": "Bill title",
+            "approver": [
+                {
+                    "user_id": "54",
+                    "user_name": "ABC123",
+                    "email": "123@yahoo.com"
+                }
+            ],
+            "revised_contract_amount": 0,
+            "payment_received": 0,
+            "total_completed_and_stored_to_date": 100,
+            "requisitions_to_date": 90,
+            "total_retainage_to_date": 10,
+            "created_at": "2019-08-01T09:21:25.495Z",
+            "work_completed_this_period": 100,
+            "work_retainage_this_period": 10,
+            "original_contract_amount": 0,
+            "net_approved_cco": 0,
+            "payment_due": 90,
+            "balance_to_finish": -90,
+            "percentage_completed": "-",
+            "can_delete_requisition": true,
+            "is_approval_workflow_started": false
+        }
+    ]
+}

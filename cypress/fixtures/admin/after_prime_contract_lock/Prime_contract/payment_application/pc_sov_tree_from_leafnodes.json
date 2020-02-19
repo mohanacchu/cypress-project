@@ -1,0 +1,103 @@
+{
+    "total_before": 678462,
+    "line_items": [
+        {
+            "data": {
+                "_id": "5d01eec69f7acc000f0905fa",
+                "item_id": "15531666136241",
+                "item_parent": "0",
+                "is_leaf": false,
+                "description": null,
+                "name": "General Conditions",
+                "cost_code": "000000"
+            },
+            "children": [
+                {
+                    "data": {
+                        "_id": "5d01eec69f7acc000f0905fc",
+                        "item_id": "1560407750027",
+                        "cost_type": "Subcontract Labor",
+                        "description": null,
+                        "total": 0,
+                        "pending_cost": 0,
+                        "item_parent": "15531666136241",
+                        "name": "General Conditions - SC2",
+                        "cost_code": "000000",
+                        "approved_cost": 0,
+                        "billed_to_date": 0,
+                        "payment_received": 0,
+                        "approved_to_date": 0,
+                        "is_leaf": true,
+                        "original_budget": 8000,
+                        "revised_budget": 8000,
+                        "revised_contract_amount": 8000,
+                        "pending_to_be_billed": 8000,
+                        "payment_pending": 0
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5d01eec69f7acc000f0905fb",
+                        "item_id": "1560407750018",
+                        "cost_type": "Subcontract Labor",
+                        "description": null,
+                        "total": 0,
+                        "pending_cost": 0,
+                        "item_parent": "15531666136241",
+                        "name": "General Conditions - SC1",
+                        "cost_code": "000000",
+                        "approved_cost": 0,
+                        "billed_to_date": 0,
+                        "payment_received": 0,
+                        "approved_to_date": 0,
+                        "is_leaf": true,
+                        "original_budget": 31190,
+                        "revised_budget": 31190,
+                        "revised_contract_amount": 31190,
+                        "pending_to_be_billed": 31190,
+                        "payment_pending": 0
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "_id": "5d01eec69f7acc000f0905fd",
+                        "item_id": "15531666136262",
+                        "item_parent": "15531666136241",
+                        "is_leaf": false,
+                        "description": null,
+                        "name": "Non-Reimbursable",
+                        "cost_code": "000001"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "_id": "5d01eec69f7acc000f0905fe",
+                                "item_id": "1560407750042",
+                                "cost_type": "Subcontract Labor",
+                                "description": null,
+                                "total": 0,
+                                "pending_cost": 0,
+                                "item_parent": "15531666136262",
+                                "name": "Non-Reimbursable - SC1",
+                                "cost_code": "000001",
+                                "approved_cost": 0,
+                                "billed_to_date": 0,
+                                "payment_received": 0,
+                                "approved_to_date": 0,
+                                "is_leaf": true,
+                                "original_budget": 1000,
+                                "revised_budget": 1000,
+                                "revised_contract_amount": 1000,
+                                "pending_to_be_billed": 1000,
+                                "payment_pending": 0
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

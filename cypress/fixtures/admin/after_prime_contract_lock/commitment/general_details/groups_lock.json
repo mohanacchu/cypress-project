@@ -1,0 +1,44 @@
+{
+  "distribution_groups": [
+    {
+      "id": "7",
+      "name": "GroupG1"
+    },
+    {
+      "id": "11",
+      "name": "Help Team"
+    },
+    {
+      "id": "12",
+      "name": "New PDF"
+    },
+    {
+      "id": "5",
+      "name": "PDF QA G"
+    },
+    {
+      "id": "6",
+      "name": "PDF_Dev Group"
+    },
+    {
+      "id": "3",
+      "name": "QA"
+    },
+    {
+      "id": "1",
+      "name": "QA_construct1"
+    },
+    {
+      "id": "2",
+      "name": "Rest API Automation Group"
+    },
+    {
+      "id": "10",
+      "name": "test"
+    },
+    {
+      "id": "4",
+      "name": "Test_Group"
+    }
+  ]
+}

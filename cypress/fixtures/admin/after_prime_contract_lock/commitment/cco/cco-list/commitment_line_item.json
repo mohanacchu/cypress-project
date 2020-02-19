@@ -1,0 +1,41 @@
+{
+  "line_items": [
+    {
+      "cost_type": null,
+      "description": null,
+      "item_parent": "1555669943402",
+      "unit": null,
+      "quantity": 1,
+      "rate": 0,
+      "contract_amount": 0,
+      "approved_cco": 0,
+      "is_leaf": true,
+      "default_child": true,
+      "pay_out_id": null,
+      "open_cco_id": null,
+      "requisitions_amount": 0,
+      "retainage": 0,
+      "requisitions_to_date": 0,
+      "approved_retainage_to_date": 0,
+      "total_completed_and_stored_to_date": 0,
+      "approved_requisitions": 0,
+      "previous_approved_requisitions_to_date": 0,
+      "previous_approved_retainage_to_date": 0,
+      "requisitions_payment_received": 0,
+      "previous_payment_due": 0,
+      "revised_quantity": 1,
+      "revised_unit": null,
+      "revised_rate": 0,
+      "has_cco": false,
+      "has_requisition": false,
+      "has_approved_pay_out": false,
+      "_id": "5cc1708c6d2308000fe29dbc",
+      "cost_code": "280000",
+      "name": "Electronic Safety & Security",
+      "total_bill_amount": 0,
+      "revised_contract_amount": 0,
+      "pending_requisitions": 0,
+      "requisitions_payment_pending": 0
+    }
+  ]
+}

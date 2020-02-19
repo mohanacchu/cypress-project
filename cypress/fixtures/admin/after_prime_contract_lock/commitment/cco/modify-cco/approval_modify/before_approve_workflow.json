@@ -1,0 +1,9 @@
+{
+  "result": [
+    { "id": "5c63ad1f8e9cc3132e8b4569", "workflow_name": "Workflow_template1" },
+    { "id": "5c63ad338e9cc30d2e8b456a", "workflow_name": "Sample WorkFlow " },
+    { "id": "5c761cb48e9cc324798b4568", "workflow_name": "Migrated WorkFlow" },
+    { "id": "5c80e4c18e9cc32d0d9f969c", "workflow_name": "Approval" },
+    { "id": "5c88d5f38e9cc384288b4568", "workflow_name": "Standard Workflow" }
+  ]
+}

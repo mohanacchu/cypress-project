@@ -1,0 +1,19 @@
+{
+    "result": {
+      "task_type": [
+        "Approval",
+        "Rejected",
+        "For Record Only",
+        "Pending",
+        "Did Not Review",
+        "Revise and Resubmit",
+        "Reviewed with Corrections",
+        "Draft",
+        "Under Review"
+      ]
+    }
+  }
+
+
+
+  

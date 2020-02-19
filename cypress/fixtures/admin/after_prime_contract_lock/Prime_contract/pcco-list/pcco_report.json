@@ -1,0 +1,60 @@
+{
+  "result": {
+    "message": "Pdf created successfully",
+    "url": "http://katerratest.ayoga.net:5100/PCCO_report_.pdf",
+    "report_data_to_construct": {
+      "project_id": "359",
+      "company": "Katerra Inc.",
+      "to_contractor_address1": "Katerra Inc.",
+      "to_contractor_address2": "",
+      "to_contractor_address3": "",
+      "katerra_address1": "Katerra Construction LLC",
+      "katerra_address2": "9305 E Via de Ventura, Ste 200",
+      "katerra_address3": "Scottsdale Arizona 85258",
+      "architecture_address1": "Katerra Architecture, LLC",
+      "architecture_address2": "542 1st Ave. South, Suite 400",
+      "architecture_address3": "Seattle Washington 98164",
+      "project_name": "cy-automation-3",
+      "project_address": "",
+      "project_city": "",
+      "project_state": ", 0",
+      "project_zip": "0",
+      "project_no": null,
+      "pcco_number": "PCCO #12345",
+      "pcco_title": "Prime Contract Change Order #12345: modScope",
+      "from_subcontractor_address1": "Katerra Construction, Inc.",
+      "from_subcontractor_address2": "9305 East Via de Ventura, Suite 200",
+      "from_subcontractor_address3": "Scottsdale Arizona 85258",
+      "date_created": "07-09-2019",
+      "contract_status": "",
+      "co_status": "Approved",
+      "designated_reviewers": "Rajib Official",
+      "due_date": "07-13-2019",
+      "contract_for": "12345: prime create",
+      "created_by": "Katerra Admin",
+      "reviewed_by": "Rajib Official",
+      "reviewed_date": "07-08-2019",
+      "change_reason": "Material Change",
+      "executed": "NO",
+      "schedule_impact": "NO",
+      "description": "",
+      "original_contract_sum": "676462.00",
+      "net_change_prev_change_orders": "0.00",
+      "prev_change_orders_contract_sum": "676462.00",
+      "increased_contract_sum_current_change_order": "0.00",
+      "new_contract_sum": "676462.00",
+      "report_generated_time": "07/09/2019",
+      "attachments": [],
+      "co_line_items": [
+        {
+          "item_no": "1",
+          "cost_code": "017413 #CO - Rough And Daily Cleaning",
+          "description": null,
+          "amount": "0.00"
+        }
+      ],
+      "sub_total": "0.00",
+      "grand_total": "0.00"
+    }
+  }
+}

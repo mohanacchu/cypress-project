@@ -1,0 +1,133 @@
+{
+  "result": {
+    "message": "Pdf created successfully",
+    "url": "http://katerratest.ayoga.net:5100/web-automation-132_1549946347.pdf",
+    "report_data_to_construct": {
+      "project_id": "299743",
+      "company": "Katerra",
+      "to_contractor_address1": "Katerra Construction, Inc.",
+      "to_contractor_address2": "9305 East Via de Ventura, Suite 200",
+      "to_contractor_address3": "Scottsdale, Arizona 85258 ",
+      "from_subcontractor_address1": "Katerra",
+      "from_subcontractor_address2": "",
+      "from_subcontractor_address3": "",
+      "project_name": "web-automation-132",
+      "project_address": "",
+      "project_city": "",
+      "project_state": ", 0",
+      "project_zip": "",
+      "subcontract_date": "02-10-2019",
+      "apllication_no": "12346",
+      "apllication_date": "01-31-2019",
+      "invoice_no": "201902",
+      "period": "01-20-2019 - 01-28-2019",
+      "project_no": null,
+      "contract_date": "",
+      "subcontract_for": "budget 11",
+      "section_name": "SUBCONTRACTOR'S APPLICATION FOR PAYMENT",
+      "subcontractor": "Katerra",
+      "architects_engineer": "56743",
+      "total_changes_approved_in_previous_months_by_owner": "--",
+      "total_approved_this_month": "--",
+      "original_contract_sum": "0.00",
+      "net_change_by_change_orders": "0.00",
+      "contract_sum_to_date": "0.00",
+      "total_completed_and_stored_to_date": "6.00",
+      "retainage_completed_work": "-14.80",
+      "retainage_stored_material": "0.00",
+      "total_retainage": "-14.80",
+      "percentage_completed_work": "-246.67",
+      "total_earned_less_retainage": "-19.20",
+      "less_previous_certificates_for_payment": "7.70",
+      "current_payment_due": "-24.20",
+      "balance_to_finish": "19.20",
+      "contract_lines": [{
+        "item_no": "1",
+        "cost_code": "000000",
+        "description": null,
+        "scheduled_value": {
+          "qty": 0,
+          "unit_price": 0,
+          "value": "0.00"
+        },
+        "from_previous_application": {
+          "qty": 0,
+          "value": "0.00"
+        },
+        "work_completed_this_period": {
+          "qty": 0,
+          "value": "-44.00"
+        },
+        "material_presently_stored": "0.00",
+        "total_completed_and_stored_to_date": {
+          "qty": 0,
+          "value": "-44.00"
+        },
+        "percentage_completed": "-",
+        "balance_to_finish": "44.00",
+        "retainage": "-19.80"
+      }, {
+        "item_no": "2",
+        "cost_code": "910000",
+        "description": null,
+        "scheduled_value": {
+          "qty": 0,
+          "unit_price": 0,
+          "value": "0.00"
+        },
+        "from_previous_application": {
+          "qty": 0,
+          "value": "0.00"
+        },
+        "work_completed_this_period": {
+          "qty": 0,
+          "value": "0.00"
+        },
+        "material_presently_stored": "0.00",
+        "total_completed_and_stored_to_date": {
+          "qty": 0,
+          "value": "40.00"
+        },
+        "percentage_completed": "-",
+        "balance_to_finish": "-40.00",
+        "retainage": "0.00"
+      }, {
+        "item_no": "3",
+        "cost_code": "010000",
+        "description": null,
+        "scheduled_value": {
+          "qty": 0,
+          "unit_price": 0,
+          "value": "0.00"
+        },
+        "from_previous_application": {
+          "qty": 0,
+          "value": "10.00"
+        },
+        "work_completed_this_period": {
+          "qty": 0,
+          "value": "0.00"
+        },
+        "material_presently_stored": "0.00",
+        "total_completed_and_stored_to_date": {
+          "qty": 0,
+          "value": "10.00"
+        },
+        "percentage_completed": "-",
+        "balance_to_finish": "-10.00",
+        "retainage": "5.00"
+      }],
+      "grand_totals": {
+        "description": null,
+        "scheduled_value": "0.00",
+        "from_previous_application": "10.00",
+        "work_completed_this_period": "-44.00",
+        "material_presently_stored": "0.00",
+        "total_completed_and_stored_to_date": "6.00",
+        "percentage_completed": "-",
+        "balance_to_finish": "-6.00",
+        "retainage": "-14.80"
+      }
+    }
+  }
+}

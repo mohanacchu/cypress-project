@@ -1,0 +1,14 @@
+{
+  "result": {
+    "_id": "5cc04d3550eb4c000e525d8a",
+    "project_id": "392815",
+    "company_id": "5c85d20de282a8000ef6e2b0",
+    "company": "Katerra Inc.",
+    "commitments": [{
+      "_id": "5c88dbe13e6bca000e2d331a",
+      "commitment_name": "Katerra Inc. - 1",
+      "active": false,
+      "is_deleted": false
+    }]
+  }
+}

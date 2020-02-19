@@ -1,0 +1,48 @@
+{
+  "response": {
+    "chat": [
+      {
+        "is_deleted": false,
+        "_id": "5c91d56d08f2a2000e29db8f",
+        "text": "updating the modify cco",
+        "timestamp": "1553061228919",
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "user_email": "admin@katerra.com",
+        "created_date": 1553061229576
+      },
+      {
+        "is_deleted": false,
+        "_id": "5c91d58b08f2a2000e29db91",
+        "text": "updating the modify cco",
+        "timestamp": "1553061228919",
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "user_email": "admin@katerra.com",
+        "created_date": 1553061259191
+      },
+      {
+        "is_deleted": false,
+        "_id": "5c91d58b08f2a2000e29db90",
+        "text": "Approval the modify cco",
+        "timestamp": "1553061258357",
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "user_email": "admin@katerra.com",
+        "created_date": 1553061259191
+      },
+      {
+        "is_deleted": false,
+        "_id": "5c91d80508f2a2000e29df06",
+        "text": "updating the modify cco",
+        "timestamp": "1553061891324",
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "user_email": "admin@katerra.com",
+        "created_date": 1553061893112
+      }
+    ],
+    "feature_id": "5c91d0a008f2a2000e29ca12",
+    "feature_type": "change_order"
+  }
+}

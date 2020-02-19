@@ -1,0 +1,12 @@
+{
+  "success": {
+    "id": "164",
+    "username": "Katerra QA4 Admin [DO NOT MODIFY]",
+    "email": "katerra.qa4@gmail.com",
+    "tenant": "stg",
+    "isAdmin": true,
+    "expires": 1581064305,
+    "iat": 1581053505,
+    "exp": 1581064305
+  }
+}

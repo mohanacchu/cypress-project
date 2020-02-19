@@ -1,0 +1,107 @@
+{
+    "list_albums": [
+      {
+        "id": "5c57cea801a544eb258b4567",
+        "album_name": "automation-test",
+        "created_date": 1549258408,
+        "photos": [
+          {
+            "id": "5c57cf6a01a54407268b4569",
+            "name": "Download.png",
+            "description": "",
+            "location": "",
+            "path": "automation-test",
+            "photo_url": "http://dev.construct.katerra.com/cms/view_photo.php?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IkthdGVycmEgQWRtaW4iLCJlbWFpbCI6ImFkbWluQEthdGVycmEuY29tIiwiZXhwaXJlcyI6MTU0OTM2NDM3NywidGVuYW50IjoiZGV2In0.-QzblpwB219DJyR30FRvdtWc9dO40sPA4RwgeaAFA5Y&photo_id=5c57cf6a01a54407268b4569",
+            "blob_name": "1549258600_photos_photo_download.png",
+            "thumbnail_blob": "1549258600_photos_thumb_download.png",
+            "uploaded_by": "Katerra Admin",
+            "created_date": "2019-02-03 21:36:40",
+            "taken_on": "",
+            "file_type": "image/png",
+            "file_size": 585,
+            "thumbnail_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258600_photos_thumb_download.png"
+          },
+          {
+            "id": "5c57cf6b01a54407268b456a",
+            "name": "Images.png",
+            "description": "",
+            "location": "",
+            "path": "automation-test",
+            "photo_url": "http://dev.construct.katerra.com/cms/view_photo.php?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IkthdGVycmEgQWRtaW4iLCJlbWFpbCI6ImFkbWluQEthdGVycmEuY29tIiwiZXhwaXJlcyI6MTU0OTM2NDM3NywidGVuYW50IjoiZGV2In0.-QzblpwB219DJyR30FRvdtWc9dO40sPA4RwgeaAFA5Y&photo_id=5c57cf6b01a54407268b456a",
+            "blob_name": "1549258602_photos_photo_images.png",
+            "thumbnail_blob": "1549258602_photos_thumb_images.png",
+            "uploaded_by": "Katerra Admin",
+            "created_date": "2019-02-03 21:36:40",
+            "taken_on": "",
+            "file_type": "image/png",
+            "file_size": 821,
+            "thumbnail_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258602_photos_thumb_images.png"
+          },
+          {
+            "id": "5c57cf6d01a54407268b456b",
+            "name": "Images (1).png",
+            "description": "",
+            "location": "",
+            "path": "automation-test",
+            "photo_url": "http://dev.construct.katerra.com/cms/view_photo.php?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IkthdGVycmEgQWRtaW4iLCJlbWFpbCI6ImFkbWluQEthdGVycmEuY29tIiwiZXhwaXJlcyI6MTU0OTM2NDM3NywidGVuYW50IjoiZGV2In0.-QzblpwB219DJyR30FRvdtWc9dO40sPA4RwgeaAFA5Y&photo_id=5c57cf6d01a54407268b456b",
+            "blob_name": "1549258603_photos_photo_images (1).png",
+            "thumbnail_blob": "1549258603_photos_thumb_images (1).png",
+            "uploaded_by": "Katerra Admin",
+            "created_date": "2019-02-03 21:36:40",
+            "taken_on": "",
+            "file_type": "image/png",
+            "file_size": 426,
+            "thumbnail_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258603_photos_thumb_images%20%281%29.png"
+          },
+          {
+            "id": "5c57cf6f01a54407268b456c",
+            "name": "Sample-graphic.jpg",
+            "description": "",
+            "location": "",
+            "path": "automation-test",
+            "photo_url": "http://dev.construct.katerra.com/cms/view_photo.php?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IkthdGVycmEgQWRtaW4iLCJlbWFpbCI6ImFkbWluQEthdGVycmEuY29tIiwiZXhwaXJlcyI6MTU0OTM2NDM3NywidGVuYW50IjoiZGV2In0.-QzblpwB219DJyR30FRvdtWc9dO40sPA4RwgeaAFA5Y&photo_id=5c57cf6f01a54407268b456c",
+            "blob_name": "1549258605_photos_photo_sample-graphic.jpg",
+            "thumbnail_blob": "1549258605_photos_thumb_sample-graphic.jpg",
+            "uploaded_by": "Katerra Admin",
+            "created_date": "2019-02-03 21:36:40",
+            "taken_on": "",
+            "file_type": "image/jpeg",
+            "file_size": 13507,
+            "thumbnail_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258605_photos_thumb_sample-graphic.jpg"
+          },
+          {
+            "id": "5c57cf7101a54407268b456d",
+            "name": "Thumb-jpg.png",
+            "description": "",
+            "location": "",
+            "path": "automation-test",
+            "photo_url": "http://dev.construct.katerra.com/cms/view_photo.php?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IkthdGVycmEgQWRtaW4iLCJlbWFpbCI6ImFkbWluQEthdGVycmEuY29tIiwiZXhwaXJlcyI6MTU0OTM2NDM3NywidGVuYW50IjoiZGV2In0.-QzblpwB219DJyR30FRvdtWc9dO40sPA4RwgeaAFA5Y&photo_id=5c57cf7101a54407268b456d",
+            "blob_name": "1549258607_photos_photo_thumb-jpg.png",
+            "thumbnail_blob": "1549258607_photos_thumb_thumb-jpg.png",
+            "uploaded_by": "Katerra Admin",
+            "created_date": "2019-02-03 21:36:40",
+            "taken_on": "",
+            "file_type": "image/png",
+            "file_size": 2435,
+            "thumbnail_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258607_photos_thumb_thumb-jpg.png"
+          },
+          {
+            "id": "5c57cebd01a544f0258b4567",
+            "name": "Rose-blue-flower-rose-blooms-67636.jpeg",
+            "description": "",
+            "location": "",
+            "path": "automation-test",
+            "photo_url": "http://dev.construct.katerra.com/cms/view_photo.php?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IkthdGVycmEgQWRtaW4iLCJlbWFpbCI6ImFkbWluQEthdGVycmEuY29tIiwiZXhwaXJlcyI6MTU0OTM2NDM3NywidGVuYW50IjoiZGV2In0.-QzblpwB219DJyR30FRvdtWc9dO40sPA4RwgeaAFA5Y&photo_id=5c57cebd01a544f0258b4567",
+            "blob_name": "1549258427_photos_photo_rose-blue-flower-rose-blooms-67636.jpeg",
+            "thumbnail_blob": "1549258427_photos_thumb_rose-blue-flower-rose-blooms-67636.jpeg",
+            "uploaded_by": "Katerra Admin",
+            "created_date": "2019-02-03 21:33:47",
+            "taken_on": "",
+            "file_type": "image/jpeg",
+            "file_size": 20775,
+            "thumbnail_url": "https://ayogasm.blob.core.windows.net/testcontainer/1549258427_photos_thumb_rose-blue-flower-rose-blooms-67636.jpeg"
+          }
+        ]
+      }
+    ]
+  }

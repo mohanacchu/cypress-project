@@ -1,0 +1,78 @@
+{
+  "_id": "5c52f3ac151f21000e8fc27d",
+  "type": "Create Requisition",
+  "history": [{
+    "action_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    },
+    "details": [{
+      "specific_action_details": ["Requisition created successfully"],
+      "specific_action": "Requisition Created"
+    }],
+    "created_on": 1548940204178,
+    "action": "Created Requisition"
+  }, {
+    "action_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    },
+    "details": [{
+      "specific_action_details": ["Invoice Ref No.: \"234564\" changed to \"201902\"", "Billing Title: \"Test\" changed to \"updated bill\""],
+      "specific_action": "General Infomation Changes:"
+    }, {
+      "specific_action_details": ["General Conditions - SC1, Work Completed (This Period): 55, Work Retainage (This Period): 10\n                                          changed to\n                                          Work Completed (This Period): -44, Work Retainage (This Period): -34 "],
+      "specific_action": "Updated Line Item:"
+    }, {
+      "specific_action_details": ["Task Name: Submit,Task Type: Validate,Duration:3,Start_Date: 01-31-2019,Due_Date:02-03-2019,Assignee:Katerra Admin,Raj\n                                  changed to\n                                  Task Name: new submit,Task Type: Validate,Duration:3,Start_Date: 01-31-2019,Due_Date:02-03-2019,Assignee:Katerra Admin ", "Task Name: Test,Task Type: Approval,Duration:5,Start_Date: 02-04-2019,Due_Date:02-09-2019,Assignee:Katerra Admin,Raj\n                                  changed to\n                                  Task Name: Test,Task Type: Approval,Duration:5,Start_Date: 02-04-2019,Due_Date:02-09-2019,Assignee:Katerra Admin "],
+      "specific_action": "Updated Workflow Task:"
+    }],
+    "created_on": 1549450272472,
+    "action": "Requisition Updated"
+  }, {
+    "action_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    },
+    "details": [{
+      "specific_action_details": ["Retainage On Work Completed: \"44.00\" changed to \"45.00\""],
+      "specific_action": "General Infomation Changes:"
+    }, {
+      "specific_action_details": ["General Conditions - SC1, Work Completed (This Period): -44, Work Retainage (This Period): -34\n                                          changed to\n                                          Work Completed (This Period): -44, Work Retainage (This Period): -19.8 "],
+      "specific_action": "Updated Line Item:"
+    }],
+    "created_on": 1549452430101,
+    "action": "Requisition Updated"
+  }, {
+    "action_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    },
+    "details": [{
+      "specific_action_details": ["Task Name: new submit,Task Type: Validate,Duration:3,Start_Date: 01-31-2019,Due_Date:02-03-2019,Assignee:Katerra Admin"],
+      "specific_action": "Approved Workflow Task:"
+    }],
+    "created_on": 1549516893472,
+    "action": "Requisition Approved"
+  }, {
+    "action_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    },
+    "details": [{
+      "specific_action_details": ["General Conditions - SC1, Approved Work Completed (This Period): -44, Approved Work Retainage (This Period): -19.8"],
+      "specific_action": "Approved Line Items:"
+    }, {
+      "specific_action_details": ["Task Name: Test,Task Type: Approval,Duration:5,Start_Date: 02-04-2019,Due_Date:02-09-2019,Assignee:Katerra Admin"],
+      "specific_action": "Approved Workflow Task:"
+    }],
+    "created_on": 1549541472578,
+    "action": "Requisition Approved"
+  }],
+  "__v": 0
+}

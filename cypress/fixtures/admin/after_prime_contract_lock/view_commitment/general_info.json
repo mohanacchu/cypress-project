@@ -1,0 +1,49 @@
+{
+    "line_items": {
+        "created_by": {
+            "user_id": "1",
+            "name": "Katerra Admin",
+            "email": "admin@Katerra.com"
+        },
+        "is_client": false,
+        "number": "999",
+        "title": "Budgeting list",
+        "contractor": "Katerra Inc.",
+        "commitment_id": "5d8a1219905c71001006129e",
+        "status": "In Progress",
+        "distribution_list": [{
+            "user_id": 33,
+            "email": "Anuja.Kulkarni@katerra.com",
+            "name": "Anuja Kulkarni"
+        }],
+        "description": "",
+        "additional_information": null,
+        "created_status": "Final",
+        "_id": "5daea41a61db1b00105bb32a",
+        "engineer": [{
+            "user_id": "8",
+            "user_name": "Jane Doe",
+            "email": "shobhasri.raghavan@katerra.com"
+        }],
+        "private": false,
+        "start_date": "2019-10-16T00:00:00.000Z",
+        "actual_completion_date": "2019-10-17T00:00:00.000Z",
+        "contract_termination_date": "2019-10-17T00:00:00.000Z",
+        "estimated_completion_date": "2019-10-01T00:00:00.000Z",
+        "signed_contract_recieved_date": "2019-10-10T00:00:00.000Z",
+        "redirect_url": "https://stg.construct.katerra.com/cb/sub-contract/general?project_id=228&company_id=5ca5f72ea6595b000eed9808&commitment_id=5d8a1219905c71001006129e",
+        "company_id": "5ca5f72ea6595b000eed9808",
+        "project_id": "228",
+        "created_time": "2019-10-22T06:39:22.679Z",
+        "__v": 0,
+        "contract_amount": 0,
+        "approved_change_order": 0,
+        "revised_contract_amount": 0,
+        "requisitions_to_date": 0,
+        "approved_requisitions": 0,
+        "payment_made": 0,
+        "outstanding_amount": 0,
+        "pending_change_orders": 0,
+        "pending_revised_contract_amount": 0
+    }
+}

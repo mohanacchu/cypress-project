@@ -1,0 +1,25 @@
+{
+    "result": {
+      "workflow_name": "QA Test Workflow",
+      "tasks": [
+        {
+          "TaskName": "Submit",
+          "Assigned": 0,
+          "due_date": " 2018-08-30 15:13:43",
+          "Category": "Validate",
+          "Duration": 3,
+          "workflow_type": 0,
+          "checklist": null
+        },
+        {
+          "TaskName": "Test",
+          "Assigned": 0,
+          "due_date": " 2018-09-03 15:13:43",
+          "Category": "Approval",
+          "Duration": 5,
+          "workflow_type": 0,
+          "checklist": null
+        }
+      ]
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "result": [
+        {
+            "_id": "5d2f0524c410f3000f3a67b1",
+            "approval_workflow_id": "5d2f0524c410f3000f3a67ae",
+            "invoice_ref_no": "9999",
+            "created_at": "2019-07-17T11:23:16.980Z",
+            "bill_title": "test",
+            "billing_period_from": "2019-07-18T00:00:00.000Z",
+            "billing_period_to": "2019-07-19T00:00:00.000Z",
+            "payment_status": "under_approval",
+            "approver": [
+                {
+                    "user_id": "54",
+                    "user_name": "ABC123",
+                    "email": "123@yahoo.com"
+                }
+            ],
+            "bill_amount": 187,
+            "retainage": 110,
+            "total_bill_amount": 77,
+            "approved_bill_amount": 0,
+            "approved_retainage_amount": 0,
+            "total_approved_bill_amount": 0,
+            "payment_received": 0,
+            "is_approval_workflow_started": false
+        }
+    ]
+}

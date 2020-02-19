@@ -1,0 +1,39 @@
+{
+    "cost_type": [
+      "Labour",
+      "123-Extra",
+      "123456",
+      "576223-SubContractor",
+      "12345_Contractor",
+      "GC GR",
+      "Katerra Labor",
+      "Subcontractor",
+      "Katerra Material",
+      "Subcontract Labor"
+    ],
+    "prime_contract_status": [
+      "Out for bid",
+      "Approved",
+      "Review"
+    ],
+    "sub_contract_status": [
+      "Out for bid",
+      "Approved"
+    ],
+    "change_order_reason": [
+      "Material Change",
+      "Scope Creep"
+    ],
+    "change_order_origin": [
+      "RFI"
+    ],
+    "change_order_type": [
+      "Owner Change",
+      "Material",
+      "Labour"
+    ],
+    "task_type": [
+      "Labour",
+      "Approval"
+    ]
+  }

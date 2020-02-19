@@ -1,0 +1,115 @@
+{
+  "response": {
+    "chat": [{
+      "is_deleted": false,
+      "_id": "5c52f3ae151f21000e8fc288",
+      "text": "hello !!",
+      "timestamp": "1548940169525",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1548940206119
+    }, {
+      "is_deleted": false,
+      "_id": "5c542202151f21000e8fd3e3",
+      "text": "hello !!",
+      "timestamp": "1549017591694",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549017602994
+    }, {
+      "is_deleted": false,
+      "_id": "5c5438c1151f21000e8fd8a9",
+      "text": "hello !!",
+      "timestamp": "1549023415312",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549023425652
+    }, {
+      "is_deleted": false,
+      "_id": "5c5439f5151f21000e8fd8aa",
+      "text": "hello !!",
+      "timestamp": "1549023717626",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549023733040
+    }, {
+      "is_deleted": false,
+      "_id": "5c543b30151f21000e8fd8ab",
+      "text": "hello !!",
+      "timestamp": "1549024037674",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549024048322
+    }, {
+      "is_deleted": false,
+      "_id": "5c543e82151f21000e8fd8ac",
+      "text": "hello !!",
+      "timestamp": "1549024884409",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549024898579
+    }, {
+      "is_deleted": false,
+      "_id": "5c543f87151f21000e8fd8b1",
+      "text": "hello !!",
+      "timestamp": "1549025147929",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549025159583
+    }, {
+      "is_deleted": false,
+      "_id": "5c54407b151f21000e8fd8b2",
+      "text": "hello !!",
+      "timestamp": "1549025392926",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549025403913
+    }, {
+      "is_deleted": false,
+      "_id": "5c5441a2151f21000e8fd8b3",
+      "text": "hello !!",
+      "timestamp": "1549025687638",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549025698578
+    }, {
+      "is_deleted": false,
+      "_id": "5c5442e1151f21000e8fd8b5",
+      "text": "hello !!",
+      "timestamp": "1549026007791",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549026017722
+    }, {
+      "is_deleted": false,
+      "_id": "5c544400151f21000e8fd8b6",
+      "text": "hello !!",
+      "timestamp": "1549026289888",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549026304291
+    }, {
+      "is_deleted": false,
+      "_id": "5c5444a3151f21000e8fd8b7",
+      "text": "hello !!",
+      "timestamp": "1549026457741",
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "user_email": "admin@katerra.com",
+      "created_date": 1549026467776
+    }],
+    "feature_id": "5c52f3ac151f21000e8fc27e",
+    "feature_type": "pay_app"
+  }
+}

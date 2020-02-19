@@ -1,0 +1,26 @@
+{
+    "result": [{
+        "_id": "5d723302fcb4220010384c01",
+        "number": "12345",
+        "approval_workflow_id": "5d723302fcb4220010384bfd",
+        "co_type": "cco_modify_scope",
+        "project_id": "299743",
+        "title": "Modify scope",
+        "reason": "Material Change",
+        "assignee": [{
+            "user_id": "9",
+            "user_name": "Rajib Official",
+            "email": "rajibranjan.nath@katerra.com"
+        }],
+        "due_date": "09-16-2019",
+        "status": "pending_approval",
+        "company": "Katerra Inc.",
+        "created_on": "2019-09-06T10:20:50.634Z",
+        "updated_on": "2019-09-06T10:20:50.634Z",
+        "difference_amount": 88,
+        "version": 1,
+        "type": "Modify Scope",
+        "can_delete_cco": true,
+        "is_approval_workflow_started": false
+    }]
+}

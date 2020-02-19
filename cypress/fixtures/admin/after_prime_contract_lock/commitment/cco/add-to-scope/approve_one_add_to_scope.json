@@ -1,0 +1,230 @@
+{
+    "created_by": {
+      "user_id": "1",
+      "name": "Katerra Admin"
+    },
+    "distribution_list": [
+      {
+        "user_id": 1,
+        "email": "admin@katerra.com",
+        "name": "Katerra Admin"
+      }
+    ],
+    "approval_workflow_id": "5c6fcb6d5ba451002e7a9675",
+    "workflow_task_id": "5c6fcb6d5ba451002e7a9676",
+    "description": "<p>add</p>\n",
+    "is_deleted": false,
+    "schedule_impact": true,
+    "no_of_impact_days": 100,
+    "executed": true,
+    "_id": "5c6fcb6d5ba451002e7a967c",
+    "co_type": "cco_add_to_scope",
+    "number": "77777",
+    "project_id": "299743",
+    "company": "Katerra",
+    "title": "commitment",
+    "type": "Allowance",
+    "reason": "Material Change",
+    "origin": "RFI",
+    "assignee": [
+      {
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "email": "admin@katerra.com"
+      }
+    ],
+    "due_date": "02-26-2019",
+    "created_on": "2019-02-22T10:14:05.582Z",
+    "updated_on": "2019-02-22T10:14:38.932Z",
+    "created_on_epoch": 1550830445582,
+    "updated_on_epoch": 1550830478932,
+    "status": "pending_approval",
+    "total_project_budget": 2,
+    "history_id": "5c6fcb6d5ba451002e7a967b",
+    "line_items": [
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": true,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6fcb6d5ba451002e7a9678",
+        "item_parent": "1550470258837",
+        "item_id": "5c6fcb6d5ba451002e7a9678",
+        "name": "Metals",
+        "cost_code": "050000",
+        "revised_contract_amount": 0,
+        "req_quantity": 1,
+        "req_rate": 0,
+        "default_child": true
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": true,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6fcb6d5ba451002e7a9679",
+        "item_parent": "1550470257203",
+        "item_id": "5c6fcb6d5ba451002e7a9679",
+        "name": "Concrete",
+        "cost_code": "030000",
+        "revised_contract_amount": 0,
+        "req_quantity": 1,
+        "req_rate": 0,
+        "default_child": true
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": true,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6fcb6d5ba451002e7a967a",
+        "item_parent": "1550470263088",
+        "item_id": "5c6fcb6d5ba451002e7a967a",
+        "name": "Electronic Safety & Security",
+        "cost_code": "280000",
+        "revised_contract_amount": 0,
+        "req_quantity": 1,
+        "req_rate": 0,
+        "default_child": true
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7292b796000f06485c",
+        "item_id": "1550470258837",
+        "item_parent": "1550469278274998",
+        "name": "Metals",
+        "cost_code": "050000",
+        "revised_contract_amount": 33064
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7292b796000f06485b",
+        "item_id": "1550469278274998",
+        "item_parent": "0",
+        "name": "Metals",
+        "cost_code": "050000"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647fc",
+        "item_id": "1550470257203",
+        "item_parent": "1550469278271740",
+        "name": "Concrete",
+        "cost_code": "030000",
+        "revised_contract_amount": 56000
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647f9",
+        "item_id": "1550469278271740",
+        "item_parent": "0",
+        "name": "Concrete",
+        "cost_code": "030000"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7792b796000f06499d",
+        "item_id": "1550470263088",
+        "item_parent": "15504692783153982",
+        "name": "Electronic Safety & Security",
+        "cost_code": "280000",
+        "revised_contract_amount": 8754
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7692b796000f064993",
+        "item_id": "15504692783153982",
+        "item_parent": "0",
+        "name": "Electronic Safety and Security",
+        "cost_code": "280000"
+      }
+    ],
+    "__v": 0,
+    "approval_workflow": {
+      "workflow_type": "Sequential",
+      "_id": "5c6fcb6d5ba451002e7a9675",
+      "workflow_name": "Workflow_template1",
+      "workflow_tasks": [
+        {
+          "task_status": "approved",
+          "approved_line_items": [
+            {
+              "_id": "5c6fcb6d5ba451002e7a9679",
+              "approved_quantity": 1,
+              "approved_unit": "",
+              "approved_rate": 0
+            }
+          ],
+          "assignee": [
+            {
+              "user_id": "3",
+              "user_name": "Vijendra Sirbaiya",
+              "email": "vijendra.sirbaiya@katerra.com"
+            }
+          ],
+          "_id": "5c6fcb6d5ba451002e7a9677",
+          "task_name": "Task1 ",
+          "task_type": "Approval",
+          "duration": 1,
+          "start_date": "2019-02-22T00:00:00.000Z",
+          "due_date": "2019-02-23T00:00:00.000Z",
+          "approved_date": 1550830478932
+        },
+        {
+          "task_status": "under_approval",
+          "approved_line_items": [],
+          "assignee": [
+            {
+              "user_id": "1",
+              "user_name": "Katerra Admin",
+              "email": "admin@katerra.com"
+            }
+          ],
+          "_id": "5c6fcb6d5ba451002e7a9676",
+          "task_name": "Task2",
+          "task_type": "Rejected",
+          "duration": 2,
+          "start_date": "2019-02-24T00:00:00.000Z",
+          "due_date": "2019-02-26T00:00:00.000Z"
+        }
+      ],
+      "project_id": "299743",
+      "__v": 0
+    }
+  }

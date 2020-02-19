@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "data": {
+        "_id": "5d381b68a6eea7000ef79181",
+        "name": "Automation-Template",
+        "billing_period": [
+            {
+                "access_start_date": "2019-07-24T00:00:00.000Z",
+                "access_end_date": "2019-07-31T00:00:00.000Z",
+                "_id": "5d38478e4601b7000e6a814b",
+                "name": "Automation-billing Edited",
+                "start_date": "2019-07-26T00:00:00.000Z",
+                "end_date": "2019-07-29T00:00:00.000Z"
+            }
+        ]
+    }
+}

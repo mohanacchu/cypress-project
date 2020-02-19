@@ -1,0 +1,29 @@
+{
+    "result": [
+        {
+            "_id": "5d5fbf20f4f95000104ab5f7",
+            "number": "00001",
+            "co_type": "cco_add_to_scope",
+            "project_id": "236",
+            "title": "Edited Add to scope",
+            "reason": "Material Change",
+            "assignee": [
+                {
+                    "user_id": "54",
+                    "user_name": "ABC123",
+                    "email": "123@yahoo.com"
+                }
+            ],
+            "due_date": "09-02-2019",
+            "status": "approved",
+            "company": "Katerra Inc.",
+            "created_on": "2019-08-23T10:25:36.040Z",
+            "updated_on": "2019-09-05T07:32:13.649Z",
+            "difference_amount": 9000,
+            "version": 1,
+            "type": "Add To Scope",
+            "can_delete_cco": true,
+            "is_approval_workflow_started": true
+        }
+    ]
+}

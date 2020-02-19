@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 107,
+            "name": "Automation User",
+            "email": "shruthi.kumar@cognitiveclouds.com",
+            "company_id": "5ca5f72ea6595b000eed9808",
+            "company": "Katerra Inc."
+        }
+    ]
+}

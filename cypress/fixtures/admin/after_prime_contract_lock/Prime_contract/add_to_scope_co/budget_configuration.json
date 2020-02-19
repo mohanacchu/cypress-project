@@ -1,0 +1,21 @@
+{
+  "cost_type": [
+    "Labour",
+    "Subcontract Labor"
+  ],
+  "prime_contract_status": [
+    "Out for bid"
+  ],
+  "sub_contract_status": [
+    "Out for bid"
+  ],
+  "change_order_reason": [
+    "Material Change"
+  ],
+  "change_order_origin": [
+    "RFI"
+  ],
+  "change_order_type": [
+    "Billing Type"
+  ]
+}

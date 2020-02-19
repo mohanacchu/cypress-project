@@ -1,0 +1,5214 @@
+{
+    "created_by": {
+      "user_id": "1",
+      "name": "Katerra Admin"
+    },
+    "distribution_list": [
+      {
+        "user_id": 1,
+        "email": "admin@katerra.com",
+        "name": "Katerra Admin"
+      }
+    ],
+    "approval_workflow_id": "5c6d5757b2f846000fe31079",
+    "workflow_task_id": "5c6d5757b2f846000fe3107b",
+    "description": "<p>modify cco</p>\n",
+    "is_deleted": false,
+    "schedule_impact": true,
+    "no_of_impact_days": 999,
+    "executed": true,
+    "_id": "5c6d5758b2f846000fe3107d",
+    "co_type": "cco_modify_scope",
+    "number": "55555",
+    "project_id": "299743",
+    "company": "Katerra",
+    "title": "title",
+    "type": "Transfer",
+    "reason": "Backcharge",
+    "origin": "RFI",
+    "assignee": [
+      {
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "email": "admin@katerra.com"
+      }
+    ],
+    "due_date": "02-27-2019",
+    "created_on": "2019-02-20T13:34:16.210Z",
+    "updated_on": "2019-02-20T13:34:16.210Z",
+    "created_on_epoch": 1550669656210,
+    "updated_on_epoch": 1550669656210,
+    "status": "pending_approval",
+    "total_project_budget": 0,
+    "history_id": "5c6d5758b2f846000fe3107c",
+    "line_items": [
+      {
+        "data": {
+          "description": null,
+          "cost_type": null,
+          "is_leaf": false,
+          "custom_child": false,
+          "difference": 0,
+          "status": null,
+          "_id": "5c6a4c6e92b796000f0646df",
+          "item_id": "15504692782511",
+          "item_parent": "0",
+          "name": "Procurement and Contracting Requirements",
+          "cost_code": "000000",
+          "subcon_sov_id": null
+        },
+        "children": [
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6e92b796000f0646e6",
+              "item_id": "1550470254742",
+              "item_parent": "15504692782511",
+              "name": "General Conditions",
+              "cost_code": "000000",
+              "subcon_sov_id": "5c6a4c6e92b796000f0646e7"
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": true,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6e92b796000f0646e8",
+                  "item_parent": "1550470254742",
+                  "default_child": true,
+                  "revised_quantity": 1,
+                  "revised_unit": null,
+                  "revised_rate": 0,
+                  "cost_code": "000000",
+                  "name": "General Conditions",
+                  "req_quantity": 0,
+                  "req_unit": null,
+                  "req_rate": 0,
+                  "item_id": "0",
+                  "revised_contract_amount": 0,
+                  "open_cco_id": "5c6d58f7b2f846000fe3112d"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6e92b796000f0646e0",
+              "item_id": "1550470254709",
+              "item_parent": "15504692782511",
+              "name": "General Conditions",
+              "cost_code": "000000",
+              "subcon_sov_id": "5c6a4c6e92b796000f0646e1"
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": true,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6e92b796000f0646e2",
+                  "item_parent": "1550470254709",
+                  "default_child": true,
+                  "revised_quantity": 1,
+                  "revised_unit": null,
+                  "revised_rate": 0,
+                  "cost_code": "000000",
+                  "name": "General Conditions",
+                  "req_quantity": 0,
+                  "req_unit": null,
+                  "req_rate": 0,
+                  "item_id": "0",
+                  "revised_contract_amount": 0,
+                  "open_cco_id": null
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6e92b796000f0646f0",
+              "item_id": "155046927825633",
+              "item_parent": "15504692782511",
+              "name": "Available Project Information",
+              "cost_code": "003100",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6e92b796000f0646ec",
+                  "item_id": "155046927825644",
+                  "item_parent": "155046927825633",
+                  "name": "Permits",
+                  "cost_code": "003146",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6e92b796000f0646ed",
+                      "item_id": "1550470254801",
+                      "item_parent": "155046927825644",
+                      "name": "Permits",
+                      "cost_code": "003146",
+                      "subcon_sov_id": "5c6a4c6e92b796000f0646ee"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c6e92b796000f0646ef",
+                          "item_parent": "1550470254801",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "003146",
+                          "name": "Permits",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6e92b796000f0646f2",
+              "item_id": "1550469278257132",
+              "item_parent": "15504692782511",
+              "name": "Project Forms",
+              "cost_code": "006000",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6e92b796000f0646f3",
+                  "item_id": "1550470254842",
+                  "item_parent": "1550469278257132",
+                  "name": "Project Forms",
+                  "cost_code": "006000",
+                  "subcon_sov_id": "5c6a4c6e92b796000f0646f4"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6e92b796000f0646f5",
+                      "item_parent": "1550470254842",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "006000",
+                      "name": "Project Forms",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6e92b796000f064700",
+              "item_id": "1550469278258175",
+              "item_parent": "15504692782511",
+              "name": "General Conditions",
+              "cost_code": "007200",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064708",
+                  "item_id": "1550469278258179",
+                  "item_parent": "1550469278258175",
+                  "name": "Assistant Project Manager",
+                  "cost_code": "007204",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064709",
+                      "item_id": "1550470255091",
+                      "item_parent": "1550469278258179",
+                      "name": "Assistant Project Manager",
+                      "cost_code": "007204",
+                      "subcon_sov_id": "5c6a4c6f92b796000f06470a"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c6f92b796000f06470b",
+                          "item_parent": "1550470255091",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "007204",
+                          "name": "Assistant Project Manager",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06470e",
+                  "item_id": "1550469278258181",
+                  "item_parent": "1550469278258175",
+                  "name": "Sr. Superintendent",
+                  "cost_code": "007206",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06470f",
+                      "item_id": "1550470255150",
+                      "item_parent": "1550469278258181",
+                      "name": "Sr. Superintendent",
+                      "cost_code": "007206",
+                      "subcon_sov_id": "5c6a4c6f92b796000f064710"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c6f92b796000f064711",
+                          "item_parent": "1550470255150",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "007206",
+                          "name": "Sr. Superintendent",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064714",
+                  "item_id": "1550469278258183",
+                  "item_parent": "1550469278258175",
+                  "name": "Assistant Superintendent",
+                  "cost_code": "007208",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064715",
+                      "item_id": "1550470255205",
+                      "item_parent": "1550469278258183",
+                      "name": "Assistant Superintendent",
+                      "cost_code": "007208",
+                      "subcon_sov_id": "5c6a4c6f92b796000f064716"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c6f92b796000f064717",
+                          "item_parent": "1550470255205",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "007208",
+                          "name": "Assistant Superintendent",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06471a",
+                  "item_id": "1550469278258185",
+                  "item_parent": "1550469278258175",
+                  "name": "Project Engineer II",
+                  "cost_code": "007210",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06471b",
+                      "item_id": "1550470255275",
+                      "item_parent": "1550469278258185",
+                      "name": "Project Engineer II",
+                      "cost_code": "007210",
+                      "subcon_sov_id": "5c6a4c6f92b796000f06471c"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c6f92b796000f06471d",
+                          "item_parent": "1550470255275",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "007210",
+                          "name": "Project Engineer II",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "description": null,
+          "cost_type": null,
+          "is_leaf": false,
+          "custom_child": false,
+          "difference": 0,
+          "status": null,
+          "_id": "5c6a4c6f92b796000f064722",
+          "item_id": "1550469278260268",
+          "item_parent": "0",
+          "name": "General Requirements",
+          "cost_code": "010000",
+          "subcon_sov_id": null
+        },
+        "children": [
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064737",
+              "item_id": "1550469278260271",
+              "item_parent": "1550469278260268",
+              "name": "Temp Fencing",
+              "cost_code": "010003",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064738",
+                  "item_id": "1550470255518",
+                  "item_parent": "1550469278260271",
+                  "name": "Temp Fencing",
+                  "cost_code": "010003",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064739"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06473a",
+                      "item_parent": "1550470255518",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010003",
+                      "name": "Temp Fencing",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06473c",
+                  "item_id": "1550470255560",
+                  "item_parent": "1550469278260271",
+                  "name": "Temp Fencing",
+                  "cost_code": "010003",
+                  "subcon_sov_id": "5c6a4c6f92b796000f06473d"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06473e",
+                      "item_parent": "1550470255560",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010003",
+                      "name": "Temp Fencing",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647a0",
+              "item_id": "1550469278261303",
+              "item_parent": "1550469278260268",
+              "name": "Partnering Expenses",
+              "cost_code": "010036",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647a1",
+                  "item_id": "1550470256440",
+                  "item_parent": "1550469278261303",
+                  "name": "Partnering Expenses",
+                  "cost_code": "010036",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647a2"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647a3",
+                      "item_parent": "1550470256440",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010036",
+                      "name": "Partnering Expenses",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f06479c",
+              "item_id": "1550469278261302",
+              "item_parent": "1550469278260268",
+              "name": "Project Documents",
+              "cost_code": "010035",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f06479d",
+                  "item_id": "1550470256413",
+                  "item_parent": "1550469278261302",
+                  "name": "Project Documents",
+                  "cost_code": "010035",
+                  "subcon_sov_id": "5c6a4c7092b796000f06479e"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f06479f",
+                      "item_parent": "1550470256413",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010035",
+                      "name": "Project Documents",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f064798",
+              "item_id": "1550469278261301",
+              "item_parent": "1550469278260268",
+              "name": "Identification Badges",
+              "cost_code": "010034",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f064799",
+                  "item_id": "1550470256387",
+                  "item_parent": "1550469278261301",
+                  "name": "Identification Badges",
+                  "cost_code": "010034",
+                  "subcon_sov_id": "5c6a4c7092b796000f06479a"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f06479b",
+                      "item_parent": "1550470256387",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010034",
+                      "name": "Identification Badges",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f064794",
+              "item_id": "1550469278261300",
+              "item_parent": "1550469278260268",
+              "name": "Temporary Doors and Windows",
+              "cost_code": "010033",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f064795",
+                  "item_id": "1550470256360",
+                  "item_parent": "1550469278261300",
+                  "name": "Temporary Doors and Windows",
+                  "cost_code": "010033",
+                  "subcon_sov_id": "5c6a4c7092b796000f064796"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f064797",
+                      "item_parent": "1550470256360",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010033",
+                      "name": "Temporary Doors and Windows",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f06478e",
+              "item_id": "1550469278261298",
+              "item_parent": "1550469278260268",
+              "name": "Storm Damage Cleanup",
+              "cost_code": "010031",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f06478f",
+                  "item_id": "1550470256312",
+                  "item_parent": "1550469278261298",
+                  "name": "Storm Damage Cleanup",
+                  "cost_code": "010031",
+                  "subcon_sov_id": "5c6a4c7092b796000f064790"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f064791",
+                      "item_parent": "1550470256312",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010031",
+                      "name": "Storm Damage Cleanup",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f064778",
+              "item_id": "1550469278260288",
+              "item_parent": "1550469278260268",
+              "name": "Safety Barricades",
+              "cost_code": "010021",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f064779",
+                  "item_id": "1550470256086",
+                  "item_parent": "1550469278260288",
+                  "name": "Safety Barricades",
+                  "cost_code": "010021",
+                  "subcon_sov_id": "5c6a4c7092b796000f06477a"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f06477b",
+                      "item_parent": "1550470256086",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010021",
+                      "name": "Safety Barricades",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f064772",
+              "item_id": "1550469278260286",
+              "item_parent": "1550469278260268",
+              "name": "Safety Supplies",
+              "cost_code": "010019",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f064773",
+                  "item_id": "1550470256038",
+                  "item_parent": "1550469278260286",
+                  "name": "Safety Supplies",
+                  "cost_code": "010019",
+                  "subcon_sov_id": "5c6a4c7092b796000f064774"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f064775",
+                      "item_parent": "1550470256038",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010019",
+                      "name": "Safety Supplies",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064723",
+              "item_id": "1550470255343",
+              "item_parent": "1550469278260268",
+              "name": "General Requirements",
+              "cost_code": "010000",
+              "subcon_sov_id": "5c6a4c6f92b796000f064724"
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": true,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064725",
+                  "item_parent": "1550470255343",
+                  "default_child": true,
+                  "revised_quantity": 1,
+                  "revised_unit": null,
+                  "revised_rate": 0,
+                  "cost_code": "010000",
+                  "name": "General Requirements",
+                  "req_quantity": 0,
+                  "req_unit": null,
+                  "req_rate": 0,
+                  "item_id": "0",
+                  "revised_contract_amount": 0,
+                  "open_cco_id": "5c6d32e1b2f846000fe2f010"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064726",
+              "item_id": "1550469278260269",
+              "item_parent": "1550469278260268",
+              "name": "Postage / UPS/FedEx",
+              "cost_code": "010001",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06472e",
+                  "item_id": "1550470255425",
+                  "item_parent": "1550469278260269",
+                  "name": "Postage / UPS/FedEx",
+                  "cost_code": "010001",
+                  "subcon_sov_id": "5c6a4c6f92b796000f06472f"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064730",
+                      "item_parent": "1550470255425",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010001",
+                      "name": "Postage / UPS/FedEx",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064727",
+                  "item_id": "1550470255362",
+                  "item_parent": "1550469278260269",
+                  "name": "Postage / UPS/FedEx",
+                  "cost_code": "010001",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064728"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064729",
+                      "item_parent": "1550470255362",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010001",
+                      "name": "Postage / UPS/FedEx",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06472a",
+                  "item_id": "1550470255385",
+                  "item_parent": "1550469278260269",
+                  "name": "Postage / UPS/FedEx",
+                  "cost_code": "010001",
+                  "subcon_sov_id": "5c6a4c6f92b796000f06472b"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06472c",
+                      "item_parent": "1550470255385",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010001",
+                      "name": "Postage / UPS/FedEx",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064731",
+              "item_id": "1550469278260270",
+              "item_parent": "1550469278260268",
+              "name": "Delivery Service/ Courier",
+              "cost_code": "010002",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064733",
+                  "item_id": "1550470255470",
+                  "item_parent": "1550469278260270",
+                  "name": "Delivery Service/ Courier",
+                  "cost_code": "010002",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064734"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064735",
+                      "item_parent": "1550470255470",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010002",
+                      "name": "Delivery Service/ Courier",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f06476c",
+              "item_id": "1550469278260284",
+              "item_parent": "1550469278260268",
+              "name": "Jobsite Photos",
+              "cost_code": "010017",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06476d",
+                  "item_id": "1550470255979",
+                  "item_parent": "1550469278260284",
+                  "name": "Jobsite Photos",
+                  "cost_code": "010017",
+                  "subcon_sov_id": "5c6a4c6f92b796000f06476e"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06476f",
+                      "item_parent": "1550470255979",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010017",
+                      "name": "Jobsite Photos",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064740",
+              "item_id": "1550469278260272",
+              "item_parent": "1550469278260268",
+              "name": "Shed/Storage Facility",
+              "cost_code": "010004",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064741",
+                  "item_id": "1550470255607",
+                  "item_parent": "1550469278260272",
+                  "name": "Shed/Storage Facility",
+                  "cost_code": "010004",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064742"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064743",
+                      "item_parent": "1550470255607",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010004",
+                      "name": "Shed/Storage Facility",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064745",
+                  "item_id": "1550470255649",
+                  "item_parent": "1550469278260272",
+                  "name": "Shed/Storage Facility",
+                  "cost_code": "010004",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064746"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064747",
+                      "item_parent": "1550470255649",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010004",
+                      "name": "Shed/Storage Facility",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f06474a",
+              "item_id": "1550469278260274",
+              "item_parent": "1550469278260268",
+              "name": "Electrical Consumption/Temp Power",
+              "cost_code": "010006",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06474b",
+                  "item_id": "1550470255696",
+                  "item_parent": "1550469278260274",
+                  "name": "Electrical Consumption/Temp Power",
+                  "cost_code": "010006",
+                  "subcon_sov_id": "5c6a4c6f92b796000f06474c"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06474d",
+                      "item_parent": "1550470255696",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010006",
+                      "name": "Electrical Consumption/Temp Power",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064750",
+              "item_id": "1550469278260276",
+              "item_parent": "1550469278260268",
+              "name": "Water Consumption/Temp Water",
+              "cost_code": "010008",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064751",
+                  "item_id": "1550470255755",
+                  "item_parent": "1550469278260276",
+                  "name": "Water Consumption/Temp Water",
+                  "cost_code": "010008",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064752"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064753",
+                      "item_parent": "1550470255755",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010008",
+                      "name": "Water Consumption/Temp Water",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064755",
+                  "item_id": "1550470255802",
+                  "item_parent": "1550469278260276",
+                  "name": "Water Consumption/Temp Water",
+                  "cost_code": "010008",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064756"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064757",
+                      "item_parent": "1550470255802",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010008",
+                      "name": "Water Consumption/Temp Water",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f06475a",
+              "item_id": "1550469278260278",
+              "item_parent": "1550469278260268",
+              "name": "Sewer Charges",
+              "cost_code": "010010",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f06475b",
+                  "item_id": "1550470255847",
+                  "item_parent": "1550469278260278",
+                  "name": "Sewer Charges",
+                  "cost_code": "010010",
+                  "subcon_sov_id": "5c6a4c6f92b796000f06475c"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f06475d",
+                      "item_parent": "1550470255847",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010010",
+                      "name": "Sewer Charges",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064760",
+              "item_id": "1550469278260280",
+              "item_parent": "1550469278260268",
+              "name": "Cell Phones",
+              "cost_code": "010012",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064761",
+                  "item_id": "1550470255893",
+                  "item_parent": "1550469278260280",
+                  "name": "Cell Phones",
+                  "cost_code": "010012",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064762"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064763",
+                      "item_parent": "1550470255893",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010012",
+                      "name": "Cell Phones",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c6f92b796000f064766",
+              "item_id": "1550469278260282",
+              "item_parent": "1550469278260268",
+              "name": "Watch person",
+              "cost_code": "010014",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c6f92b796000f064767",
+                  "item_id": "1550470255936",
+                  "item_parent": "1550469278260282",
+                  "name": "Watch person",
+                  "cost_code": "010014",
+                  "subcon_sov_id": "5c6a4c6f92b796000f064768"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c6f92b796000f064769",
+                      "item_parent": "1550470255936",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010014",
+                      "name": "Watch person",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647b8",
+              "item_id": "1550469278261310",
+              "item_parent": "1550469278260268",
+              "name": "Drug Tests",
+              "cost_code": "010043",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647bf",
+                  "item_id": "1550470256671",
+                  "item_parent": "1550469278261310",
+                  "name": "Drug Tests",
+                  "cost_code": "010043",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647c0"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647c1",
+                      "item_parent": "1550470256671",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010043",
+                      "name": "Drug Tests",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647bc",
+                  "item_id": "1550470256648",
+                  "item_parent": "1550469278261310",
+                  "name": "Drug Tests",
+                  "cost_code": "010043",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647bd"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647be",
+                      "item_parent": "1550470256648",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010043",
+                      "name": "Drug Tests",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647b9",
+                  "item_id": "1550470256624",
+                  "item_parent": "1550469278261310",
+                  "name": "Drug Tests",
+                  "cost_code": "010043",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647ba"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647bb",
+                      "item_parent": "1550470256624",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010043",
+                      "name": "Drug Tests",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647b4",
+              "item_id": "1550469278261309",
+              "item_parent": "1550469278260268",
+              "name": "Safety Incentives",
+              "cost_code": "010042",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647b5",
+                  "item_id": "1550470256598",
+                  "item_parent": "1550469278261309",
+                  "name": "Safety Incentives",
+                  "cost_code": "010042",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647b6"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647b7",
+                      "item_parent": "1550470256598",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010042",
+                      "name": "Safety Incentives",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647ae",
+              "item_id": "1550469278261307",
+              "item_parent": "1550469278260268",
+              "name": "Safety Equipment",
+              "cost_code": "010040",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647af",
+                  "item_id": "1550470256549",
+                  "item_parent": "1550469278261307",
+                  "name": "Safety Equipment",
+                  "cost_code": "010040",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647b0"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647b1",
+                      "item_parent": "1550470256549",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010040",
+                      "name": "Safety Equipment",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647a6",
+              "item_id": "1550469278261305",
+              "item_parent": "1550469278260268",
+              "name": "Professional Consultants",
+              "cost_code": "010038",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647a7",
+                  "item_id": "1550470256490",
+                  "item_parent": "1550469278261305",
+                  "name": "Professional Consultants",
+                  "cost_code": "010038",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647a8"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647a9",
+                      "item_parent": "1550470256490",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010038",
+                      "name": "Professional Consultants",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647aa",
+              "item_id": "1550469278261306",
+              "item_parent": "1550469278260268",
+              "name": "Work restrictions",
+              "cost_code": "010039",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647ab",
+                  "item_id": "1550470256524",
+                  "item_parent": "1550469278261306",
+                  "name": "Work restrictions",
+                  "cost_code": "010039",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647ac"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647ad",
+                      "item_parent": "1550470256524",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010039",
+                      "name": "Work restrictions",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647d1",
+              "item_id": "1550469278261315",
+              "item_parent": "1550469278260268",
+              "name": "Expendables and Consumables",
+              "cost_code": "010048",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647d2",
+                  "item_id": "1550470256824",
+                  "item_parent": "1550469278261315",
+                  "name": "Expendables and Consumables",
+                  "cost_code": "010048",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647d3"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647d4",
+                      "item_parent": "1550470256824",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010048",
+                      "name": "Expendables and Consumables",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647cb",
+              "item_id": "1550469278261313",
+              "item_parent": "1550469278260268",
+              "name": "Mobile Crane",
+              "cost_code": "010046",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647cc",
+                  "item_id": "1550470256778",
+                  "item_parent": "1550469278261313",
+                  "name": "Mobile Crane",
+                  "cost_code": "010046",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647cd"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647ce",
+                      "item_parent": "1550470256778",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010046",
+                      "name": "Mobile Crane",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647c7",
+              "item_id": "1550469278261312",
+              "item_parent": "1550469278260268",
+              "name": "Forklift LOED",
+              "cost_code": "010045",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647c8",
+                  "item_id": "1550470256751",
+                  "item_parent": "1550469278261312",
+                  "name": "Forklift LOED",
+                  "cost_code": "010045",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647c9"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647ca",
+                      "item_parent": "1550470256751",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010045",
+                      "name": "Forklift LOED",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647c3",
+              "item_id": "1550469278261311",
+              "item_parent": "1550469278260268",
+              "name": "ATV Golf cart",
+              "cost_code": "010044",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647c4",
+                  "item_id": "1550470256717",
+                  "item_parent": "1550469278261311",
+                  "name": "ATV Golf cart",
+                  "cost_code": "010044",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647c5"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647c6",
+                      "item_parent": "1550470256717",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010044",
+                      "name": "ATV Golf cart",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647e1",
+              "item_id": "1550469278264526",
+              "item_parent": "1550469278260268",
+              "name": "Cleaning and Waste Management",
+              "cost_code": "017400",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647dd",
+                  "item_id": "1550469278264527",
+                  "item_parent": "1550469278264526",
+                  "name": "Progress Cleaning",
+                  "cost_code": "017413",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647de",
+                      "item_id": "1550470256921",
+                      "item_parent": "1550469278264527",
+                      "name": "Rough And Daily Cleaning",
+                      "cost_code": "017413",
+                      "subcon_sov_id": "5c6a4c7092b796000f0647df"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c7092b796000f0647e0",
+                          "item_parent": "1550470256921",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "017413",
+                          "name": "Rough And Daily Cleaning",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647e5",
+                  "item_id": "1550469278264530",
+                  "item_parent": "1550469278264526",
+                  "name": "Final Cleaning",
+                  "cost_code": "017423",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7192b796000f0647e6",
+                      "item_id": "1550470257003",
+                      "item_parent": "1550469278264530",
+                      "name": "Final Cleaning",
+                      "cost_code": "017423",
+                      "subcon_sov_id": "5c6a4c7192b796000f0647e7"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c7192b796000f0647e8",
+                          "item_parent": "1550470257003",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "017423",
+                          "name": "Final Cleaning",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7092b796000f0647d7",
+              "item_id": "1550469278261317",
+              "item_parent": "1550469278260268",
+              "name": "Man lift",
+              "cost_code": "010050",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7092b796000f0647d8",
+                  "item_id": "1550470256872",
+                  "item_parent": "1550469278261317",
+                  "name": "Man lift",
+                  "cost_code": "010050",
+                  "subcon_sov_id": "5c6a4c7092b796000f0647d9"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7092b796000f0647da",
+                      "item_parent": "1550470256872",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "010050",
+                      "name": "Man lift",
+                      "req_quantity": 0,
+                      "req_unit": null,
+                      "req_rate": 0,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7192b796000f0647ed",
+              "item_id": "1550469278264539",
+              "item_parent": "1550469278260268",
+              "name": "Closeout Submittals",
+              "cost_code": "017800",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7192b796000f0647e9",
+                  "item_id": "1550469278264544",
+                  "item_parent": "1550469278264539",
+                  "name": "Bonds",
+                  "cost_code": "017833",
+                  "subcon_sov_id": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": false,
+                      "custom_child": false,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c6a4c7192b796000f0647ea",
+                      "item_id": "1550470257036",
+                      "item_parent": "1550469278264544",
+                      "name": "Bonds",
+                      "cost_code": "017833",
+                      "subcon_sov_id": "5c6a4c7192b796000f0647eb"
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "description": null,
+                          "cost_type": null,
+                          "is_leaf": true,
+                          "custom_child": false,
+                          "difference": 0,
+                          "status": null,
+                          "_id": "5c6a4c7192b796000f0647ec",
+                          "item_parent": "1550470257036",
+                          "default_child": true,
+                          "revised_quantity": 1,
+                          "revised_unit": null,
+                          "revised_rate": 0,
+                          "cost_code": "017833",
+                          "name": "Bonds",
+                          "req_quantity": 0,
+                          "req_unit": null,
+                          "req_rate": 0,
+                          "item_id": "0",
+                          "revised_contract_amount": 0,
+                          "open_cco_id": null
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "description": null,
+          "cost_type": null,
+          "is_leaf": false,
+          "custom_child": false,
+          "difference": 0,
+          "status": null,
+          "_id": "5c6a4c7392b796000f064878",
+          "item_id": "15504692782761120",
+          "item_parent": "0",
+          "name": "Wood_ Plastics_ and Composites",
+          "cost_code": "060000",
+          "subcon_sov_id": null
+        },
+        "children": [
+          {
+            "data": {
+              "description": null,
+              "cost_type": null,
+              "is_leaf": false,
+              "custom_child": false,
+              "difference": 0,
+              "status": null,
+              "_id": "5c6a4c7392b796000f06487d",
+              "item_id": "15504692782771149",
+              "item_parent": "15504692782761120",
+              "name": "Rough Carpentry",
+              "cost_code": "061000",
+              "subcon_sov_id": null
+            },
+            "children": [
+              {
+                "data": {
+                  "description": null,
+                  "cost_type": null,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "difference": 0,
+                  "status": null,
+                  "_id": "5c6a4c7392b796000f06487e",
+                  "item_id": "1550470259260",
+                  "item_parent": "15504692782771149",
+                  "name": "Rough Carpentry",
+                  "cost_code": "061000",
+                  "subcon_sov_id": "5c6a4c7392b796000f06487f"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": false,
+                      "difference": 0.98,
+                      "status": null,
+                      "_id": "5c6a4c7392b796000f064880",
+                      "item_parent": "1550470259260",
+                      "default_child": true,
+                      "revised_quantity": 1,
+                      "revised_unit": null,
+                      "revised_rate": 0,
+                      "cost_code": "061000",
+                      "name": "Rough Carpentry",
+                      "req_quantity": 0.99,
+                      "req_unit": null,
+                      "req_rate": 0.99,
+                      "item_id": "0",
+                      "revised_contract_amount": 0,
+                      "open_cco_id": "5c6d5758b2f846000fe3107d"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "__v": 0,
+    "approval_workflow": {
+      "workflow_type": "Sequential",
+      "_id": "5c6d5757b2f846000fe31079",
+      "workflow_name": "Sample WorkFlow ",
+      "workflow_tasks": [
+        {
+          "task_status": "under_approval",
+          "approved_line_items": [],
+          "assignee": [
+            {
+              "user_id": "1",
+              "user_name": "Katerra Admin",
+              "email": "admin@katerra.com"
+            }
+          ],
+          "_id": "5c6d5757b2f846000fe3107b",
+          "task_name": "Task A",
+          "task_type": "Approval",
+          "duration": 4,
+          "start_date": "2019-02-20T00:00:00.000Z",
+          "due_date": "2019-02-24T00:00:00.000Z"
+        },
+        {
+          "task_status": "under_approval",
+          "approved_line_items": [],
+          "assignee": [
+            {
+              "user_id": "3",
+              "user_name": "Vijendra Sirbaiya",
+              "email": "vijendra.sirbaiya@katerra.com"
+            }
+          ],
+          "_id": "5c6d5757b2f846000fe3107a",
+          "task_name": "Task B",
+          "task_type": "Pending",
+          "duration": 2,
+          "start_date": "2019-02-25T00:00:00.000Z",
+          "due_date": "2019-02-27T00:00:00.000Z"
+        }
+      ],
+      "project_id": "299743",
+      "__v": 0
+    },
+    "total_after": 0.98,
+    "flat_line_items": [
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646df",
+        "item_id": "15504692782511",
+        "item_parent": "0",
+        "name": "Procurement and Contracting Requirements",
+        "cost_code": "000000",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646e0",
+        "item_id": "1550470254709",
+        "item_parent": "15504692782511",
+        "name": "General Conditions",
+        "cost_code": "000000",
+        "subcon_sov_id": "5c6a4c6e92b796000f0646e1"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646e2",
+        "item_parent": "1550470254709",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "000000",
+        "name": "General Conditions",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646e6",
+        "item_id": "1550470254742",
+        "item_parent": "15504692782511",
+        "name": "General Conditions",
+        "cost_code": "000000",
+        "subcon_sov_id": "5c6a4c6e92b796000f0646e7"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646e8",
+        "item_parent": "1550470254742",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "000000",
+        "name": "General Conditions",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": "5c6d58f7b2f846000fe3112d"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646f0",
+        "item_id": "155046927825633",
+        "item_parent": "15504692782511",
+        "name": "Available Project Information",
+        "cost_code": "003100",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646ec",
+        "item_id": "155046927825644",
+        "item_parent": "155046927825633",
+        "name": "Permits",
+        "cost_code": "003146",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646ed",
+        "item_id": "1550470254801",
+        "item_parent": "155046927825644",
+        "name": "Permits",
+        "cost_code": "003146",
+        "subcon_sov_id": "5c6a4c6e92b796000f0646ee"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646ef",
+        "item_parent": "1550470254801",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "003146",
+        "name": "Permits",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646f2",
+        "item_id": "1550469278257132",
+        "item_parent": "15504692782511",
+        "name": "Project Forms",
+        "cost_code": "006000",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646f3",
+        "item_id": "1550470254842",
+        "item_parent": "1550469278257132",
+        "name": "Project Forms",
+        "cost_code": "006000",
+        "subcon_sov_id": "5c6a4c6e92b796000f0646f4"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f0646f5",
+        "item_parent": "1550470254842",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "006000",
+        "name": "Project Forms",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6e92b796000f064700",
+        "item_id": "1550469278258175",
+        "item_parent": "15504692782511",
+        "name": "General Conditions",
+        "cost_code": "007200",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064708",
+        "item_id": "1550469278258179",
+        "item_parent": "1550469278258175",
+        "name": "Assistant Project Manager",
+        "cost_code": "007204",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064709",
+        "item_id": "1550470255091",
+        "item_parent": "1550469278258179",
+        "name": "Assistant Project Manager",
+        "cost_code": "007204",
+        "subcon_sov_id": "5c6a4c6f92b796000f06470a"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06470b",
+        "item_parent": "1550470255091",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "007204",
+        "name": "Assistant Project Manager",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06470e",
+        "item_id": "1550469278258181",
+        "item_parent": "1550469278258175",
+        "name": "Sr. Superintendent",
+        "cost_code": "007206",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06470f",
+        "item_id": "1550470255150",
+        "item_parent": "1550469278258181",
+        "name": "Sr. Superintendent",
+        "cost_code": "007206",
+        "subcon_sov_id": "5c6a4c6f92b796000f064710"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064711",
+        "item_parent": "1550470255150",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "007206",
+        "name": "Sr. Superintendent",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064714",
+        "item_id": "1550469278258183",
+        "item_parent": "1550469278258175",
+        "name": "Assistant Superintendent",
+        "cost_code": "007208",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064715",
+        "item_id": "1550470255205",
+        "item_parent": "1550469278258183",
+        "name": "Assistant Superintendent",
+        "cost_code": "007208",
+        "subcon_sov_id": "5c6a4c6f92b796000f064716"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064717",
+        "item_parent": "1550470255205",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "007208",
+        "name": "Assistant Superintendent",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06471a",
+        "item_id": "1550469278258185",
+        "item_parent": "1550469278258175",
+        "name": "Project Engineer II",
+        "cost_code": "007210",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06471b",
+        "item_id": "1550470255275",
+        "item_parent": "1550469278258185",
+        "name": "Project Engineer II",
+        "cost_code": "007210",
+        "subcon_sov_id": "5c6a4c6f92b796000f06471c"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06471d",
+        "item_parent": "1550470255275",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "007210",
+        "name": "Project Engineer II",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064722",
+        "item_id": "1550469278260268",
+        "item_parent": "0",
+        "name": "General Requirements",
+        "cost_code": "010000",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064723",
+        "item_id": "1550470255343",
+        "item_parent": "1550469278260268",
+        "name": "General Requirements",
+        "cost_code": "010000",
+        "subcon_sov_id": "5c6a4c6f92b796000f064724"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064725",
+        "item_parent": "1550470255343",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010000",
+        "name": "General Requirements",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": "5c6d32e1b2f846000fe2f010"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064726",
+        "item_id": "1550469278260269",
+        "item_parent": "1550469278260268",
+        "name": "Postage / UPS/FedEx",
+        "cost_code": "010001",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064727",
+        "item_id": "1550470255362",
+        "item_parent": "1550469278260269",
+        "name": "Postage / UPS/FedEx",
+        "cost_code": "010001",
+        "subcon_sov_id": "5c6a4c6f92b796000f064728"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064729",
+        "item_parent": "1550470255362",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010001",
+        "name": "Postage / UPS/FedEx",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06472a",
+        "item_id": "1550470255385",
+        "item_parent": "1550469278260269",
+        "name": "Postage / UPS/FedEx",
+        "cost_code": "010001",
+        "subcon_sov_id": "5c6a4c6f92b796000f06472b"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06472c",
+        "item_parent": "1550470255385",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010001",
+        "name": "Postage / UPS/FedEx",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06472e",
+        "item_id": "1550470255425",
+        "item_parent": "1550469278260269",
+        "name": "Postage / UPS/FedEx",
+        "cost_code": "010001",
+        "subcon_sov_id": "5c6a4c6f92b796000f06472f"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064730",
+        "item_parent": "1550470255425",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010001",
+        "name": "Postage / UPS/FedEx",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064731",
+        "item_id": "1550469278260270",
+        "item_parent": "1550469278260268",
+        "name": "Delivery Service/ Courier",
+        "cost_code": "010002",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064733",
+        "item_id": "1550470255470",
+        "item_parent": "1550469278260270",
+        "name": "Delivery Service/ Courier",
+        "cost_code": "010002",
+        "subcon_sov_id": "5c6a4c6f92b796000f064734"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064735",
+        "item_parent": "1550470255470",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010002",
+        "name": "Delivery Service/ Courier",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064737",
+        "item_id": "1550469278260271",
+        "item_parent": "1550469278260268",
+        "name": "Temp Fencing",
+        "cost_code": "010003",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064738",
+        "item_id": "1550470255518",
+        "item_parent": "1550469278260271",
+        "name": "Temp Fencing",
+        "cost_code": "010003",
+        "subcon_sov_id": "5c6a4c6f92b796000f064739"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06473a",
+        "item_parent": "1550470255518",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010003",
+        "name": "Temp Fencing",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06473c",
+        "item_id": "1550470255560",
+        "item_parent": "1550469278260271",
+        "name": "Temp Fencing",
+        "cost_code": "010003",
+        "subcon_sov_id": "5c6a4c6f92b796000f06473d"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06473e",
+        "item_parent": "1550470255560",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010003",
+        "name": "Temp Fencing",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064740",
+        "item_id": "1550469278260272",
+        "item_parent": "1550469278260268",
+        "name": "Shed/Storage Facility",
+        "cost_code": "010004",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064741",
+        "item_id": "1550470255607",
+        "item_parent": "1550469278260272",
+        "name": "Shed/Storage Facility",
+        "cost_code": "010004",
+        "subcon_sov_id": "5c6a4c6f92b796000f064742"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064743",
+        "item_parent": "1550470255607",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010004",
+        "name": "Shed/Storage Facility",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064745",
+        "item_id": "1550470255649",
+        "item_parent": "1550469278260272",
+        "name": "Shed/Storage Facility",
+        "cost_code": "010004",
+        "subcon_sov_id": "5c6a4c6f92b796000f064746"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064747",
+        "item_parent": "1550470255649",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010004",
+        "name": "Shed/Storage Facility",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06474a",
+        "item_id": "1550469278260274",
+        "item_parent": "1550469278260268",
+        "name": "Electrical Consumption/Temp Power",
+        "cost_code": "010006",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06474b",
+        "item_id": "1550470255696",
+        "item_parent": "1550469278260274",
+        "name": "Electrical Consumption/Temp Power",
+        "cost_code": "010006",
+        "subcon_sov_id": "5c6a4c6f92b796000f06474c"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06474d",
+        "item_parent": "1550470255696",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010006",
+        "name": "Electrical Consumption/Temp Power",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064750",
+        "item_id": "1550469278260276",
+        "item_parent": "1550469278260268",
+        "name": "Water Consumption/Temp Water",
+        "cost_code": "010008",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064751",
+        "item_id": "1550470255755",
+        "item_parent": "1550469278260276",
+        "name": "Water Consumption/Temp Water",
+        "cost_code": "010008",
+        "subcon_sov_id": "5c6a4c6f92b796000f064752"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064753",
+        "item_parent": "1550470255755",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010008",
+        "name": "Water Consumption/Temp Water",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064755",
+        "item_id": "1550470255802",
+        "item_parent": "1550469278260276",
+        "name": "Water Consumption/Temp Water",
+        "cost_code": "010008",
+        "subcon_sov_id": "5c6a4c6f92b796000f064756"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064757",
+        "item_parent": "1550470255802",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010008",
+        "name": "Water Consumption/Temp Water",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06475a",
+        "item_id": "1550469278260278",
+        "item_parent": "1550469278260268",
+        "name": "Sewer Charges",
+        "cost_code": "010010",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06475b",
+        "item_id": "1550470255847",
+        "item_parent": "1550469278260278",
+        "name": "Sewer Charges",
+        "cost_code": "010010",
+        "subcon_sov_id": "5c6a4c6f92b796000f06475c"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06475d",
+        "item_parent": "1550470255847",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010010",
+        "name": "Sewer Charges",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064760",
+        "item_id": "1550469278260280",
+        "item_parent": "1550469278260268",
+        "name": "Cell Phones",
+        "cost_code": "010012",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064761",
+        "item_id": "1550470255893",
+        "item_parent": "1550469278260280",
+        "name": "Cell Phones",
+        "cost_code": "010012",
+        "subcon_sov_id": "5c6a4c6f92b796000f064762"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064763",
+        "item_parent": "1550470255893",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010012",
+        "name": "Cell Phones",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064766",
+        "item_id": "1550469278260282",
+        "item_parent": "1550469278260268",
+        "name": "Watch person",
+        "cost_code": "010014",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064767",
+        "item_id": "1550470255936",
+        "item_parent": "1550469278260282",
+        "name": "Watch person",
+        "cost_code": "010014",
+        "subcon_sov_id": "5c6a4c6f92b796000f064768"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f064769",
+        "item_parent": "1550470255936",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010014",
+        "name": "Watch person",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06476c",
+        "item_id": "1550469278260284",
+        "item_parent": "1550469278260268",
+        "name": "Jobsite Photos",
+        "cost_code": "010017",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06476d",
+        "item_id": "1550470255979",
+        "item_parent": "1550469278260284",
+        "name": "Jobsite Photos",
+        "cost_code": "010017",
+        "subcon_sov_id": "5c6a4c6f92b796000f06476e"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c6f92b796000f06476f",
+        "item_parent": "1550470255979",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010017",
+        "name": "Jobsite Photos",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064772",
+        "item_id": "1550469278260286",
+        "item_parent": "1550469278260268",
+        "name": "Safety Supplies",
+        "cost_code": "010019",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064773",
+        "item_id": "1550470256038",
+        "item_parent": "1550469278260286",
+        "name": "Safety Supplies",
+        "cost_code": "010019",
+        "subcon_sov_id": "5c6a4c7092b796000f064774"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064775",
+        "item_parent": "1550470256038",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010019",
+        "name": "Safety Supplies",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064778",
+        "item_id": "1550469278260288",
+        "item_parent": "1550469278260268",
+        "name": "Safety Barricades",
+        "cost_code": "010021",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064779",
+        "item_id": "1550470256086",
+        "item_parent": "1550469278260288",
+        "name": "Safety Barricades",
+        "cost_code": "010021",
+        "subcon_sov_id": "5c6a4c7092b796000f06477a"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06477b",
+        "item_parent": "1550470256086",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010021",
+        "name": "Safety Barricades",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06478e",
+        "item_id": "1550469278261298",
+        "item_parent": "1550469278260268",
+        "name": "Storm Damage Cleanup",
+        "cost_code": "010031",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06478f",
+        "item_id": "1550470256312",
+        "item_parent": "1550469278261298",
+        "name": "Storm Damage Cleanup",
+        "cost_code": "010031",
+        "subcon_sov_id": "5c6a4c7092b796000f064790"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064791",
+        "item_parent": "1550470256312",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010031",
+        "name": "Storm Damage Cleanup",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064794",
+        "item_id": "1550469278261300",
+        "item_parent": "1550469278260268",
+        "name": "Temporary Doors and Windows",
+        "cost_code": "010033",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064795",
+        "item_id": "1550470256360",
+        "item_parent": "1550469278261300",
+        "name": "Temporary Doors and Windows",
+        "cost_code": "010033",
+        "subcon_sov_id": "5c6a4c7092b796000f064796"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064797",
+        "item_parent": "1550470256360",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010033",
+        "name": "Temporary Doors and Windows",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064798",
+        "item_id": "1550469278261301",
+        "item_parent": "1550469278260268",
+        "name": "Identification Badges",
+        "cost_code": "010034",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f064799",
+        "item_id": "1550470256387",
+        "item_parent": "1550469278261301",
+        "name": "Identification Badges",
+        "cost_code": "010034",
+        "subcon_sov_id": "5c6a4c7092b796000f06479a"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06479b",
+        "item_parent": "1550470256387",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010034",
+        "name": "Identification Badges",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06479c",
+        "item_id": "1550469278261302",
+        "item_parent": "1550469278260268",
+        "name": "Project Documents",
+        "cost_code": "010035",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06479d",
+        "item_id": "1550470256413",
+        "item_parent": "1550469278261302",
+        "name": "Project Documents",
+        "cost_code": "010035",
+        "subcon_sov_id": "5c6a4c7092b796000f06479e"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f06479f",
+        "item_parent": "1550470256413",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010035",
+        "name": "Project Documents",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647a0",
+        "item_id": "1550469278261303",
+        "item_parent": "1550469278260268",
+        "name": "Partnering Expenses",
+        "cost_code": "010036",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647a1",
+        "item_id": "1550470256440",
+        "item_parent": "1550469278261303",
+        "name": "Partnering Expenses",
+        "cost_code": "010036",
+        "subcon_sov_id": "5c6a4c7092b796000f0647a2"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647a3",
+        "item_parent": "1550470256440",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010036",
+        "name": "Partnering Expenses",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647a6",
+        "item_id": "1550469278261305",
+        "item_parent": "1550469278260268",
+        "name": "Professional Consultants",
+        "cost_code": "010038",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647a7",
+        "item_id": "1550470256490",
+        "item_parent": "1550469278261305",
+        "name": "Professional Consultants",
+        "cost_code": "010038",
+        "subcon_sov_id": "5c6a4c7092b796000f0647a8"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647a9",
+        "item_parent": "1550470256490",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010038",
+        "name": "Professional Consultants",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647aa",
+        "item_id": "1550469278261306",
+        "item_parent": "1550469278260268",
+        "name": "Work restrictions",
+        "cost_code": "010039",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647ab",
+        "item_id": "1550470256524",
+        "item_parent": "1550469278261306",
+        "name": "Work restrictions",
+        "cost_code": "010039",
+        "subcon_sov_id": "5c6a4c7092b796000f0647ac"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647ad",
+        "item_parent": "1550470256524",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010039",
+        "name": "Work restrictions",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647ae",
+        "item_id": "1550469278261307",
+        "item_parent": "1550469278260268",
+        "name": "Safety Equipment",
+        "cost_code": "010040",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647af",
+        "item_id": "1550470256549",
+        "item_parent": "1550469278261307",
+        "name": "Safety Equipment",
+        "cost_code": "010040",
+        "subcon_sov_id": "5c6a4c7092b796000f0647b0"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647b1",
+        "item_parent": "1550470256549",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010040",
+        "name": "Safety Equipment",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647b4",
+        "item_id": "1550469278261309",
+        "item_parent": "1550469278260268",
+        "name": "Safety Incentives",
+        "cost_code": "010042",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647b5",
+        "item_id": "1550470256598",
+        "item_parent": "1550469278261309",
+        "name": "Safety Incentives",
+        "cost_code": "010042",
+        "subcon_sov_id": "5c6a4c7092b796000f0647b6"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647b7",
+        "item_parent": "1550470256598",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010042",
+        "name": "Safety Incentives",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647b8",
+        "item_id": "1550469278261310",
+        "item_parent": "1550469278260268",
+        "name": "Drug Tests",
+        "cost_code": "010043",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647b9",
+        "item_id": "1550470256624",
+        "item_parent": "1550469278261310",
+        "name": "Drug Tests",
+        "cost_code": "010043",
+        "subcon_sov_id": "5c6a4c7092b796000f0647ba"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647bb",
+        "item_parent": "1550470256624",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010043",
+        "name": "Drug Tests",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647bc",
+        "item_id": "1550470256648",
+        "item_parent": "1550469278261310",
+        "name": "Drug Tests",
+        "cost_code": "010043",
+        "subcon_sov_id": "5c6a4c7092b796000f0647bd"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647be",
+        "item_parent": "1550470256648",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010043",
+        "name": "Drug Tests",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647bf",
+        "item_id": "1550470256671",
+        "item_parent": "1550469278261310",
+        "name": "Drug Tests",
+        "cost_code": "010043",
+        "subcon_sov_id": "5c6a4c7092b796000f0647c0"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647c1",
+        "item_parent": "1550470256671",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010043",
+        "name": "Drug Tests",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647c3",
+        "item_id": "1550469278261311",
+        "item_parent": "1550469278260268",
+        "name": "ATV Golf cart",
+        "cost_code": "010044",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647c4",
+        "item_id": "1550470256717",
+        "item_parent": "1550469278261311",
+        "name": "ATV Golf cart",
+        "cost_code": "010044",
+        "subcon_sov_id": "5c6a4c7092b796000f0647c5"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647c6",
+        "item_parent": "1550470256717",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010044",
+        "name": "ATV Golf cart",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647c7",
+        "item_id": "1550469278261312",
+        "item_parent": "1550469278260268",
+        "name": "Forklift LOED",
+        "cost_code": "010045",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647c8",
+        "item_id": "1550470256751",
+        "item_parent": "1550469278261312",
+        "name": "Forklift LOED",
+        "cost_code": "010045",
+        "subcon_sov_id": "5c6a4c7092b796000f0647c9"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647ca",
+        "item_parent": "1550470256751",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010045",
+        "name": "Forklift LOED",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647cb",
+        "item_id": "1550469278261313",
+        "item_parent": "1550469278260268",
+        "name": "Mobile Crane",
+        "cost_code": "010046",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647cc",
+        "item_id": "1550470256778",
+        "item_parent": "1550469278261313",
+        "name": "Mobile Crane",
+        "cost_code": "010046",
+        "subcon_sov_id": "5c6a4c7092b796000f0647cd"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647ce",
+        "item_parent": "1550470256778",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010046",
+        "name": "Mobile Crane",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647d1",
+        "item_id": "1550469278261315",
+        "item_parent": "1550469278260268",
+        "name": "Expendables and Consumables",
+        "cost_code": "010048",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647d2",
+        "item_id": "1550470256824",
+        "item_parent": "1550469278261315",
+        "name": "Expendables and Consumables",
+        "cost_code": "010048",
+        "subcon_sov_id": "5c6a4c7092b796000f0647d3"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647d4",
+        "item_parent": "1550470256824",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010048",
+        "name": "Expendables and Consumables",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647d7",
+        "item_id": "1550469278261317",
+        "item_parent": "1550469278260268",
+        "name": "Man lift",
+        "cost_code": "010050",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647d8",
+        "item_id": "1550470256872",
+        "item_parent": "1550469278261317",
+        "name": "Man lift",
+        "cost_code": "010050",
+        "subcon_sov_id": "5c6a4c7092b796000f0647d9"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647da",
+        "item_parent": "1550470256872",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "010050",
+        "name": "Man lift",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647e1",
+        "item_id": "1550469278264526",
+        "item_parent": "1550469278260268",
+        "name": "Cleaning and Waste Management",
+        "cost_code": "017400",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647dd",
+        "item_id": "1550469278264527",
+        "item_parent": "1550469278264526",
+        "name": "Progress Cleaning",
+        "cost_code": "017413",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647de",
+        "item_id": "1550470256921",
+        "item_parent": "1550469278264527",
+        "name": "Rough And Daily Cleaning",
+        "cost_code": "017413",
+        "subcon_sov_id": "5c6a4c7092b796000f0647df"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647e0",
+        "item_parent": "1550470256921",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "017413",
+        "name": "Rough And Daily Cleaning",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7092b796000f0647e5",
+        "item_id": "1550469278264530",
+        "item_parent": "1550469278264526",
+        "name": "Final Cleaning",
+        "cost_code": "017423",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647e6",
+        "item_id": "1550470257003",
+        "item_parent": "1550469278264530",
+        "name": "Final Cleaning",
+        "cost_code": "017423",
+        "subcon_sov_id": "5c6a4c7192b796000f0647e7"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647e8",
+        "item_parent": "1550470257003",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "017423",
+        "name": "Final Cleaning",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647ed",
+        "item_id": "1550469278264539",
+        "item_parent": "1550469278260268",
+        "name": "Closeout Submittals",
+        "cost_code": "017800",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647e9",
+        "item_id": "1550469278264544",
+        "item_parent": "1550469278264539",
+        "name": "Bonds",
+        "cost_code": "017833",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647ea",
+        "item_id": "1550470257036",
+        "item_parent": "1550469278264544",
+        "name": "Bonds",
+        "cost_code": "017833",
+        "subcon_sov_id": "5c6a4c7192b796000f0647eb"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7192b796000f0647ec",
+        "item_parent": "1550470257036",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "017833",
+        "name": "Bonds",
+        "req_quantity": 0,
+        "req_unit": null,
+        "req_rate": 0,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7392b796000f064878",
+        "item_id": "15504692782761120",
+        "item_parent": "0",
+        "name": "Wood_ Plastics_ and Composites",
+        "cost_code": "060000",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7392b796000f06487d",
+        "item_id": "15504692782771149",
+        "item_parent": "15504692782761120",
+        "name": "Rough Carpentry",
+        "cost_code": "061000",
+        "subcon_sov_id": null
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "difference": 0,
+        "status": null,
+        "_id": "5c6a4c7392b796000f06487e",
+        "item_id": "1550470259260",
+        "item_parent": "15504692782771149",
+        "name": "Rough Carpentry",
+        "cost_code": "061000",
+        "subcon_sov_id": "5c6a4c7392b796000f06487f"
+      },
+      {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "difference": 0.98,
+        "status": null,
+        "_id": "5c6a4c7392b796000f064880",
+        "item_parent": "1550470259260",
+        "default_child": true,
+        "revised_quantity": 1,
+        "revised_unit": null,
+        "revised_rate": 0,
+        "cost_code": "061000",
+        "name": "Rough Carpentry",
+        "req_quantity": 0.99,
+        "req_unit": null,
+        "req_rate": 0.99,
+        "item_id": "0",
+        "revised_contract_amount": 0,
+        "open_cco_id": "5c6d5758b2f846000fe3107d"
+      }
+    ]
+  }

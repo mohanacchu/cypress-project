@@ -1,0 +1,34 @@
+{
+    "result": {
+      "workflow_name": "Sample WorkFlow ",
+      "tasks": [
+        {
+          "TaskName": "Task A",
+          "Assigned": 0,
+          "due_date": " 2019-02-16 11:07:55",
+          "Category": "Approval",
+          "Duration": 4,
+          "workflow_type": 0,
+          "checklist": null
+        },
+        {
+          "TaskName": "Task B",
+          "Assigned": 0,
+          "due_date": " 2019-02-17 11:07:55",
+          "Category": "Pending",
+          "Duration": 2,
+          "workflow_type": 0,
+          "checklist": null
+        },
+        {
+          "TaskName": "Task C",
+          "Assigned": 0,
+          "due_date": " 2019-02-17 11:07:55",
+          "Category": "Rejected",
+          "Duration": 1,
+          "workflow_type": 0,
+          "checklist": null
+        }
+      ]
+    }
+  }

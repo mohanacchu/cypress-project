@@ -1,0 +1,19 @@
+{
+  "project_id": "299743",
+  "_id": "5d0878869f7acc000f0920d8",
+  "type": "Prime Contract Change Order Add To Scope",
+  "history": [{
+    "action_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@Katerra.com"
+    },
+    "details": [{
+      "specific_action_details": ["Prime Contract Change Order - Add To Scope created successfully"],
+      "specific_action": "PCCO Add To Scope Created"
+    }],
+    "created_on": 1560836230533,
+    "action": "Created PCCO Add To Scope"
+  }],
+  "__v": 0
+}

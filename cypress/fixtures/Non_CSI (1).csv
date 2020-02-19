@@ -1,0 +1,13 @@
+cost_code,name,original_budget,cost_type
+15-000,MECHANICAL,1000,
+15-300,Fire Sprinkler System,2000,
+15-400,Plumbing,3000,
+15-450,Shower Pans,4000,
+15-500,HVAC Work,5000,
+16,Electrical,7000,
+16-1,Electrical Work,8000,
+16-2,Electrical - Labor Only,9000,
+16-3,Electrical - Material Only,10000,
+16-4,Underground Electric,11000,
+16-5,Tel/Data Systems,12000,
+16-6,Security & Surveillance,13000,

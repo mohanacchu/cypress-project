@@ -1,0 +1,248 @@
+{
+    "response": {
+      "chat": [
+        {
+          "is_deleted": false,
+          "_id": "5c750598b03ab8000ed66ea8",
+          "text": "create add to scope",
+          "timestamp": "1551172882276",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@Katerra.com",
+          "created_date": 1551173016060
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750736b03ab8000ed66ecc",
+          "text": "updating the modify cco",
+          "timestamp": "1551173428054",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551173430768
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c75074cb03ab8000ed66ece",
+          "text": "updating the modify cco",
+          "timestamp": "1551173428054",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551173452102
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c75074cb03ab8000ed66ecd",
+          "text": "Approval the modify cco",
+          "timestamp": "1551173449394",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551173452102
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750b8fb03ab8000ed66f52",
+          "text": "updating the modify cco",
+          "timestamp": "1551174540607",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551174543855
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750bf9b03ab8000ed66f53",
+          "text": "first approval of add to cco",
+          "timestamp": "1551174646578",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551174649243
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750d39b03ab8000ed66f54",
+          "text": "first approval of add to cco",
+          "timestamp": "1551174967017",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551174969701
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750d9fb03ab8000ed66f55",
+          "text": "first approval of add to cco",
+          "timestamp": "1551175068332",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551175071014
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750de6b03ab8000ed66f56",
+          "text": "first approval of add to cco",
+          "timestamp": "1551175140019",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551175142729
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c750f2db03ab8000ed66f62",
+          "text": "first approval of add to cco",
+          "timestamp": "1551175467159",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551175469790
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c7510eeb03ab8000ed66f65",
+          "text": "first approval of add to cco",
+          "timestamp": "1551175915758",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551175918422
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751228b03ab8000ed66f66",
+          "text": "first approval of add to cco",
+          "timestamp": "1551176230039",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551176232685
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c75129db03ab8000ed66f67",
+          "text": "first approval of add to cco",
+          "timestamp": "1551176346476",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551176349147
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c7512b1b03ab8000ed66f69",
+          "text": "first approval of add to cco",
+          "timestamp": "1551176346476",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551176369864
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c7512b1b03ab8000ed66f68",
+          "text": "Approval the modify cco",
+          "timestamp": "1551176367038",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551176369864
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c7512eeb03ab8000ed66f6a",
+          "text": "first approval of add to cco",
+          "timestamp": "1551176427601",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551176430383
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751b29b03ab8000ed67489",
+          "text": "first approval of add to cco",
+          "timestamp": "1551178534738",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551178537805
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751b3fb03ab8000ed6748b",
+          "text": "first approval of add to cco",
+          "timestamp": "1551178534738",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551178559933
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751b3fb03ab8000ed6748a",
+          "text": "Approval the modify cco",
+          "timestamp": "1551178556898",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551178559933
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751ba0b03ab8000ed6748c",
+          "text": "first approval of add to cco",
+          "timestamp": "1551178653559",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551178656651
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751f8569032d000e8ae1e6",
+          "text": "first approval of add to cco",
+          "timestamp": "1551179650742",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551179653785
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751fbf69032d000e8ae1e8",
+          "text": "first approval of add to cco",
+          "timestamp": "1551179650742",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551179711336
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c751fbf69032d000e8ae1e7",
+          "text": "Approval the modify cco",
+          "timestamp": "1551179707922",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551179711336
+        },
+        {
+          "is_deleted": false,
+          "_id": "5c75206969032d000e8ae50f",
+          "text": "first approval of add to cco",
+          "timestamp": "1551179878523",
+          "user_id": "1",
+          "user_name": "Katerra Admin",
+          "user_email": "admin@katerra.com",
+          "created_date": 1551179881672
+        }
+      ],
+      "feature_id": "5c750597b03ab8000ed66e9d",
+      "feature_type": "change_order"
+    }
+  }

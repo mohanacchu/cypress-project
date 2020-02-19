@@ -1,0 +1,68 @@
+{
+    "project_id": null,
+    "_id": "5d1b25daeff1c1000ed54ccc",
+    "type": "Prime Contract Change Order Modify Scope",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Prime Contract Change Order - Modify Scope created successfully"
+                    ],
+                    "specific_action": "PCCO Modify Scope Created"
+                }
+            ],
+            "created_on": 1562060250993,
+            "action": "Created PCCO Modify Scope"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "#CO - General Requirements, CO Value: $0"
+                    ],
+                    "specific_action": "Added Line Items:"
+                }
+            ],
+            "created_on": 1562222239249,
+            "action": "Change Order Updated"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "#CO - General Requirements, Approved Contract Amount: $0",
+                        "test, Approved Contract Amount: $0",
+                        "#CO - Postage / UPS/FedEx, Approved Contract Amount: $10",
+                        "#CO - Postage / UPS/FedEx, Approved Contract Amount: -$9"
+                    ],
+                    "specific_action": "Approved Line Items:"
+                },
+                {
+                    "specific_action_details": [
+                        "Task Name: Test, Task Type: Approval, Duration:5, Start_Date: 07-02-2019, Due_Date:07-07-2019, Assignee:ABC123"
+                    ],
+                    "specific_action": "Approved Workflow Task:"
+                }
+            ],
+            "created_on": 1562334215564,
+            "action": "Change Order Approved"
+        }
+    ],
+    "__v": 0
+}

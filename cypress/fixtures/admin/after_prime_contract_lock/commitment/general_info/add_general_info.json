@@ -1,0 +1,79 @@
+{
+    "attachments": {
+        "attachments": [
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552043131999,
+                "file_name": "attachment.jpeg",
+                "file_size": 7800,
+                "blob_name": "1552042950081-attachment.jpeg",
+                "file_source": "From Local",
+                "label": "attachment.jpeg",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1552042950081-attachment.jpeg"
+            },
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552043131999,
+                "file_name": "Nature.jpeg",
+                "file_size": 7921,
+                "file_type": "image/jpeg",
+                "blob_name": "_photos_photo_nature.jpeg",
+                "file_source": "albums",
+                "label": "Nature.jpeg",
+                "path": "nature",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/_photos_photo_nature.jpeg"
+            },
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552043131999,
+                "file_name": "Download.jpeg",
+                "file_size": 6920,
+                "file_type": "image/jpeg",
+                "blob_name": "_photos_photo_download.jpeg",
+                "file_source": "albums",
+                "label": "Download.jpeg",
+                "path": "test1",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/_photos_photo_download.jpeg"
+            },
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552043131999,
+                "file_name": "Sample-graphic.jpg",
+                "file_size": 13507,
+                "file_type": "image/jpeg",
+                "blob_name": "_photos_photo_sample-graphic.jpg",
+                "file_source": "albums",
+                "label": "Sample-graphic.jpg",
+                "path": "test2",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/_photos_photo_sample-graphic.jpg"
+            },
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552043131999,
+                "file_name": "1548248273332-1940 - Civil Plans_04-18-2018-Permit131927220026373311_3.pdf",
+                "file_size": 475289,
+                "file_type": "application/pdf",
+                "blob_name": "1551940207876-1548248273332-1940 - Civil Plans_04-18-2018-Permit131927220026373311_3.pdf",
+                "file_source": "drawings",
+                "label": "1548248273332-1940 - Civil Plans_04-18-2018-Permit131927220026373311_3.pdf",
+                "path": "/home/test",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1551940207876-1548248273332-1940 - Civil Plans_04-18-2018-Permit131927220026373311_3.pdf"
+            }
+        ],
+        "_id": "5c824c7d185999000f85d1b9",
+        "feature_id": "5c824c7d185999000f85d1b8",
+        "feature": "general",
+        "date_of_creation": 1552043133392,
+        "download_url": "https://ayogasm.blob.core.windows.net/testcontainer/"
+    }
+}

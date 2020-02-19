@@ -1,0 +1,16 @@
+{
+    "response": {
+        "chat": [{
+            "is_deleted": false,
+            "_id": "5dd68e8f9f46a100102ee784",
+            "text": "edit requisition",
+            "timestamp": "1574342287303",
+            "user_id": "1",
+            "user_name": "Katerra Admin",
+            "user_email": "admin@Katerra.com",
+            "created_date": 1574342287409
+        }],
+        "feature_id": "5d51398633a94f0010c257ab",
+        "feature_type": "pay_app"
+    }
+}

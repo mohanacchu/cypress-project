@@ -1,0 +1,24 @@
+{
+    "_id": "5c6d5758b2f846000fe3107c",
+    "type": "Commitment Change Order Modify Scope",
+    "history": [
+      {
+        "action_by": {
+          "user_id": "1",
+          "name": "Katerra Admin",
+          "email": "admin@Katerra.com"
+        },
+        "details": [
+          {
+            "specific_action_details": [
+              "Commitment Change Order - Modify Scope created successfully"
+            ],
+            "specific_action": "CCO Modify Scope Created"
+          }
+        ],
+        "created_on": 1550669656207,
+        "action": "Created CCO Modify Scope"
+      }
+    ],
+    "__v": 0
+  }

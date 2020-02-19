@@ -1,0 +1,79 @@
+{
+    "distribution_groups": [{
+            "id": "12",
+            "name": "\"Construct DS\""
+        },
+        {
+            "id": "20",
+            "name": "AA-help"
+        },
+        {
+            "id": "21",
+            "name": "ABC help group"
+        },
+        {
+            "id": "18",
+            "name": "Budgeting Team"
+        },
+        {
+            "id": "14",
+            "name": "Construct_QAteam"
+        },
+        {
+            "id": "19",
+            "name": "Dataman Leadership Group"
+        },
+        {
+            "id": "9",
+            "name": "Exp,er & im(e)nt -te$t"
+        },
+        {
+            "id": "13",
+            "name": "Experiment"
+        },
+        {
+            "id": "5",
+            "name": "For Design Approval"
+        },
+        {
+            "id": "15",
+            "name": "QA-billing period"
+        },
+        {
+            "id": "6",
+            "name": "Quality Team"
+        },
+        {
+            "id": "2",
+            "name": "Rest API Automation Group"
+        },
+        {
+            "id": "17",
+            "name": "Safety Group"
+        },
+        {
+            "id": "4",
+            "name": "Safety Team"
+        },
+        {
+            "id": "7",
+            "name": "Sample Project 1 - DL"
+        },
+        {
+            "id": "1",
+            "name": "Test_1"
+        },
+        {
+            "id": "3",
+            "name": "Test_1 Sample"
+        },
+        {
+            "id": "22",
+            "name": "VV-help"
+        },
+        {
+            "id": "23",
+            "name": "W-help"
+        }
+    ]
+}

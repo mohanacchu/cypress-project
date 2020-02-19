@@ -1,0 +1,99 @@
+{
+    "attachments": [
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "207-E Actuals Import CSV.csv",
+            "file_source": "documents",
+            "path": "/home/Budget-Real-API-Automation/Documents",
+            "label": "207-E Actuals Import CSV",
+            "title": "207-E Actuals Import CSV.csv",
+            "aws_blob_name": "stg/project/272/feature/DOCUMENT/4217372746.csv",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/undefined"
+        },
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "file-example_PDF_1MB.pdf",
+            "file_source": "documents",
+            "path": "/home/Budget-Real-API-Automation/Documents",
+            "label": "file-example_PDF_1MB",
+            "title": "file-example_PDF_1MB.pdf",
+            "aws_blob_name": "stg/project/272/feature/DOCUMENT/1735001931.pdf",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/undefined"
+        },
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "Images.png",
+            "file_size": 3798,
+            "file_type": "image/png",
+            "file_source": "albums",
+            "path": "Real_API",
+            "label": "Images.png",
+            "aws_blob_name": "stg/project/272/feature/PHOTO/3640560150.png",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/undefined"
+        },
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "Download (1).jpg",
+            "file_size": 6425,
+            "file_type": "image/jpeg",
+            "file_source": "albums",
+            "path": "Real_API",
+            "label": "Download (1).jpg",
+            "aws_blob_name": "stg/project/272/feature/PHOTO/3861243912.jpg",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/undefined"
+        },
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "drawing_set_0_.pdf",
+            "file_size": 1000,
+            "file_type": "application/pdf",
+            "blob_name": null,
+            "file_source": "drawings",
+            "path": "Drawings Folder",
+            "label": "fact, - make a",
+            "title": "fact, - make a.pdf",
+            "aws_blob_name": "stg/project/272/feature/DRAWING/947633905/SPLIT/947633905_01.pdf",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/null"
+        },
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "downloads.jpg",
+            "file_size": 6425,
+            "file_source": "From Local",
+            "label": "downloads.jpg",
+            "aws_blob_name": "stg/project/272/feature/CCO/5df08bcba077930010569b54/705796013.jpg",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/undefined"
+        },
+        {
+            "is_delete": false,
+            "user_name": "",
+            "email": "",
+            "date_added": 1576046394502,
+            "file_name": "file-example_PDF_500_kB.pdf",
+            "file_source": "documents",
+            "path": "/home/Budget-Real-API-Automation/Documents",
+            "label": "file-example_PDF_500_kB",
+            "title": "file-example_PDF_500_kB.pdf",
+            "aws_blob_name": "stg/project/272/feature/DOCUMENT/2120732791.pdf",
+            "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/undefined"
+        }
+    ]
+}

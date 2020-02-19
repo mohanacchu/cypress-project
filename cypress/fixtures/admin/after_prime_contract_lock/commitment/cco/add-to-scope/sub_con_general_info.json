@@ -1,0 +1,32 @@
+{
+    "line_items": {
+        "created_by": {
+            "user_id": "1",
+            "name": "Katerra Admin",
+            "email": "admin@Katerra.com"
+        },
+        "is_client": false,
+        "number": "1111",
+        "title": "needs",
+        "contractor": "Katerra Inc.",
+        "commitment_id": "5d11bbc83b78ba000effbb27",
+        "status": "",
+        "distribution_list": [],
+        "description": "",
+        "additional_information": null,
+        "created_status": "Final",
+        "_id": "5d1340926d5793000eb4b066",
+        "engineer": [],
+        "private": false,
+        "start_date": null,
+        "actual_completion_date": null,
+        "contract_termination_date": null,
+        "estimated_completion_date": null,
+        "signed_contract_recieved_date": null,
+        "redirect_url": "https://stg.construct.katerra.com/cb/sub-contract/general?project_id=358&company_id=5ca5f72ea6595b000eed9808&commitment_id=5d11bbc83b78ba000effbb27",
+        "company_id": "5ca5f72ea6595b000eed9808",
+        "project_id": "228",
+        "created_time": "2019-06-26T09:53:22.728Z",
+        "__v": 0
+    }
+}

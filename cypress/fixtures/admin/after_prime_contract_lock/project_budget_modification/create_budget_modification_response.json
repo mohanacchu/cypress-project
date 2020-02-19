@@ -1,0 +1,22 @@
+{
+  "result": {
+    "budget_modifications": [{
+      "from_item_id": "1548826934306",
+      "to_item_id": "1548826960493",
+      "change": 3455,
+      "reason": "This is automation testing",
+      "from_item_name": "General Requirements - ABC",
+      "to_item_name": "Existing Conditions"
+    }],
+    "type": "child_to_child",
+    "_id": "5c513a7a62d78b000fa05d05",
+    "project_id": "299735",
+    "created_by": {
+      "email": "admin@katerra.com",
+      "user_id": "1",
+      "name": "Katerra Admin"
+    },
+    "created_on": "2019-01-30T05:47:38.467Z",
+    "__v": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "response": {
+        "chat": [{
+            "is_deleted": false,
+            "_id": "5e1d7c19f1744c000fc136b2",
+            "text": "prime contract",
+            "timestamp": "1578990535535",
+            "user_id": "164",
+            "user_name": "Katerra QA4 Admin [DO NOT MODIFY]",
+            "user_email": "katerra.qa4@gmail.com",
+            "created_date": 1578990617156
+        }],
+        "feature_id": "5e1d7c18f1744c000fc136aa",
+        "feature_type": "change_order"
+    }
+}

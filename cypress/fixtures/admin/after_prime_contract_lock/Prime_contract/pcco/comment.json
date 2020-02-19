@@ -1,0 +1,16 @@
+{
+    "response": {
+        "chat": [{
+            "is_deleted": false,
+            "_id": "5dad63fcd7cbea0010baa6cb",
+            "text": "updating the pcco\n",
+            "timestamp": "1571644409869",
+            "user_id": "1",
+            "user_name": "Katerra Admin",
+            "user_email": "admin@Katerra.com",
+            "created_date": 1571644412271
+        }],
+        "feature_id": "5da5771da6cea60010094b10",
+        "feature_type": "change_order"
+    }
+}

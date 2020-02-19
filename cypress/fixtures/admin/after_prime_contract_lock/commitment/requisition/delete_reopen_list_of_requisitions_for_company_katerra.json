@@ -1,0 +1,30 @@
+{
+  "result": [{
+    "_id": "5c52cdf1c708ec000f3c902c",
+    "invoice_ref_no": "300119",
+    "bill_title": "requisition-2",
+    "billing_period_from": "2019-01-01T00:00:00.000Z",
+    "billing_period_to": "2019-01-02T00:00:00.000Z",
+    "payment_status": "approved",
+    "approver": [{
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    }],
+    "created_at": "2019-01-31T10:29:05.616Z",
+    "payment_received": 0,
+    "revised_contract_amount": 0,
+    "total_retainage_to_date": 5,
+    "total_completed_and_stored_to_date": 10,
+    "requisitions_to_date": 5,
+    "work_completed_this_period": 10,
+    "work_retainage_this_period": 5,
+    "original_contract_amount": 0,
+    "net_approved_cco": 0,
+    "payment_due": 5,
+    "balance_to_finish": -5,
+    "percentage_completed": "-",
+    "can_delete_requisition": true,
+    "is_approval_workflow_started": true
+  }]
+}

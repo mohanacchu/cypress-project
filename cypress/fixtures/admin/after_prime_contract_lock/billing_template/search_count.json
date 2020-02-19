@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "data": {
+        "count": 1,
+        "result": [
+            {
+                "_id": "5d26c63356c170000eaea3bf",
+                "name": "test template test"
+            }
+        ]
+    }
+}

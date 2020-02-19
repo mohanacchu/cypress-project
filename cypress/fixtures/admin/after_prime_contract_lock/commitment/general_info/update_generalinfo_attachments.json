@@ -1,0 +1,53 @@
+{
+    "attachments": {
+        "attachments": [
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552463104833,
+                "file_name": "Images.png",
+                "file_size": 821,
+                "file_type": "image/png",
+                "blob_name": "_photos_photo_images.png",
+                "file_source": "albums",
+                "label": "Images.png",
+                "path": "test2",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/_photos_photo_images.png"
+            },
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552463104833,
+                "file_name": "Download.png",
+                "file_size": 585,
+                "file_type": "image/png",
+                "blob_name": "_photos_photo_download.png",
+                "file_source": "albums",
+                "label": "Download.png",
+                "path": "test2",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/_photos_photo_download.png"
+            },
+            {
+                "is_delete": false,
+                "user_name": "",
+                "email": "",
+                "date_added": 1552463104833,
+                "file_name": "barcode-sample3.pdf",
+                "file_size": 19434,
+                "file_type": "application/pdf",
+                "blob_name": "1552279817155-barcode-sample3.pdf",
+                "file_source": "drawings",
+                "label": "barcode-sample3.pdf",
+                "path": "/home/drawing-3",
+                "azure_blob_url": "https://ayogasm.blob.core.windows.net/testcontainer/1552279817155-barcode-sample3.pdf"
+            }
+        ],
+        "_id": "5c875feb0630d6000e23f9ff",
+        "feature_id": "5c875fea0630d6000e23f9fe",
+        "feature": "general",
+        "date_of_creation": 1552375787169,
+        "download_url": "https://ayogasm.blob.core.windows.net/testcontainer/"
+    }
+}

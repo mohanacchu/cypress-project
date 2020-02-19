@@ -1,0 +1,28 @@
+{
+    "line_items": [{
+        "approval_workflow_id": "5d9350c9fb6f2e0010057363",
+        "approved_on": 1569935690116,
+        "status": "approved",
+        "requested_amount": 3619,
+        "approved_amount": 3619,
+        "approved_co": 0,
+        "pcco_id": null,
+        "pcco_status": null,
+        "_id": "5d9350cafb6f2e0010057367",
+        "project_id": "228",
+        "number": "12345",
+        "title": "new file",
+        "type": "Type 1",
+        "reason": "Material Change",
+        "co_type": "pco_from_scopemaster",
+        "assignee": [{
+            "user_id": "54",
+            "user_name": "ABC123",
+            "email": "123@yahoo.com"
+        }],
+        "due_date": "2019-10-11T00:00:00.000Z",
+        "created_on": 1569935562067,
+        "updated_on": 1569935587143,
+        "is_approval_workflow_started": true
+    }]
+}

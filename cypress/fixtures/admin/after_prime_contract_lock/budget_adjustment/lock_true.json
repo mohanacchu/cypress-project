@@ -1,0 +1,8 @@
+{
+    "is_prime_contract_locked": true,
+    "can_unlock_budget": true,
+    "actuals_history_id": null,
+    "margin_analysis_history_id": null,
+    "has_actauls_created": false,
+    "has_margin_analysis_created": false
+}

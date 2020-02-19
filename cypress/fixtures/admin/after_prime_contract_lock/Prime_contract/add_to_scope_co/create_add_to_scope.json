@@ -1,0 +1,169 @@
+{
+  "created_by": {
+    "user_id": "1",
+    "name": "Katerra Admin"
+  },
+  "distribution_list": [{
+    "user_id": 1,
+    "email": "admin@katerra.com",
+    "name": "Katerra Admin"
+  }, {
+    "user_id": 9,
+    "email": "rajibranjan.nath@katerra.com",
+    "name": "Rajib Official"
+  }],
+  "approval_workflow_id": "5d0772ce9f7acc000f091f40",
+  "workflow_task_id": "5d0772ce9f7acc000f091f42",
+  "description": null,
+  "is_deleted": false,
+  "schedule_impact": true,
+  "no_of_impact_days": 4,
+  "executed": true,
+  "_id": "5d0772ce9f7acc000f091f44",
+  "co_type": "pcco_add_to_scope",
+  "number": "1111",
+  "project_id": "299743",
+  "title": "titles",
+  "type": "Type 1",
+  "reason": "Material Change",
+  "origin": "RFI",
+  "assignee": "Katerra Admin",
+  "due_date": "06-27-2019",
+  "created_on": "2019-06-17T11:00:30.669Z",
+  "updated_on": "2019-06-17T11:00:30.669Z",
+  "created_on_epoch": 1560769230669,
+  "updated_on_epoch": 1560769230669,
+  "status": "pending_approval",
+  "line_items": [{
+    "data": {
+      "description": null,
+      "cost_type": null,
+      "is_leaf": false,
+      "custom_child": false,
+      "status": null,
+      "_id": "5d03356e9f7acc000f090d97",
+      "item_id": "1553166613631168",
+      "item_parent": "0",
+      "name": "Masonry",
+      "cost_code": "040000",
+      "pc_custom_child": true
+    },
+    "children": [{
+      "data": {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "status": "under_approval",
+        "_id": "5d0772ce9f7acc000f091f3d",
+        "name": "#CO - Masonry",
+        "cost_code": "040000",
+        "item_id": "1560769230657",
+        "item_parent": "1553166613631168",
+        "requested_amount": 0,
+        "pc_custom_child": true
+      },
+      "children": []
+    }, {
+      "data": {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": false,
+        "custom_child": false,
+        "status": null,
+        "_id": "5d03356e9f7acc000f090d94",
+        "item_id": "1553166613631170",
+        "item_parent": "1553166613631168",
+        "name": "Brick and Mortar",
+        "cost_code": "042113",
+        "pc_custom_child": true
+      },
+      "children": [{
+        "data": {
+          "description": null,
+          "cost_type": null,
+          "is_leaf": true,
+          "custom_child": false,
+          "status": "under_approval",
+          "_id": "5d0772ce9f7acc000f091f3e",
+          "name": "#CO - Brick and Mortar",
+          "cost_code": "042113",
+          "item_id": "1560769230661",
+          "item_parent": "1553166613631170",
+          "requested_amount": 0,
+          "pc_custom_child": true
+        },
+        "children": []
+      }]
+    }]
+  }, {
+    "data": {
+      "description": null,
+      "cost_type": null,
+      "is_leaf": false,
+      "custom_child": false,
+      "status": null,
+      "_id": "5d03356e9f7acc000f090d9c",
+      "item_id": "1553166613633265",
+      "item_parent": "0",
+      "name": "Finishes",
+      "cost_code": "090000",
+      "pc_custom_child": true
+    },
+    "children": [{
+      "data": {
+        "description": null,
+        "cost_type": null,
+        "is_leaf": true,
+        "custom_child": false,
+        "status": "under_approval",
+        "_id": "5d0772ce9f7acc000f091f3f",
+        "name": "#CO - Finishes",
+        "cost_code": "090000",
+        "item_id": "1560769230663",
+        "item_parent": "1553166613633265",
+        "requested_amount": 999,
+        "pc_custom_child": true
+      },
+      "children": []
+    }]
+  }],
+  "history_id": "5d0772ce9f7acc000f091f43",
+  "__v": 0,
+  "approval_workflow": {
+    "workflow_type": "Sequential",
+    "_id": "5d0772ce9f7acc000f091f40",
+    "workflow_name": "Test",
+    "workflow_tasks": [{
+      "task_status": "under_approval",
+      "approved_line_items": [],
+      "_id": "5d0772ce9f7acc000f091f42",
+      "task_name": "Test",
+      "task_type": "Approval",
+      "duration": 5,
+      "assignee": [{
+        "user_id": "1",
+        "user_name": "Katerra Admin",
+        "email": "admin@katerra.com"
+      }],
+      "start_date": "2019-06-17T00:00:00.000Z",
+      "due_date": "2019-06-22T00:00:00.000Z"
+    }, {
+      "task_status": "under_approval",
+      "approved_line_items": [],
+      "_id": "5d0772ce9f7acc000f091f41",
+      "task_name": "Test1",
+      "task_type": "Review",
+      "duration": 4,
+      "assignee": [{
+        "user_id": "8",
+        "user_name": "Jane Doe",
+        "email": "shobhasri.raghavan@katerra.com"
+      }],
+      "start_date": "2019-06-23T00:00:00.000Z",
+      "due_date": "2019-06-27T00:00:00.000Z"
+    }],
+    "project_id": "299743",
+    "__v": 0
+  }
+}

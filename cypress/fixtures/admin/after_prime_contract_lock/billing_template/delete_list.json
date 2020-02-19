@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "data": {
+        "_id": "5d354a54a6eea7000ef79168",
+        "name": "test-new",
+        "billing_period": [
+            {
+                "access_start_date": "2019-07-16T00:00:00.000Z",
+                "access_end_date": null,
+                "_id": "5d36c910a6eea7000ef79179",
+                "name": "test",
+                "start_date": "2019-07-11T00:00:00.000Z",
+                "end_date": "2019-07-16T00:00:00.000Z"
+            }
+        ]
+    }
+}

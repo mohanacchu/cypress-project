@@ -1,0 +1,467 @@
+[{
+        "template_id": "5c9a0b3a3007b9c34efb1cd9",
+        "workflow_name": "For Client Submission 1",
+        "tasks": [{
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Engineer",
+                "due_date": " 2019-12-01 05:44:43",
+                "Category": "Approval",
+                "Duration": 2
+            },
+            {
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Construct Manager",
+                "due_date": " 2019-11-30 05:44:43",
+                "Category": "Review",
+                "Duration": 1
+            },
+            {
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Project Manager",
+                "due_date": " 2019-12-01 05:44:43",
+                "Category": "Approval",
+                "Duration": 2
+            }
+        ]
+    },
+    {
+        "template_id": "5c9b0e9b3007b9915dfb1cd7",
+        "workflow_name": "R&D Test Workflow Templates",
+        "tasks": [{
+                "TaskName": "R&D Test Quality",
+                "Assigned": 0,
+                "due_date": " 2019-05-16 16:49:57",
+                "Category": "Review",
+                "Duration": 3,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "R&D Test Design",
+                "Assigned": 0,
+                "due_date": " 2019-05-17 16:49:57",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "R&D Test Comment",
+                "Assigned": 0,
+                "due_date": " 2019-05-19 16:49:57",
+                "Category": "For Record",
+                "Duration": 3,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5cda9f1a3007b9f171a1a8b1",
+        "workflow_name": "Test",
+        "tasks": [{
+                "TaskName": "Test",
+                "Assigned": 0,
+                "due_date": " 2019-05-18 16:27:30",
+                "Category": "Approval",
+                "Duration": 5,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Test1",
+                "Assigned": 0,
+                "due_date": " 2019-05-21 16:27:30",
+                "Category": "Review",
+                "Duration": 4,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5ce26f263007b9f23212638b",
+        "workflow_name": "Submital Approval",
+        "tasks": [{
+                "TaskName": "Material Submital",
+                "Assigned": 0,
+                "due_date": " 2019-05-21 14:41:02",
+                "Category": "Review",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Material Submitals",
+                "Assigned": 0,
+                "due_date": " 2019-05-22 14:41:02",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5ce508f73007b9d80e8b4569",
+        "workflow_name": "Test Workflow",
+        "tasks": [{
+                "TaskName": "First Level",
+                "Assigned": 0,
+                "due_date": " 2019-05-22 14:01:51",
+                "Category": "Review",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Second Level",
+                "Assigned": 0,
+                "due_date": " 2019-05-23 14:01:51",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5cf989d43007b9b46b5b820a",
+        "workflow_name": "Obs Flats - RFI Workflow",
+        "tasks": [{
+                "TaskName": "RFI Send",
+                "Assigned": 0,
+                "due_date": " 2019-06-11 03:17:00",
+                "Category": "Review",
+                "Duration": 5,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "RFI Architect for approval",
+                "Assigned": 0,
+                "due_date": " 2019-06-20 03:17:00",
+                "Category": "Approval",
+                "Duration": 10,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "RFI PE - Accept Approval",
+                "Assigned": 0,
+                "due_date": " 2019-06-24 03:17:00",
+                "Category": "Approval",
+                "Duration": 5,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "PM Sign off",
+                "Assigned": 0,
+                "due_date": " 2019-06-25 03:17:00",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5d2477c23007b94b7f7e1e04",
+        "workflow_name": "Package Approval",
+        "tasks": [{
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Level 1",
+                "due_date": " 2020-08-20 09:26:37",
+                "Category": "Review",
+                "Duration": 4
+            },
+            {
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Level 2",
+                "due_date": " 2019-11-30 09:26:37",
+                "Category": "Review",
+                "Duration": 1
+            },
+            {
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Level 3",
+                "due_date": " 2020-08-18 09:26:37",
+                "Category": "Approval",
+                "Duration": 2
+            }
+        ]
+    },
+    {
+        "template_id": "5d28169b3007b9e72c7e1e05",
+        "workflow_name": "MEP Packages approval flow ",
+        "tasks": [{
+                "TaskName": "Level 1 ",
+                "Assigned": 0,
+                "due_date": " 2019-07-12 12:29:32",
+                "Category": "Review",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Level 2",
+                "Assigned": 0,
+                "due_date": " 2019-07-12 12:29:32",
+                "Category": "Approval",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Level 3",
+                "Assigned": 0,
+                "due_date": " 2019-07-12 12:29:32",
+                "Category": "Approval",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5d2ef44c3007b96a6462b31b",
+        "workflow_name": "Concrete Pouring",
+        "tasks": [{
+                "TaskName": "Leveling of Slab Form-work",
+                "Assigned": 0,
+                "due_date": " 2019-07-18 15:41:24",
+                "Category": "Review",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Concrete Pouring Checklist",
+                "Assigned": 0,
+                "due_date": " 2019-07-19 15:41:24",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Cube Casting",
+                "Assigned": 0,
+                "due_date": " 2019-07-20 15:41:24",
+                "Category": "For Record",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5d303be43007b9ea7262b319",
+        "workflow_name": "Approval",
+        "tasks": [{
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Create_Approval",
+                "due_date": " 2019-12-02 10:09:43",
+                "Category": "For Record",
+                "Duration": 3
+            },
+            {
+                "Assigned": 0,
+                "workflow_type": 0,
+                "checklist": null,
+                "TaskName": "Material",
+                "due_date": " 2019-12-03 10:09:43",
+                "Category": "Approval",
+                "Duration": 4
+            }
+        ]
+    },
+    {
+        "template_id": "5d539aa03007b95924c7a0cd",
+        "workflow_name": "test dummy",
+        "tasks": [{
+                "TaskName": "test1",
+                "Assigned": 0,
+                "due_date": " 2019-08-15 10:54:37",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "test2",
+                "Assigned": 0,
+                "due_date": " 2019-08-16 10:54:37",
+                "Category": "Review",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5d53d48d3007b9772ac7a0ce",
+        "workflow_name": "abc-test",
+        "tasks": [{
+                "TaskName": "abc-test1",
+                "Assigned": 0,
+                "due_date": " 2019-08-15 15:00:06",
+                "Category": "Review",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "abc-test2",
+                "Assigned": 0,
+                "due_date": " 2019-08-16 15:00:06",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "abc-test3",
+                "Assigned": 0,
+                "due_date": " 2019-08-17 15:00:06",
+                "Category": "For Record",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5d5a33ff3007b99d628b456b",
+        "workflow_name": "10I",
+        "tasks": [{
+                "TaskName": "101-1",
+                "Assigned": 0,
+                "due_date": " 2019-08-20 11:00:39",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "102-2",
+                "Assigned": 0,
+                "due_date": " 2019-08-20 11:00:39",
+                "Category": "Approval",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "103-3",
+                "Assigned": 0,
+                "due_date": " 2019-08-20 11:00:39",
+                "Category": "Review",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "104-4",
+                "Assigned": 0,
+                "due_date": " 2019-08-20 11:00:39",
+                "Category": "For Record",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5d9597ef3007b9d97d9f5365",
+        "workflow_name": "Test 03102019",
+        "tasks": [{
+                "TaskName": "Task A",
+                "Assigned": 0,
+                "due_date": " 2019-10-03 12:10:47",
+                "Category": "Approval",
+                "Duration": 1,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Task B",
+                "Assigned": 0,
+                "due_date": " 2019-10-02 12:10:47",
+                "Category": "Review",
+                "Duration": 0,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Task C",
+                "Assigned": 0,
+                "due_date": " 2019-10-03 12:10:47",
+                "Category": "For Record",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5da0b4763007b9a61669dabd",
+        "workflow_name": "Standard Submittal Review",
+        "tasks": [{
+                "TaskName": "Engineer Review",
+                "Assigned": 0,
+                "due_date": " 2019-10-17 22:27:26",
+                "Category": "Approval",
+                "Duration": 7,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Architect Review",
+                "Assigned": 0,
+                "due_date": " 2019-10-23 22:27:26",
+                "Category": "Approval",
+                "Duration": 7,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Owner Review",
+                "Assigned": 0,
+                "due_date": " 2019-10-27 22:27:26",
+                "Category": "Approval",
+                "Duration": 5,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    },
+    {
+        "template_id": "5dd4ed5d3007b9b669795d8f",
+        "workflow_name": "New 21",
+        "tasks": [{
+            "TaskName": "Task 1",
+            "Assigned": 0,
+            "due_date": " 2019-11-20 13:08:05",
+            "Category": "Approval",
+            "Duration": 1,
+            "workflow_type": 0,
+            "checklist": null
+        }]
+    }
+]

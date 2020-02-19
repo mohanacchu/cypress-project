@@ -1,0 +1,16 @@
+{
+    "response": {
+        "chat": [{
+            "is_deleted": false,
+            "_id": "5dcd267ef65471000fd37b53",
+            "text": "pco created",
+            "timestamp": "1573725550661",
+            "user_id": "1",
+            "user_name": "Katerra Admin",
+            "user_email": "admin@Katerra.com",
+            "created_date": 1573725822279
+        }],
+        "feature_id": "5dcd267df65471000fd37b47",
+        "feature_type": "change_order"
+    }
+}

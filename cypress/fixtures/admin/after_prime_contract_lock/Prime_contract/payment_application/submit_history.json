@@ -1,0 +1,55 @@
+{
+    "project_id": null,
+    "_id": "5d2f0524c410f3000f3a67b0",
+    "type": "Create Payment Application",
+    "history": [
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Payment Application created successfully"
+                    ],
+                    "specific_action": "Payment Application Created"
+                }
+            ],
+            "created_on": 1563362596975,
+            "action": "Created Payment Application"
+        },
+        {
+            "action_by": {
+                "user_id": "1",
+                "name": "Katerra Admin",
+                "email": "admin@katerra.com"
+            },
+            "details": [
+                {
+                    "specific_action_details": [
+                        "Invoice Ref No.: \"1111\" changed to \"9999\""
+                    ],
+                    "specific_action": "General Infomation Changes:"
+                },
+                {
+                    "specific_action_details": [
+                        "General Conditions - SC1, Bill Amount: $0, Retainage: $0\n                            changed to\n                            Bill Amount: $99, Retainage: $100"
+                    ],
+                    "specific_action": "Updated Line Item:"
+                },
+                {
+                    "specific_action_details": [
+                        "General Conditions - SC2, Bill Amount: $88, Retainage: $10 ",
+                        "Non-Reimbursable - SC1, Bill Amount: $0, Retainage: $0 "
+                    ],
+                    "specific_action": "Added Line Items:"
+                }
+            ],
+            "created_on": 1563365399696,
+            "action": "Payment Application Updated"
+        }
+    ],
+    "__v": 0
+}

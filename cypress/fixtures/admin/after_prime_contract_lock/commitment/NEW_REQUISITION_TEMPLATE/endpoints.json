@@ -1,0 +1,22 @@
+{
+    "success": {
+        "SCHEDULER_FE": "https://stg.construct.katerra.com/cs/",
+        "SCHEDULER_BE": "https://stg.construct.katerra.com/cbs/",
+        "BUDGETING_FE": "https://stg.construct.katerra.com/cb/",
+        "BUDGETING_BE": "https://stg.construct.katerra.com/cbs/",
+        "DASHBOARD_FE": "https://stg.construct.katerra.com/cd/",
+        "CONSTRUCT_DASHBOARD": "https://stg.construct.katerra.com/dashboard/",
+        "DRAWING_FE": "https://stg.construct.katerra.com/cdf/",
+        "DRAWING_BE": "https://stg.construct.katerra.com/cdb/",
+        "FILE_MGMT": "https://stg.construct.katerra.com/cfm/",
+        "MANAGE_BE": "https://stg.construct.katerra.com/cmb/",
+        "MANAGE_FE": "https://stg.construct.katerra.com/cmf/",
+        "CONSTRUCT_NODE_BE": "https://stg.construct.katerra.com/cna/",
+        "ELEMENTS_FE": "https://stg.construct.katerra.com/ceb/",
+        "ELEMENTS_BE": "https://stg.construct.katerra.com/cef/",
+        "MDM_FE": "https://stg.construct.katerra.com/mmf/",
+        "PDF_EXPORT": "https://stg.report.construct.katerra.com",
+        "BULK_DOWNLOAD": "https://stg.downloads.construct.katerra.com/submit",
+        "SPLIT_PDF": "https://stg.construct.katerra.com/specifications/"
+    }
+}

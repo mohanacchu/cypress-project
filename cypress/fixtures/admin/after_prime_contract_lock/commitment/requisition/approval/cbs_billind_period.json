@@ -1,0 +1,44 @@
+{
+    "result": {
+        "billing_period_template_id": null,
+        "billing_period_template_name": null,
+        "billing_period": [{
+                "has_requisitions": true,
+                "access_start_date": "2020-01-08T00:00:00.000Z",
+                "access_end_date": "2020-01-13T00:00:00.000Z",
+                "status": true,
+                "companies": [{
+                    "company_id": "5de748b5da42160010a7ac88",
+                    "company": "Katerra Inc.",
+                    "has_requisitions": true
+                }],
+                "_id": "5e12c18f17e97f001092a5da",
+                "name": "jan-2020",
+                "start_date": "2020-01-08T00:00:00.000Z",
+                "end_date": "2020-01-21T00:00:00.000Z",
+                "history_id": "5e12c18f17e97f001092a5d8",
+                "created_at": "2020-01-06T05:11:43.111Z",
+                "__v": 0
+            },
+            {
+                "has_requisitions": false,
+                "access_start_date": "2020-01-08T00:00:00.000Z",
+                "access_end_date": "2020-01-13T00:00:00.000Z",
+                "status": false,
+                "companies": [{
+                    "company_id": "5de748b5da42160010a7ac88",
+                    "company": "Katerra Inc.",
+                    "has_requisitions": false
+                }],
+                "_id": "5e12c18f17e97f001092a5db",
+                "name": "jan-2019",
+                "start_date": "2020-01-08T00:00:00.000Z",
+                "end_date": "2020-01-21T00:00:00.000Z",
+                "history_id": "5e12c18f17e97f001092a5d9",
+                "created_at": "2020-01-06T05:11:43.111Z",
+                "__v": 0
+            }
+        ],
+        "project_id": "228"
+    }
+}

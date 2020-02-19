@@ -1,0 +1,40 @@
+{
+    "result": {
+        "_id": "5ce542feb6f7e1000eda2264",
+        "project_id": "299743",
+        "company_id": "5ca5f72ea6595b000eed9808",
+        "company": "Katerra Inc.",
+        "commitments": [
+            {
+                "_id":"5cef7691a7618f00114ddb0c",
+                "commitment_name": "Katerra Inc. - 1",
+                "active": false,
+                "is_deleted": false
+            },
+            {
+                "_id": "5ce644fab6f7e1000eda2801",
+                "commitment_name": "Katerra Inc. - 2",
+                "active": false,
+                "is_deleted": false
+            },
+            {
+                "_id": "5cef7784a7618f00114ddb2b",
+                "commitment_name": "Katerra Inc. - 4",
+                "active": true,
+                "is_deleted": false
+            },
+            {
+                "_id": "5cef765ca7618f00114ddb09",
+                "commitment_name": "Katerra Inc. - 5",
+                "active": true,
+                "is_deleted": false
+            },
+            {
+                "_id": "5cef777ca7618f00114ddb29",
+                "commitment_name": "Katerra Inc. - 3",
+                "active": true,
+                "is_deleted": false
+            }
+        ]
+    }
+}

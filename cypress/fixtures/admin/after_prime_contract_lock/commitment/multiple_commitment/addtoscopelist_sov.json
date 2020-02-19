@@ -1,0 +1,76 @@
+{
+    "result": [
+        {
+            "_id": "5cac36b24f5ede000e9306e3",
+            "number": "TEST12",
+            "co_type": "cco_modify_scope",
+            "project_id": "392633",
+            "title": "test123",
+            "reason": "New Phase",
+            "assignee": [
+                {
+                    "user_id": "1",
+                    "user_name": "Katerra Admin",
+                    "email": "admin@katerra.com"
+                }
+            ],
+            "due_date": "04-13-2019",
+            "status": "pending_approval",
+            "company": "Katerra Inc.",
+            "created_on": "2019-04-09T06:07:46.740Z",
+            "updated_on": "2019-04-09T07:32:22.061Z",
+            "difference_amount": 0,
+            "type": "Modify Scope",
+            "can_delete_cco": true,
+            "is_approval_workflow_started": false
+        },
+        {
+            "_id": "5cac404f4f5ede000e930ba5",
+            "number": "00",
+            "co_type": "cco_add_to_scope",
+            "project_id": "392633",
+            "title": "hello",
+            "reason": "Allowance",
+            "assignee": [
+                {
+                    "user_id": "1",
+                    "user_name": "Katerra Admin",
+                    "email": "admin@katerra.com"
+                }
+            ],
+            "due_date": "04-13-2019",
+            "status": "pending_approval",
+            "company": "Katerra Inc.",
+            "created_on": "2019-04-09T06:48:47.048Z",
+            "updated_on": "2019-04-09T06:48:47.048Z",
+            "difference_amount": 0,
+            "type": "Add To Scope",
+            "can_delete_cco": true,
+            "is_approval_workflow_started": false
+        },
+        {
+            "_id": "5cac34484f5ede000e9305e0",
+            "number": "7777",
+            "co_type": "cco_add_to_scope",
+            "project_id": "392633",
+            "title": "test123",
+            "reason": "Material Change",
+            "assignee": [
+                {
+                    "user_id": "1",
+                    "user_name": "Katerra Admin",
+                    "email": "admin@katerra.com"
+                }
+            ],
+            "due_date": "04-13-2019",
+            "status": "pending_approval",
+            "company": "Katerra Inc.",
+            "created_on": "2019-04-09T05:57:28.091Z",
+            "updated_on": "2019-04-09T05:57:28.091Z",
+            "difference_amount": 98,
+            "type": "Add To Scope",
+            "can_delete_cco": true,
+            "is_approval_workflow_started": false
+        }
+    ]
+}

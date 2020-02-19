@@ -1,0 +1,25 @@
+{
+    "result": {
+        "workflow_name": "Submital Approval",
+        "tasks": [
+            {
+                "TaskName": "Material Submital",
+                "Assigned": 0,
+                "due_date": " 2019-05-21 14:41:02",
+                "Category": "Review",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            },
+            {
+                "TaskName": "Material Submitals",
+                "Assigned": 0,
+                "due_date": " 2019-05-22 14:41:02",
+                "Category": "Approval",
+                "Duration": 2,
+                "workflow_type": 0,
+                "checklist": null
+            }
+        ]
+    }
+}

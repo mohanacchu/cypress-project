@@ -1,0 +1,12 @@
+{
+    "budget_configuration": {
+        "cost_type": [
+            "Labour",
+            "Subcontract Labor",
+            "Material",
+            "Equipment",
+            "Overheads",
+            "Consumable"
+        ]
+    }
+}

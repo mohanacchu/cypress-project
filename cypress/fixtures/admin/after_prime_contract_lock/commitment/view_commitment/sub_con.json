@@ -1,0 +1,5019 @@
+{
+  "subcontractors": [{
+    "company": "Pangolin Structural",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AUS Decking Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jorgensen Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cima`s Landscape & Maintenance Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NorCal Pool Productions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bruce Enterprises Parking Area Line Stripping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Capital Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cell Crete Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Home Site Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dero Bike Rack Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Quillin and Grant, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Siteworks LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Brain of Things",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JV Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "D.Ditmore Consulting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Eller Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mandere Construction John",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ThyssenKrupp Elevator Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "R & R Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Oldcastle Precast",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spectrum Coatings",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AAA Cabinets",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Zeck Butler Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Otis Elevator Dave Peckham",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Valley Line Cabinets by Tacoma Fixture Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Valley Construction Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Southern California Geotechnical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pacific Line Cleanup, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Painting Pros",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cottonwood",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ziegler Lumber Company #008",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Power Audio Video, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Data Specialists, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dominion Environmental Consultants, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Infiniti Window Coverings, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Impact II Builds",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Green Team Commercial and Residential Cleaning",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mr. Crane, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wallace and Khul",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Goodfellow Brothers, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Active Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "True North Construction Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Leavitt Capital Companies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Technology Services LLP",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "STF Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Syman, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lakeridge Paving CO LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "White Rock Masonry LLC-201333",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Granite Excavation Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Nishkian",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blue Line Logic",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Howard Barnes Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "B&B Millwork & Doors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Minno+Wasko Architect and Planners",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "F3 & Associates",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GeoPacific Engineering, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sun Valley Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SESI Consulting Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Raftery CRE",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kolbe Windows & Doors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Industrial Systems & Fab",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Redniss & Mead",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HLB Lighting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Minervini Vandermark Architecture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fleet Heating  and Air",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interstate Paving and Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Thrower Designs",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ayoga",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Baja Construction Co. Inc-200120",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kenwood Fence Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interior Specialist Inc.-200556",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "California Pavers, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JD Pasquetti",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blazona Concrete Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Argonaut Constructors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Master`s Fence Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coeur d`Alene Builders Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Great Floors-201956",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "United Stoneworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Poe Asphalt Paving",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Specialized Insulation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cascade Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hytopz",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "LSB Consulting Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cascade Natural Gas Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Orepac",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RLR Demolition Ryan",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Perrenoud Roofing Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AMPAM Parks Mechanical, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Specialty Steel Post-Tensioning Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gilleran Energy Management, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tinco Sheet Metal",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HCI Systems Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Heritage Professional Landscaping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Seneca Structural Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Marco Crane & Rigging",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sound Glass Sales Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Building Specialties Northwest, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "J & J Environmental Construction Corp",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Precision Crane Service, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Waldo Construction Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tig Tech, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Allied Weldery, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Divum Corporate Services Pvt Ltd",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Annadel Property Management",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ground Support",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hilty`s Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Geotek",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Power Plus!",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ferguson Wolseley",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Transpo Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "S&S Paving and Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Linden Comansa America",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "3rd Party Consultants",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Innovative Closet Designs, INC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Desert Companies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rhino Roofing-201731",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Moncreiff Construction, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "IRS Enviromental of WA, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SPI Consulting Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Langan",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KB Welding",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NW Framing & Construction, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "US Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Affordable Washington Backflow Testing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KeyTrak",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Inland Electric Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hiltys",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "All State Utilities",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLM Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Emerald City Eingineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Daniel O. Davis, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tri-State Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Masonry Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Prosiding Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Youngdahl",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Precision Coats & Interiors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Squires Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Moser, Inc.,-200261",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Barton Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jim Johnson Cement",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ADH-Idaho",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "EtiVista Concrete, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Good Buddies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alliant Communications",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Inland Waterproofing-200143",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Carlson Sheet Metal",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Randy Wahl Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Allison Fabrication",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TGC Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Norco Heating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced Construction Southwest, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Safety Respect",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Atlanta 100 Corp.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SE Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Truss Co",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Integrated Structural Concepts",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RSC Engineering, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VCA Structural",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interface Technologies NW INC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Granite Enterprises, Inc.-200433",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bryton Engineering & Grading, INC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tom Rogers Painting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Nevada Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Black Bear Saw Custom Woodworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fleet Heating & Air, Inc -200918",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arc Electric Corp",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Evergreen Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "National Pipeline Contractors-201231",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fulcrum Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hayre McElroy & Associates",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tech Plumbing and Heating Inc.-201350",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Crete Masters",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JMAC Plumbing & Air Conditioning",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "City of Fort Collins",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Concrete Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pacific Foundation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CS Illumination",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Aquatic Design Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Allana Buick & Bers, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sound Waterproofers, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mountain West Polymers, Inc-201850",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Prestige Construction and Development, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Europa Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Shore Lodge Whitetail, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mi Tek",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Simpson & Brown",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Platform Manufacturing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Peoples Associates Structural Engineers, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arterial",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TKM Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mountain Metal Works",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Insulation Northwest",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GE Appliance",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Collier Building Specialties, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Carlile Macy Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Safway Services, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Conservice",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Iron Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Fence Co. WA-200557",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wall Designs LLC-201079",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Redline Ltd",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CAD of Spokane",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Merit Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Double T Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Steel Stud Structures",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Country Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Edge Construction Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Inland Empire Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Addison Construction Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arnet Engineering, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bay Alarm Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hall Mark and Associates",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Connors Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Avanti Windows",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "WC&P",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MP Millwork & Design Inc.-200653",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stonelake Masonry Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BEE Pest Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Diamond Communications, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blacksmith Enterprises, Inc. DBA Stodmeister Iron-201176",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lovotti Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Topnotch Services Inc-201160",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Guido Lumber Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Safeguard Industries",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Morrow Equipment Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cornell Plumbing & Htg. Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Redhawk Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Westside Installers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Optimum Underlayments LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Crystal Window & Door Systems Ltd.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DOWL",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Earth Solutions NW",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Phoenix Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "InSite Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Vrettos Pappas",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Allstate Utility Construction LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Floors on 4th",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AECOM",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Southland Flooring Systems, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ogletree`s, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Toro Engineering Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Waste Management",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Five Star Concrete, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rainman Seamless Rain Gutters-200358",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alliance Flooring Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cross Creek Stone",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VBW Counter-tops and Cabinets",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "J & E Meza Plastering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Irrigation NW",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "J & J Furniture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GD Longwell",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Modern Tile",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Design Source",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Energy Control Inc. - Edgar",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Air Park Signs & Graphics",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mica Peak",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "North Coast Waterproofing Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sound Crete Contractors Inc.-200231",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Empire Painting Co",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CGS Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McClanahan Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "City of Santa Rosa",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BELFOR Environmental Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Olsen Electric Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Compaction And Recycling Equipment, Inc.-200551",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lopez Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coggins Fence and Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "General Engineering Technology",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Marquez Iron Works",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ironton Forge",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rietz Consulting Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "H2 Surveying, LLC. -201072",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Bag Lady",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HD Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VCA Green",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Capaul Stoneworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "M & J Wallcovering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Shilo Automatic Sprinkler Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "M2 Structural",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "American Tradition Homes -201588",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "LRS Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLH US Holding Corp.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Urban Arena",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jet Industries",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Acucraft Fireplaces",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "UCP Temp Staffing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Alpert Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "United Spinal Association",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sunset Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Safeguard US Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dunn Rite Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hudson Bay Insulation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dan Bradley Glass Shop, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Quick SWPPP",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Inland Waterproofing Services LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tradesman International",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "B and B Metalworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Superior Duct Fabrication",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mayfields Hoisting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLM Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ABBACOM, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McKimmy Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MCH Electric, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Regan Roofing-VEN11230",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "New Horizons Tile and Flooring",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tri County Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced Technology Surveying & Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Intermountain West Insulation-VEN11178",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Piersol Construction -VEN10798",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tri States Rebar, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Material Testing & Insp",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Halo Heating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dillabaughs Flooring",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Summit Interiors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Inland Fixture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Carpet One - Dylan",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Puget Sound Steel",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PK Associates, Consulting Structural Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Peabody Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Etco Homes",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ASC Construction Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "California Fire Stop Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TruDoor",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TL Fab",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jensen Consultants, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Safeplay by Design Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Demolition Services, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "El Habillal, Inc DBA (Dukes Landscaping)",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Parker Landscape Development Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Di Franco Inspections",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "America NW Plumbing, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CPL",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Comcast",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VIATechnik LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KSI Architecture and Planning",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Design Environments",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Manor Hardware Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arco Roof",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KrisCo Aquatech Pools & Spas",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hardwoods Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Slate Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Marchetto Higgins Stieve",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McPherson Design Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Premier Landscape & Irrigation LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JD Steel",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ESG Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Maxim Crane Company dba A Div of Maxim Crane Works",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Incompli",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CR Floors Interiors Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Clean Water Living",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JR Bonnett Engineering Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Heritage 1 A1 door",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Villara Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HTA Plumbing & Mechanical, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rex Alvera Plastering, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Riverwood Solutions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rock Placing Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lanz",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Amana",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SCH Builders",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stepstone Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Hardware",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bend Commercial Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ambient Lighting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Patriot Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Acoustics LLC - Bill",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Airtech Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "OK Electric Inc. -VEN10921",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dynamic Concrete Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coastal Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Young Sheet Metal, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ghiloti Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stucco Works, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TopLine Counters",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Petrie & Sons",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alside",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Abadan Reprographics and Imaging",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Professional Pretreat & Termite",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Camtek",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Top Drawer Cabinets",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "H & B Metals",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Raab Enterprises",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Professional Piping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Starman Metal Fabricating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alta Interiors DF, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Emerald City Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KPFF",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MJS Landscap",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fiber Care Baths Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NP Engineering, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Comsec Associates Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rocky Mountain Crane & Equipment Rental, LLC-200231",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Lighting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "D7 Roofing Services, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CadMakers Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Degenkolb",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Premier Holding Company, Inc dba Premier Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Eagle Pools, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Klar Enterprise, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rockin A Electric LLC-201504",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ferguson Concrete Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Farmers Electric Design & Construction, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Emerald Aire",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Atlas Sign Industries",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Runberg Architecture Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bentley Mills",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ironstate Development",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ABCO",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gateway Architectural Products",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dry Utility Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Desionics Pvt Ltd",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Commercial Wallcoverings",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Temp-Air Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fusion Sign & Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Control Solutions Northwest",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Steel Partners",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Labor Ready",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Test Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mitchell Concrete, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Reliable Air Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Antelope Iron, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Paris Equipment Manufacturing Limited",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coast Building Products",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cottonwood Residential",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Diamond Concrete Products",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Frontier Door & Cabinet, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bernardo Wills Architects PC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Henderson Roofing Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AM Hardware",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Avista Utilities",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KC Charles",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Intermountain Material Testing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Specialty Mobile Mix",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pacific Gas & Electric (PG&E)",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Harris Rebar",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Recreation Science",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BMG Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Fence Company Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Superfloors ISI LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TSM, Total Site Maintenance",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lonestar Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Construction Inspector",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Larry Methvin Installations, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hard Rock Concrete, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "F3 & Associates, Inc.-200980",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BWA Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sundance Fire Protection Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gold Star Insulation LP",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Greater Seattle Concrete, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sublime Custom Stone LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Moncrieff Construction Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lakeside Industries, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pamex",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Zayo",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Seagate Structures Ltd",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blue Star Welding",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Contemporary Flooring",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cole Concrete LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Janes Gypsum Floors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lord Aeck Sargent",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lydig",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JDS Acoustics",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Western Landscape-202000",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "High Impact Sign & Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Charles M. Slater Associates, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CBRE Valuation  Advisory Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GTI Testing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Earthbound Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lanz Cabinets",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Great Basin",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Exterior Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Creative Recreation Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Signature Glass and Windows, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "K O UNDERGROUND CONSTRUCTION INC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Champion Concrete Pump Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Valley Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dodge Data & Analytics",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Western Rebar",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Beck Cabinets",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Metals",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Trends",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tri-Valley Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ALSC Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TDL Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AMPCO Contracting, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PMA Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Recreation Republic",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Realty Com Partners",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Landscaping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wall to Wall Builders Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Magnum Companies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Structurlam Products Limited Partnership",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Drilling & Sawing Services, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rampart Enterprises, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "River City Glass-201116",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cool Component HTG & A/C, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Chute Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Contour Engineering LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stoeckert Masonry LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alco Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "EM Precision LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VSS Countertops, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gyptech",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Award Painting Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bristolite Daylighting Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lockton Companies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Terralogic",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Matheus Lumber",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DEI",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BAR Architecture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alta Finish and Stair, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Apex Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Vera Water & Power",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Clearwater Summit -200848",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sherry, Pratt, Van Voorhis",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Testcomm Jerry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Modern Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Leaf Communication Consulting LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sandwood Enterprises, Inc dba Orange County Sandbagger",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Green Space",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hardwood Connection Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Century Survey Inc -200227",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Concrete 911",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JDS Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KONE Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Metro Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Courage Safety Systems LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Reno Green Landscaping-201276",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Selkirk Timberwrights LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Thomas Rengstorf & Associates",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "USNR",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northstar Electric Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "theACCESSpartnership, l.p.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lurre Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spartan Concrete, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "S&DP Inc. dba Servpro Spokane Valley-201556",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Minno Wasko Architects and Planners",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Marion Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "P.C. Richard",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Desman Design Management",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GeoEngineers Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Zipper Geo Associates, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ferriero Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bristlecone Construction Corp",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KP Estimating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Control Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ripley Design, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Nationwide Gutter",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Geocon",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "F3-Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Construction LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "J.B.M. Cleaning Services, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sierra West Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "D&S Painting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest General Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CSI Electrical Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ABC Design (Test Vendor)",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Fence Co. - IDAHO",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Firepower, Inc. -201099",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "F & F Foundations",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Quality Iron, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cycrest Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DCI Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ETCO Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mathis Striping & Snowplowing Inc.-200709",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cameron-Reilly",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TNT Industries",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Apollo Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Planchette LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mayor Construction LLC-VEN109202",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Morris Welding Co, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arena Marble",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Frank Redmond Design Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Krown Construction LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MC Consultants, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Otis Elevator Company-200920",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mitsubishi Electric US, Inc. Elevator/Escalator Division",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "West Coast Paving, Inc.-201996",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Goodthings",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Site Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Terra Underground",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "1st Choice Milllworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Timberline Pools and Spas Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Walton Signage",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Malcom Drilling",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Custom Glass-201590",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Custom Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Macmor Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lowther`s Contracting, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KEA Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sustainable Interiors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Protech Hardwood Floors llc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Carroll Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Western Wood Structures",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Premier Pools & Spas",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "EuroShine Management, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "King Street Capital Management",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Commercial Metals Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Geo Resources LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CO Dept of Health and Environment",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Maser Consulting, PA",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BKW Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arizona Tile",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Morris Welding Co., Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ross Recreation Equipment Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RDR Production Builders, Inc.-201216",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Devincenzi Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blue Streak Reprographics",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Air Design Heating & Air Conditioning",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lane-Aire Manufacturing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "David Evans and Associates, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cutting Edge Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coffman Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JS Perrott",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Madsen Mitchell Evenson & Conrad",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Summit Electric LLC -Todd",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Patriot Fire Protection, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Buchanan Company, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Trecon",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Intertek",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dew Drop Sprinklers & Landscaping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Construct Corps, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Caruso Turley Scott, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Outdoor Dimensions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Final Touch Contracting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MLW Services, LLC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Luque Sweeping Service",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cascade Pest Control",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Maul Foster Alongi",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mueller Nicholls Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Southern Nevada Fire Protection Inc.-VEN10620",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dean Mailing Equipment Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coast Recreation Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cascade Windows",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sherwin Williams",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Central Pre-Mix Concrete Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gold Seal Mechanical Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Form Cove",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Chris Roberts",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Steinco Painting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Overhead Door",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Fence",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Division 7 Metal Works",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AllWest Testing & Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Morris Clark Siding & Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Boudreau Pipeline Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Temp Power Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advantage Construction Supply, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HCI Systems, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Prism Painting, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Endelman & Associates",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ABCO Construction Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "L.A. Studio Nevada",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Vista Interior Products, INC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Courage Risk",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NDI Plumbing Inc-200919",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "UDR",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cool Concrete Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Young`s Old Flooring",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Innovative Structural Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Compass Equipment",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Delcon Termite Pest Control",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kent Crane Inspection Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TRA",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rocky Mountain Prestress",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "LJP Construction Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Smith Fire Systems Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Shapiro Didway Landscape Architect",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Brothers Construction, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "North American Millworks Inc.201948",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TRC Solutions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Thyssen Krupp",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mescher Door Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Treasure Valley General",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dan Bradley Glass Shop, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "FBA Structural Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tacoma Roofing  and Waterproofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ASU Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLM Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "American Blinds & Draperies, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Foothill Fire and Wire",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BMC West LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sign Tech",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "B & L Glass Co",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Central Cal Windows",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced Stormwater Protection, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PRO-Build",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Closets Etc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kingdom Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sloans Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "R & L Landscape",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Palmer Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Select Euro Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Black`s Painting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "C & S Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Don Jordan Energy Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Krueger Sheet Metal",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RainBuster Building Solutions Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Building Resources",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kitchens Now!",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sigma Contracting, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CFA, Inc -200282",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mozingo Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lawrence Roll Up Doors, INC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interwest Consulting Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "New River Masonry-200992",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "B & B Sprinklers Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RE Whitaker Corporation DBA Nevada Chutes-201664",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Level 23 Fab, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McDonough Elevator Sales & Rentals",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Apex Tower Crane Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fulcrum",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Terracon",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "B&B Aircraft Equipment Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Apollo Mechanical Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Portuguese Structural Steel Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Design Plastering Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "City of Hillsboro",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tailored Living",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Knights Flooring, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RGS Construction Technologies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "City of New Rochelle, NY",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rosen Materials",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Table Tap",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Husdon Bay Insulation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Moncrieff",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Infinity Structures",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Geo-Pacific",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLM Labor",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Whirlpool",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sparky Electric Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Luxury Brand Solution Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Yancey Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Delta Specialties, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jackson Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Vortex, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Accurate Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "D&Y Door and Millwork",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alcal Specialty Contracting, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wallace Steel",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TSD Engineering Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Staggs Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Perrenoud Roofing, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Electric City, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Knife River Jim",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "All Surface Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Godfrey Acoustics",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TYKO Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lynch Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fasteners",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "River City Painting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Harris Supply Solutions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tryco Consulting, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DDG Landscape Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dimensional Millwork, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Prime Tech Cabinets Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Inland Asphalt",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interior Form Tops, Inc.,-VEN11341",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Carports of Washington, Inc.-VEN11038",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Storhaug",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AAA Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ProBuild",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "All Wall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AM Landshaper",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Paras Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Division 9 Finishes - Keith",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hurliman Heating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Heritage Floor Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gold Seal Mechanical Inc-VEN10919",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Karcher Interior Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Profound Builders",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Leaf Communica",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Culinary Design Concepts",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Archer Construction Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rhodes Crane & Rigging, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "New Age Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Weinstein Security, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dupree Building Specialties-201511",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Signs For Success, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "OGC, Inc -VEN11423",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McDowell",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GeoEngineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VCA-green",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mutual Materials",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cox Communications - New Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northern Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fields Development Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Partner Engineering and Science, INC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "FM Home Improvement, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bee Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PNW Paving and Dirtwork",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Zesbaugh Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Humphreys Urban Architecture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tradesmen International",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DW Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lennar Multifamily Communities",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "April Philips Design Works, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SWIMS Clean",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "American Plumbing Systems Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Great Western Erectors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BAR Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Heritage One Door and Carpentry, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "LDI Mechanical, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RCI Plumbing and General Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DCS Plastering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "D & M Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Peck & Peck Excavation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Red Built",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sign Pros Incorporated",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Schimmels Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Universal Protection Security Systems, L.P.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Horizon Construction Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bland Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ARK Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Prosource",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bar A Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Steel Structures of America",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Architects Orange",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Phoenix Company (Phoenix Metal Fabrication)-VEN11105",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RealtyCom",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sport Court of Southern California",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spectra Contract Flooring",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Total Site Maintenance Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Commercial Interiors Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Procore",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Guild Craft Builder",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "VIA Architecture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Porrazzo Corporation dba Performance",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alpine Fire Sprinklers, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stone Creek Land Design & Development, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "WPI",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coughlin Porter Lundeen, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Highline-Consulting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "City of Henderson",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Parisi Portfolio",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Otis Elevator Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Torrent Resources Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Matrix New World Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Aeromark Mechanical Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northern Contours",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Encore Electric, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "R.C. Worst Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RCB Urban Renewal c/o PCD Capital",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Butsko Utility Design, Inc NV5",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Frontier Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AAA Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Legacy Partners",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Silicon Valley Demolition",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Warren Welding",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coast Crane Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Renovations",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Iridium Consulting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Miller Pacific Engineering Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TDK",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Weeks Drilling & Pump Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wildcat Metals",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "California Truss Frame",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dayspring Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Closet Guys, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Monster Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Systems Waterproofing, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bruce Heating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Buzz Foote Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DeFreese Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Caruso`s Floors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NW Masonry Rodney",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Prestige Drywall Company-200583",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fredy`s Granite",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "California Fire Stop",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JFK Electrical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Doble Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Todd & Associates, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ski`s Painting Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arizona Restaurant Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Laws & Associates, LLC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "20/20 Plumbing & Heating, Inc.-201206",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Idaho Sash & Door",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Live Clean",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ironstone Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "LDC, Inc. Civil Engineering Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Labor Management",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Addison Pools",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Teufel Landscape Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HAREL CONSTRUCTION SPECIALTIES",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Landmark Properties",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mulhern + Kulp",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Haddad Plumbing and Heating Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "J&J Corp.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gateway Architectural Solutions, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Powers Reinforcing Fabricators LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Waterworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BRP Companies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Knowlton Enterprise KTC/LLC dba NW Surface Solutions-201937",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Xtreme Communications, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lessard Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BFK Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Case Pacific Shoring",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Buckley Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced Surface Innovations",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Energy Systems Design, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Quality Construction Clean Up",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RJP Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Wolff Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mountain F. Enterprises",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "West Coast Precision Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Priority One Cleaning",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "White Cap Construction Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced Radon Technologies, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Regional Plan Center",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Guy Yocom Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Techcon",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "All American Painting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Flattop Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rod Anderson Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "William Scotsman",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Gutter King",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Thornton and Sons Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Project Management Advisors, INC.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fire Protection Specialists, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Brothers Flooring LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jeffrey Trott Industries",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NP Mechanical, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Grayhawk Construction Co Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blood Sweat & Tears LLC [BST]",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pro PAC Interiors, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Modern Glass Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Window Innovations",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fermol, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sacramento Insulation DBA Gale Building Products",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McKee Enterprises LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "A Plus Tree, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Geotechnical Testing & Inspections LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Reno Tahoe Custom Builders",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Geo Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jensen Hughes",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rice Fergus Miller",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Youngdahl Consulting Group, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Keaton Sales",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bohler Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Protec Finishes, LLC-201780",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Trojan Labor",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CI design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "World Fabricators, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "WB Construction Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Strata Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Performance Systems Integration",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Connell Resources Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Phoenix Modular Elevator",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Giacalone Design Services, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Backyard Unlimited",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GeoResources, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fred`s Appliance Incorporated",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Berger PartnerShip",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced  Solutions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Accessibility Code Consulting, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gargoyle Granite & Marble",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "New Evolution",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cadence Rebar Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "S & S Paving & Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Eaton`s Cooper Lighting Business",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Terra Pacific Waste Managment",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Trojan Construction, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Waterfront Pools LLC dba California Pools of Las Vegas-201835",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HCI Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PT Consultants",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GKO Inc, DBA Spokane Glass -202176",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sun Valley Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hawk Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Highline Consulting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Level 23 Fab Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alpine Landscaping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mark Beamish Waterproofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Premier Design Center",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dave Kendrick Construction, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "JLP Landscape Contracting, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DSignArt",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Milgard",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Maudlin Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Foote Concrete Co",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Continental Door Company LLC-201131",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jewell Excavating Matt",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bayline Demolition Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Myers Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stratton Land Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pro Steel",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "United Rentals",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BMT Metal Fab",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pella Windows & Doors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BFC Architectural Metals",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "OMB Electrical Engineers, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sacramento Rebar",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Revive Resurfacing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DMA Greencare Contracting, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Richard+Bauer",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wood Rodgers, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The McCarty Company & SimmCo Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Carpita Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Helix Electric-200566",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Weigl Concrete, LLC.-200923",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Jerry Short Cabinets & Millwork, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advantage Total Protection, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ivy Green Enterprises DBA California Concepts",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RPM Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CG Martinez Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Totem Electric of Tacoma, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Floform Countertops",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Red Hawk",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Poudre Fire Department",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Border States Supply Chain Solutions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bayonne Custom Fence LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Nevada Gypsum Floors Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Earth Services & Abatement (ESA), Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Westcor Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CAPgro",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Powers Lot",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mountain Dog Sign Company -201850",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "TEP Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hirschi Masonry, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tamarack of CDA llc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MM Comfort Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "F3 Surveyer",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLM Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Alanbrooke Construction LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KS Concrete Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Casey Industrial",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Marwood General Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cemex",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BRC Acoustics & Audiovisual Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Barnhartt Crane",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Forte Flooring and More",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kitchen & Associates",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mackin & Little Mechanical",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Premier Paradise, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Protein My Way",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gunning Roofing LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cascade Radon",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SDI Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "EM Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mackin & Little Plumbing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NOR-Coast Utility Design, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advantage Drywall, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "North Coast Waterproofing, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Apache Pools, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sherman-Loehr Custom Tile Works",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Skyline Scaffold, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ace Landscape Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northland Exteriors, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fincham Mobile Storage",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Spokane Rock",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ross Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Poppoff",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arrow Cleaning Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "A+ Masonry Cleaning Sealing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interstate Erectors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Schimmels Excavation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sturm Heating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Smith-Emery International",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rex Moore Electrical Contractors & Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lanz Cabinet Shop Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Consultant",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Marshall Scafolding",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "A-1 Elite Painting Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Evergreen Refrigeration LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cemco Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McKinstry Co LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Star Hardware, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "GTT Fabrication, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "People Ready",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Superior Hardwoods Of Montana",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Strata, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Glumac",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mayfield`s Hoisting Services, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Western Mechanical Contractors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Clearwater Living",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Phillips Gradick Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BH Plastering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Rick Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Collaborative V",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "River City Millwork, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Blake Love Excavation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "35-41 Market Street JV-LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HPLA",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Data-Tel Communications",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PJP Enterprises",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McLaren Engineering Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gerdau",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RGW Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Holland Waterproofing-200946",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PlyGem Windows",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "C & G Scaffolding",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Schindler Elevator Corporation-200268",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Bulldog Paving",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mitsubishi Electric US, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pav-Kote",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dock Pros, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Parcel Pending, Inc. -201281",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Snohomish County Planning and Development Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Eclipse Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lake Forest Interior Design Center",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Arrow Construction Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Super D Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Capitol Landscape Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ripley Design",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sahara Scaffold Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "STL",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DSD of North America",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fiber Care Bath",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Southwest Gas Corporation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Van Praet & Weisgerber",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HPAD",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Affordable Fire & Safety, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Land Group Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AEGIS Fire",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Buffalo Welding Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KONE Elevator",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sundance Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "KLM Civil",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Katerra Architecture, LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Nevada Trimpak Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "HVAC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Karuza Plumbing, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Kenyon Plastering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Silverado Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Recon Survey",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Building Components, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Escent Lighting",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Everett Concrete LLC -200208",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "USA Hoist Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Noise Control-201378",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DEI Electrical Consultants",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Baldwin Signs",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Wayne Dalton Nationserve",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Angler Fencing Pike",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McVay Brothers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Vermillion Homes",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Macon Supply Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Realty Comm",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Joseph Holt Plastering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "W & J Glass dba Green Glass",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Taylor Trim & Supply, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Acoustics Northwest Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Trademark Mechanical Inc.-200562",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Architectural Building Supply",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Puget Sound Energy",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Garry T. Allen & Associates, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lake Flato Architects",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Evergreen Technologies",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "RDH",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gilliardi",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "airportnetwork",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sobrato",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dwell Design Studio",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "American Building Systems LLC-201698",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Performance Systems Integration LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Fire & Safety Systems, Co.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mountain States Contracting, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ASU, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mustang Ridge",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Esposito Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pacific Wall Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "The Original Roofing Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Skyview Concrete",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Emerald City Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sprayfoam Southwest Roofing Southwest",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Interior-tech",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "NA Millworks",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Mission Pools of Escondido",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MJS Landscape Architecture",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "City of Spokane Valley",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Overhead Door Company of Spokane/CDA",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "De-el Enterprises",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sitescapes, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Seattle Art & Industrial",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Private Label International",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Finish Carpentry Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Northwest Handling Systems",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Discovery Land Builders",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CP Fisher and the Mud Slingers, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Slater Hanifan Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stantec",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Integrity Concrete LLC-201407",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "West Coast Glazing Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sunrise Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Johnson Controls Fire Protection LP",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "E-M Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Desert Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ken Leahy Construction,  Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sant-tec Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Harrison Hamnett P.C. Consulting Structural Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Connell Resources, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ed`s Refrigeration - Heating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "B&R Construction Services",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "California Pools",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Korret Estimating",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PES Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Saber Real Estate Advisors",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "McKinstry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Hirschy Masonry",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Peterson Contractors Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Consolidated Engineering Laboratories",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Valley Carports",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Western States Fire Protection",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Shannon Masonry Construction, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "International Art Properties",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "DeSilva Gates Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "None",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Dieter Construction LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Advanced Fire Systems, Inc.-VEN11127",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Get a Grip Resurfacing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "International Builders Concrete LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Drywall Specialties Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Tower Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lifeline Safety Products",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MW Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SignPro",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Specialty Insulation",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Stout & Burg Electric, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Pro-Wide Drywall",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Washington Green Hydroseeding, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Budinger and Associates, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Gamache Landscaping",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "A.M. Stephens Construction Co, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BEST Access Solutions, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "AMPCOContracting, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "F and P Construction Co., Inc-200506",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ark Commercial Roofing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cadmakers, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Lydig Construction Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cali Bamboo",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Elements of Design Contracting LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Titan Earthwork LLC",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Cannon Construction Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Coastal Maintenance Company",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Orca Pacific Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Steel Partners-201812",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "CenturyLink",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Unity Electric",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "ARH & Associates, Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "PC Plumbing Inc.",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Sierra Framing",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Ferguson Glass Works",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "MPP Engineers",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Land Expressions",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Platform Manufacturing Group",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "All American Waterproofing & Spray, Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "D&P Construction",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Reax Engineering",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "BKF",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "SRP Utilities",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }, {
+    "company": "Commercial Glass Inc",
+    "is_cc_locked": false,
+    "is_lineitem_assigned": false
+  }]
+}

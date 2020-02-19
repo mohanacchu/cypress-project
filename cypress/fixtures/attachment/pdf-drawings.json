@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "data": {
+        "count": 1,
+        "list": [
+            {
+                "doctype": "drawing_file",
+                "project_id": 615,
+                "drawing_no": "1",
+                "set_folder": "5d5ba2847049b90011691c81",
+                "drawing_set": "5d5bc8ff7049b90011691c82",
+                "title": "PDF",
+                "version_no": 1,
+                "path": "Test",
+                "issue_date": 1566259200,
+                "drawing_status": "Processed",
+                "blob_name": null,
+                "s3_blob_name": "stg/project/615/feature/DRAWING/94369837.pdf",
+                "thumbnail_blob": "stg/project/615/feature/DRAWING/thumbnails/94369837.png",
+                "filename": "dummy_0_.pdf",
+                "filesize": "12802",
+                "file_type": "application/pdf",
+                "date_added": 1566296587,
+                "user_id": "1",
+                "delete": 0,
+                "leaf_node": true,
+                "revision": "",
+                "s3": true,
+                "file_url": "https://construct-staging.s3.amazonaws.com/stg/project/615/feature/DRAWING/94369837.pdf?AWSAccessKeyId=AKIAS4XPLDF5KLPQDW4Q&Expires=1566368146&Signature=pii830DW0lhv%2BF2unbddOZO3eF0%3D",
+                "thumbnail_url": "https://construct-staging.s3.amazonaws.com/stg/project/615/feature/DRAWING/thumbnails/94369837.png?AWSAccessKeyId=AKIAS4XPLDF5KLPQDW4Q&Expires=1566368146&Signature=17l1Eh52RISPgmoe7w1KUTzYiks%3D",
+                "user_name": "Katerra Admin",
+                "set_folder_name": "test",
+                "no_of_annotations": 0,
+                "current_drawing_id": "5d5bca0b7049b90011691c85"
+            }
+        ]
+    }
+}

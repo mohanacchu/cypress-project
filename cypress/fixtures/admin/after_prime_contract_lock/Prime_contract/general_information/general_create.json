@@ -1,0 +1,52 @@
+{
+  "line_items": {
+    "created_by": {
+      "user_id": "1",
+      "name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    },
+    "is_client": true,
+    "number": "999",
+    "title": "prime create",
+    "client": "Katerra Inc.",
+    "status": "Out for bid",
+    "distribution_list": [{
+      "user_id": 1,
+      "email": "admin@katerra.com",
+      "name": "Katerra Admin"
+    }, {
+      "user_id": 8,
+      "email": "shobhasri.raghavan@katerra.com",
+      "name": "Jane Doe"
+    }],
+    "description": "<p>mock data</p>\n",
+    "additional_information": null,
+    "created_status": "Final",
+    "_id": "5cfdf1d39f7acc000f08d0b5",
+    "engineer": [{
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    }],
+    "private": false,
+    "start_date": "2019-06-12T00:00:00.000Z",
+    "actual_completion_date": "2019-06-12T00:00:00.000Z",
+    "contract_termination_date": "2019-06-19T00:00:00.000Z",
+    "estimated_completion_date": "2019-06-12T00:00:00.000Z",
+    "signed_contract_recieved_date": "2019-06-14T00:00:00.000Z",
+    "redirect_url": "https://stg.construct.katerra.com/cb/primecontract/general?project_id=299743",
+    "company_id": "5ca5f72ea6595b000eed9808",
+    "project_id": "299743",
+    "created_time": "2019-06-10T05:59:47.031Z",
+    "__v": 0,
+    "contract_amount": 676462,
+    "approved_change_order": 0,
+    "revised_contract_amount": 676462,
+    "billed_to_date": 0,
+    "approved_to_date": 0,
+    "payment_made": 0,
+    "outstanding_amount": 0,
+    "pending_change_orders": 0,
+    "pending_revised_contract_amount": 676462
+  }
+}

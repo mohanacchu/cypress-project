@@ -1,0 +1,24 @@
+{
+  "result": [{
+    "_id": "5cda8fc5ce24cd000f2fe8d4",
+    "number": "add-1",
+    "co_type": "cco_add_to_scope",
+    "project_id": "299743",
+    "title": "sov",
+    "reason": "Allowance",
+    "assignee": [{
+      "user_id": "1",
+      "user_name": "Katerra Admin",
+      "email": "admin@katerra.com"
+    }],
+    "due_date": "05-17-2019",
+    "status": "pending_approval",
+    "company": "tesT",
+    "created_on": "2019-05-14T09:52:05.138Z",
+    "updated_on": "2019-05-14T09:52:05.138Z",
+    "difference_amount": 2420,
+    "type": "Add To Scope",
+    "can_delete_cco": true,
+    "is_approval_workflow_started": false
+  }]
+}

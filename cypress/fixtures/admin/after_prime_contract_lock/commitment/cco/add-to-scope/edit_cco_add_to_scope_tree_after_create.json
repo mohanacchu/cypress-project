@@ -1,0 +1,208 @@
+{
+    "line_items": [
+      {
+        "data": {
+          "_id": "5c987c3f5f1aed000f8cbf9b",
+          "cost_type": null,
+          "item_id": "15504692782511",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Procurement and Contracting Requirements",
+          "cost_code": "000000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c987c3f5f1aed000f8cbfa4",
+              "cost_type": null,
+              "item_id": "155046927825633",
+              "item_parent": "15504692782511",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Available Project Information",
+              "cost_code": "003100"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c987c3f5f1aed000f8cbfa5",
+                  "item_id": "1553497151175",
+                  "item_parent": "155046927825633",
+                  "name": "Available Project Information",
+                  "cost_code": "003100",
+                  "cost_type": null,
+                  "revised_contract_amount": 0,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "is_subcon_node": true
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c99e2e992f361000f1a15d8",
+                      "item_parent": "1553497151175",
+                      "item_id": "5c99e2e992f361000f1a15d8",
+                      "name": "Available Project Information",
+                      "cost_code": "003100",
+                      "revised_contract_amount": 0,
+                      "req_quantity": 1,
+                      "req_rate": 0,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "_id": "5c987c3f5f1aed000f8cbfb0",
+              "cost_type": null,
+              "item_id": "1550469278258167",
+              "item_parent": "15504692782511",
+              "is_leaf": false,
+              "custom_child": false,
+              "name": "Closeout Forms",
+              "cost_code": "006500"
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c987c3f5f1aed000f8cbfb1",
+                  "item_id": "1553497151323",
+                  "item_parent": "1550469278258167",
+                  "name": "Closeout Forms",
+                  "cost_code": "006500",
+                  "cost_type": null,
+                  "revised_contract_amount": 0,
+                  "is_leaf": false,
+                  "custom_child": false,
+                  "is_subcon_node": true
+                },
+                "children": [
+                  {
+                    "data": {
+                      "description": null,
+                      "cost_type": null,
+                      "is_leaf": true,
+                      "custom_child": true,
+                      "difference": 0,
+                      "status": null,
+                      "_id": "5c99e2e992f361000f1a15d9",
+                      "item_parent": "1553497151323",
+                      "item_id": "5c99e2e992f361000f1a15d9",
+                      "name": "Closeout Forms",
+                      "cost_code": "006500",
+                      "revised_contract_amount": 0,
+                      "req_quantity": 1,
+                      "req_rate": 0,
+                      "default_child": true
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "_id": "5c987c465f1aed000f8cc1f1",
+          "cost_type": null,
+          "item_id": "15504692783143841",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Communications",
+          "cost_code": "270000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c987c465f1aed000f8cc1f2",
+              "item_id": "1553497158995",
+              "item_parent": "15504692783143841",
+              "name": "Communications",
+              "cost_code": "270000",
+              "cost_type": null,
+              "revised_contract_amount": 5039,
+              "is_leaf": false,
+              "custom_child": false,
+              "is_subcon_node": true
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c9b5e61294479000e45b56d",
+                  "item_id": "5c9b5e61294479000e45b56d",
+                  "item_parent": "1553497158995",
+                  "name": "Communications",
+                  "cost_code": "270000",
+                  "cost_type": null,
+                  "revised_contract_amount": 0,
+                  "is_leaf": true,
+                  "custom_child": true,
+                  "default_child": true
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "_id": "5c987c475f1aed000f8cc1f7",
+          "cost_type": null,
+          "item_id": "15504692783153982",
+          "item_parent": "0",
+          "is_leaf": false,
+          "custom_child": false,
+          "name": "Electronic Safety and Security",
+          "cost_code": "280000"
+        },
+        "children": [
+          {
+            "data": {
+              "_id": "5c987c475f1aed000f8cc1f8",
+              "item_id": "1553497159064",
+              "item_parent": "15504692783153982",
+              "name": "Electronic Safety & Security",
+              "cost_code": "280000",
+              "cost_type": null,
+              "revised_contract_amount": 8754,
+              "is_leaf": false,
+              "custom_child": false,
+              "is_subcon_node": true
+            },
+            "children": [
+              {
+                "data": {
+                  "_id": "5c9b5e61294479000e45b56c",
+                  "item_id": "5c9b5e61294479000e45b56c",
+                  "item_parent": "1553497159064",
+                  "name": "Electronic Safety & Security",
+                  "cost_code": "280000",
+                  "cost_type": null,
+                  "revised_contract_amount": 0,
+                  "is_leaf": true,
+                  "custom_child": true,
+                  "default_child": true
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
